@@ -1,0 +1,165 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[Adobe 2017]{Adobe}
+\abntrefinfo{Adobe}{ADOBE}{2017}
+{ADOBE. {Adobe PhoneGap}.
+2017.
+Dispon{\'\i}vel em: $<$https://phonegap.com/$>$.}
+
+\bibitem[Apache 2017]{Apache}
+\abntrefinfo{Apache}{APACHE}{2017}
+{APACHE. {Apache Cordova}.
+2017.
+Dispon{\'\i}vel em: $<$https://cordova.apache.org/$>$.}
+
+\bibitem[Apportable 2017]{Apportable}
+\abntrefinfo{Apportable}{APPORTABLE}{2017}
+{APPORTABLE. \textbf{{Apportable}}. 2017.
+Dispon{\'\i}vel em: $<$http://www.apportable.com/$>$.}
+
+\bibitem[Beizer 1990]{beizer1990software11}
+\abntrefinfo{Beizer}{BEIZER}{1990}
+{BEIZER, B. Software testing techniques.
+Van Nostrand Reinhold Co., 1990.}
+
+\bibitem[Boushehrinejadmoradi et al. 2015]{7372032}
+\abntrefinfo{Boushehrinejadmoradi et al.}{BOUSHEHRINEJADMORADI et al.}{2015}
+{BOUSHEHRINEJADMORADI, N. et al. Testing cross-platform mobile app development
+  frameworks (t). In:  \textbf{2015 30th IEEE/ACM International Conference on
+  Automated Software Engineering (ASE)}. [S.l.: s.n.], 2015. p. 441--451.}
+
+\bibitem[C{\#} 2017]{CSharp2017}
+\abntrefinfo{C{\#}}{C{\#}}{2017}
+{C{\#}. {Microsoft C{\#}}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/$>$.}
+
+\bibitem[Chantelle 2017]{Chantelle2017}
+\abntrefinfo{Chantelle}{CHANTELLE}{2017}
+{CHANTELLE. \textbf{{App Stores Start to Mature - 2016 Year in Review}}. 2017.
+Dispon{\'\i}vel em:
+  $<$http://blog.appfigures.com/app-stores-start-to-mature-2016-year-in-review/$>$.}
+
+\bibitem[CSS3 2017]{CSS3}
+\abntrefinfo{CSS3}{CSS3}{2017}
+{CSS3. \textbf{{W3C Cascading Style Sheet}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.w3.org/Style/CSS/Overview.en.html$>$.}
+
+\bibitem[ECMA 2017]{ECMA}
+\abntrefinfo{ECMA}{ECMA}{2017}
+{ECMA. \textbf{{ECMA International}}. 2017.
+Dispon{\'\i}vel em: $<$http://www.ecma-international.org/$>$.}
+
+\bibitem[Facebook 2017]{Facebook}
+\abntrefinfo{Facebook}{FACEBOOK}{2017}
+{FACEBOOK. \textbf{{Facebook React Native}}. 2017.
+Dispon{\'\i}vel em: $<$https://facebook.github.io/react-native/$>$.}
+
+\bibitem[HTML5 2017]{HTML5}
+\abntrefinfo{HTML5}{HTML5}{2017}
+{HTML5. \textbf{{W3C HyperText Markup Language}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.w3.org/html/$>$.}
+
+\bibitem[IBM 2017]{IBM}
+\abntrefinfo{IBM}{IBM}{2017}
+{IBM. \textbf{{IBM Mobile First}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.ibm.com/mobilefirst/br/pt/$>$.}
+
+\bibitem[IDC 2017]{IDC2017}
+\abntrefinfo{IDC}{IDC}{2017}
+{IDC, I. D.~C. \textbf{{Smartphone OS Market Share, 2017 Q1}}. 2017.
+Dispon{\'\i}vel em:
+  $<$https://www.idc.com/promo/smartphone-market-share/os$>$.}
+
+\bibitem[IONIC 2017]{IONIC}
+\abntrefinfo{IONIC}{IONIC}{2017}
+{IONIC. {IONIC}.
+2017.
+Dispon{\'\i}vel em: $<$https://ionicframework.com/$>$.}
+
+\bibitem[Maldonado et al. 2004]{Maldonado2004}
+\abntrefinfo{Maldonado et al.}{MALDONADO et al.}{2004}
+{MALDONADO, J.~C. et al. {Introdu{\c{c}}{\~{a}}o ao Teste de Software}.
+p. 1--49, 2004.
+Dispon{\'\i}vel em:
+  $<$http://www.labes.icmc.usp.br/site/sites/default/files/NotaDidatica65.pdf$>$.}
+
+\bibitem[Maldonado et al. 1991]{maldonado1991criterios4}
+\abntrefinfo{Maldonado et al.}{MALDONADO et al.}{1991}
+{MALDONADO, J.~C. et al. Crit{\'e}rios potenciais usos: Uma
+  contribui{\c{c}}{\~a}o ao teste estrutural de software.
+\textbf{(Publica{\c{c}}{\~a}o FEE)}, [sn], 1991.}
+
+\bibitem[Microsoft 2017]{Microsoft2017}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017}
+{MICROSOFT. {Microsoft}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://www.microsoft.com/pt-br?SilentAuth=1{\&}wa=wsignin1.0$>$.}
+
+\bibitem[Mono 2017]{Mono2017}
+\abntrefinfo{Mono}{MONO}{2017}
+{MONO. {Mono}.
+2017.
+Dispon{\'\i}vel em: $<$http://www.mono-project.com/$>$.}
+
+\bibitem[MyAppConverter 2017]{MyAppConverter}
+\abntrefinfo{MyAppConverter}{MYAPPCONVERTER}{2017}
+{MYAPPCONVERTER. \textbf{{MyAppConverter}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.myappconverter.com/$>$.}
+
+\bibitem[Myers 1979]{myers197977ie10}
+\abntrefinfo{Myers}{MYERS}{1979}
+{MYERS, G.~J. \textbf{77ie Art of Software Testing}. [S.l.]: New York: John
+  Wiley and Sons, 1979.}
+
+\bibitem[.NetFramework 2017]{.NetFramework2017}
+\abntrefinfo{.NetFramework}{.NETFRAMEWORK}{2017}
+{.NETFRAMEWORK. {.Net Framework}.
+2017.
+Dispon{\'\i}vel em: $<$https://www.microsoft.com/net/$>$.}
+
+\bibitem[Pressman 2009]{Pressman20093}
+\abntrefinfo{Pressman}{PRESSMAN}{2009}
+{PRESSMAN, R.~S. \textbf{{Software Engineering A Practitioner's Approach 7th Ed
+  - Roger S. Pressman}}. [s.n.], 2009. 0~p.
+ISSN 1098-6596.
+ISBN 978-0-07-337597-7. Dispon{\'\i}vel em:
+  $<$http://dinus.ac.id/repository/docs/ajar/RPL-7th{\_}ed{\_}software{\_}engineering{\_}a{\_}practitioners{\_}approach{\_}by{\_}roger{\_}s.{\_}pressman{\_}.pdf$>$.}
+
+\bibitem[Xamarin 2017]{Xamarin}
+\abntrefinfo{Xamarin}{XAMARIN}{2017}
+{XAMARIN. \textbf{{Xamarin}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.xamarin.com/$>$.}
+
+\bibitem[Xamarin.Android 2017]{Xamarin.Android2017}
+\abntrefinfo{Xamarin.Android}{XAMARIN.ANDROID}{2017}
+{XAMARIN.ANDROID. {Xamarin.Android}.
+2017.
+Dispon{\'\i}vel em: $<$https://developer.xamarin.com/guides/android/$>$.}
+
+\bibitem[Xamarin.Forms 2017]{Xamarin.Forms2017}
+\abntrefinfo{Xamarin.Forms}{XAMARIN.FORMS}{2017}
+{XAMARIN.FORMS. {Xamarin.Forms}.
+2017.
+Dispon{\'\i}vel em: $<$https://developer.xamarin.com/guides/xamarin-forms/$>$.}
+
+\bibitem[Xamarin.iOS 2017]{Xamarin.iOS2017}
+\abntrefinfo{Xamarin.iOS}{XAMARIN.IOS}{2017}
+{XAMARIN.IOS. \textbf{{Xamarin.iOS}}. 2017.
+Dispon{\'\i}vel em: $<$https://developer.xamarin.com/guides/ios/$>$.}
+
+\bibitem[XAML 2017]{XAML2017}
+\abntrefinfo{XAML}{XAML}{2017}
+{XAML. {Xamarin XAML}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/$>$.}
+
+\end{thebibliography}

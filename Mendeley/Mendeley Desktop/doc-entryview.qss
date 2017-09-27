@@ -1,0 +1,53 @@
+/* Qt StyleSheet for elements inside the main EntryView based documents view. */
+
+/* Header *********************************/
+QHeaderView::section {
+	color: black; /* without this, rest of rule is ignored */
+	font-family: "Segoe UI,Helvetica,Ubuntu";
+	font-size: 9pt;
+	padding: 3px 6px 3px 6px;
+} 
+
+/* Mac specific */
+QHeaderView[system="mac"]::section {
+	font-size: 11pt;
+	padding: 1px 6px 1px 6px;
+}
+
+/****** Table ******************************/
+QTableView {
+	font-family: "Helvetica,Ubuntu";
+	font-size: 8pt;
+	
+	outline: 0; /* no outline around selected cells */
+	background-color: white;
+	alternate-background-color: white;
+	/*selection-background-color: blue; /* in QTableView::item:selected instead */
+	/*text-align: left top; /* does not work */
+}
+
+/* Mac specific */
+QTableView[system="mac"] {
+	border: none;
+	font-size: 12pt;
+}
+
+QTableView::item {
+	color: black;
+	background-color: white;
+	
+	padding: 2px 2px 2px 2px;
+	margin: 0px;
+	
+	border-color: #e2e2e2;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+}
+
+QTableView::item:hover {
+	background: #f8f8f8;
+}
+
+QTableView::item:selected {
+	background: #e2e2e2;
+}

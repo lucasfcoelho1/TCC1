@@ -1,0 +1,8 @@
+# Names which appear (usually in lower case) in the middle
+# of other names
+de
+den
+der
+los
+van
+von

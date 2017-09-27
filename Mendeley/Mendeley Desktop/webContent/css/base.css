@@ -1,0 +1,302 @@
+/*
+
+=== Class explanations ===
+
+.overflow-hidden 	- Applied to the HTML tag on pages that are centered, or have the iOS style sticky headings.
+.linen 				- Apply the dark, iOS style linen background to an element.
+.linen.light		- Lighter background used for lists where no text is displayed on the linen itself.
+.no-select 			- Disables text-selection on an element
+.no-drag 			- Disables dragging on an element such as a button or an image.
+
+*/
+
+html {
+	font-family: "Lucida Grande", "Segoe UI", "Ubuntu";
+}
+
+html.overflow-hidden {
+	height: 100%;
+	overflow: hidden;
+}
+
+a {
+	color: #fff;
+	-webkit-user-drag: none;
+}
+
+.white a {
+	color: #216EC4;
+}
+
+a:focus {
+	outline: none;
+	border-bottom: 1px dashed #fff;
+}
+
+.no-select {
+	-webkit-user-select: none;
+	cursor: default;
+}
+
+.no-drag {
+	-webkit-user-drag: none;
+}
+
+body {
+	font-family: "Lucida Grande", "Segoe UI", "Ubuntu", Arial;
+	padding: 0;
+	margin: 0;
+}
+
+.white {
+	background: #fff;
+	color: #333;
+}
+
+.linen .top-shadow {
+	background: -webkit-linear-gradient(top, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 8px), -webkit-linear-gradient(top, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 50%);
+}
+
+.linen {
+	background-position: 0 0;
+	background-color: #868d99;
+	background-image: url(../images/translucent-linen.png);
+	background-repeat: repeat;
+}
+
+.light {
+	background-color: #b0b7bd;
+}
+
+html.overflow-hidden body {
+	height: 100%;
+}
+
+h1.title {
+	-webkit-box-sizing: border-box;
+	margin: 0;
+	width: 100%;
+	background-attachment: fixed;
+	font-family: inherit;
+	font-size: 24px;
+	font-weight: normal;
+	color: #fff;
+	text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.4);
+	text-align: center;
+	padding: 0.8em 2em 0.7em 2em;
+	z-index: 19;
+	orphans: 2;
+}
+
+h1.success {
+	-webkit-box-sizing: border-box;
+	font-weight: 300;
+	margin: 0;
+	width: 100%;
+	background: #57b62a;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#63c037), color-stop(100%,#4aac1b));
+	font-family: inherit;
+	font-size: 13px;
+	color: #fff;
+	text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.3);
+	text-align: center;
+	padding: 1em 2em 1em 2em;
+	z-index: 19;
+	orphans: 2;
+}
+
+.label {
+	color: #b2b2b2;
+	overflow: visible;
+	font-size: 13px;
+	padding: 1em 1.5em 0 1.5em;
+	border-bottom: 1px solid #ececec;
+	height: 0.7em;
+}
+
+.label span {
+	background: #fff;
+	display: block;
+	float: left;
+	white-space: nowrap;
+	padding: 0 0.5em;
+}
+
+ol {
+	font-size: 16px;
+	font-weight: 300;
+	padding: 0;
+	margin: 0.5em 0 0 0;
+}
+
+ol p {
+	margin: 0 0 2em 0;
+	font-size: 11px;
+	font-weight: 300;
+	color: #444;
+}
+
+.disclaimer-summary {
+	padding: 0;
+	margin: 0;
+	border-collapse: collapse;
+	border: 1px solid #d1d1d1;
+	font-size: 12px;
+	border-radius: 4px;
+	list-style-type: none;
+}
+
+.disclaimer-summary li {
+	margin: 0;
+	border-top: 1px solid #d1d1d1;
+	padding: 10px;
+}
+
+.disclaimer-summary li:first-child {
+	border-top: 0 none;
+}
+
+
+.left-fade {
+	margin-left: -24px;
+}
+
+
+h2 {
+	margin: 0 0 0.5em 0;
+	font-size: 16px;
+	font-weight: 300;
+	orphans: 2;
+}
+ 
+ .inner {
+	 padding: 1em;
+ }
+ 
+ .inner.steps {
+	 padding: 1em 3em;
+ }
+ 
+.centered-wrapper {
+	margin: 0;
+	padding: 0;
+	display: table;
+	width: 100%;
+	height: 100%;
+	background-attachment: fixed;
+}
+
+.centered-wrapper .inner {
+	display: table-row;
+	padding: 0;
+}
+
+.centered-wrapper .cell {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.centered-wrapper p {
+	color: #fff;
+	width: 335px;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 12px;
+	font-family: "Lucida Grande", "Segoe UI", "Ubuntu", Arial;
+	text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.4);
+	text-align: center;
+	orphans: 2;
+}
+
+.centered-wrapper .options {
+	-webkit-box-sizing: border-box;
+	width: 335px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1em 2em;
+}
+
+a.button {
+	position: relative;
+	font-size: 12px;
+	color: #666666;
+	display: inline-block;
+	padding: 0.6em 0.8em;
+	margin: 0.3em 0.3em;
+	border: 0 none;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#E9E9E9));
+	text-shadow: 0 1px 0px rgba(255, 255, 255, 1);
+	-webkit-box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.2), 0 2px 1px rgba(0, 0, 0, 0.2), inset -1px -1px 0px rgba(255, 255, 255, 1), inset 1px -1px 0px rgba(255, 255, 255, 1);
+	font-weight: 500;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 3px;
+	z-index: 10;
+	background-position: 50% 50%;
+	cursor: default;
+	width: 80px;
+}
+
+a.button:hover {
+	color: #1469b9;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#d8e5eb));
+	z-index: 11;
+}
+
+a.button:active {
+	background: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#FFFFFF), to(#d8e5eb));
+	-webkit-box-shadow: 0 0 0px 1px rgba(0, 0, 0, 0.2), 0 2px 1px rgba(0, 0, 0, 0.2), inset -1px -1px 0px rgba(255, 255, 255, 1), inset 1px -1px 0px rgba(255, 255, 255, 1);
+	z-index: 11;
+}
+
+a.button:focus {
+	color: #1469b9;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#d8e5eb));
+	z-index: 11;
+	outline: none;
+	-webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.1), 0px 0px 7px rgba(50, 140, 230, 1), inset -1px -1px 0px rgba(255, 255, 255, 1), inset 1px -1px 0px rgba(255, 255, 255, 1) ;
+}
+
+.icon {
+	display: block;
+	margin: 0 auto;
+}
+
+/* Styles for smaller placements */
+
+@media only screen and (max-width: 450px) {
+	
+	.icon { 
+		display: none;
+	}
+	
+	.centered-wrapper p {
+		-webkit-box-sizing: border-box;
+		font-size: 11px;
+		width: 100%;
+		padding: 0 5em;
+	}
+	
+	h1.title {
+		font-size: 18px;
+	}
+	
+	a.button {
+		font-size: 11px;
+		width: 60px;
+	}
+	
+	.centered-wrapper .options {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-height: 450px) { 
+	.icon { 
+		display: none;
+	}
+}
+
+.width-medium {
+    width: 420px;
+}

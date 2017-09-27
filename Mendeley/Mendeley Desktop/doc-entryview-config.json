@@ -1,0 +1,36 @@
+{
+    "default-column-width": 24,
+    "text-cell-internal-margin": 4,
+    
+    "fav": {
+        "header-icon": ":/icons/misc/headers/table-header-star.png",
+        "cell-icon-on": ":/icons/16x16/actions/star.png",
+        "cell-icon-off": ":/icons/16x16/actions/star-empty.png"
+    },
+    "read": {
+        "header-icon": ":/icons/misc/headers/table-header-unread.png",
+        "cell-icon-on": ":/icons/16x16/actions/read.png",
+        "cell-icon-off": ":/icons/16x16/actions/unread.png"
+    },
+    "pdf": {
+        "header-icon": ":/icons/16x16/actions/table-view-header-document.png",
+        "cell-icon": ":/icons/16x16/actions/pdf.png"
+    },
+    
+    "authors": {
+        "width": 160
+    },
+    "title": {
+        "width": 300
+    },
+    "year": {
+        "width": 60,
+        "align": "right"
+    },
+    "publishedIn": {
+        "width": 100
+    },
+    "added": {
+        "width": 70
+    }
+}

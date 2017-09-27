@@ -1,0 +1,2735 @@
+{
+  "ITEM-1": {
+    "ISBN": "1603201726\n9781603201728",
+    "PMID": "16539359",
+    "abstract": "A collection of stories about groundbreaking scientific discoveries covers such topics as animal behaviors, the characteristics of distant galaxies, and the incredible capacity of the human mind, in a volume that also provides a chronology of debunked scientific theories.",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Kluger",
+        "given": "Jeffrey",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Time Inc. Home Entertainment.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2011
+    },
+    "page": "112 p.",
+    "publisher": "TIME Books",
+    "publisher-place": "New York, N.Y.",
+    "title": "100 new scientific discoveries : fascinating, unbelievable and mind-expanding stories",
+    "type": "book",
+    "id": "2b352bc75cc897d7257c9e96d9bf8192",
+    "page-first": "112 p."
+  },
+  "ITEM-10": {
+    "ISBN": "0735402000",
+    "PMID": "13642704",
+    "issued": {
+      "year": 2004
+    },
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Melville, NY",
+    "title": "2003 Physics Education Conference",
+    "type": "book",
+    "id": "46623de94f5a2ff018a727e5107d2043"
+  },
+  "ITEM-11": {
+    "ISBN": "3540591583 (hard alk. paper)",
+    "PMID": "2561419",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Brey",
+        "given": "J J",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics",
+    "issue": "445",
+    "issued": {
+      "year": 1995
+    },
+    "page": "xviii, 387 p.",
+    "publisher": "Springer",
+    "publisher-place": "Berlin ; New York",
+    "title": "25 years of non-equilibrium statistical mechanics : proceedings of the XIII Sitges Conference, held in Sitges, Barcelona, Spain, 13-17 June 1994",
+    "type": "book",
+    "id": "de9a539d6da8206284546b7fc6117037",
+    "page-first": "xviii"
+  },
+  "ITEM-12": {
+    "ISBN": "0387578056 (New York alk. paper)\n3540578056 (Berlin alk. paper)",
+    "PMID": "651521",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Abdalla",
+        "given": "Elcio",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics New series m, Monographs",
+    "issue": "m20",
+    "issued": {
+      "year": 1994
+    },
+    "page": "ix, 319 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "2D-gravity in non-critical strings : discrete and continuum approaches",
+    "type": "book",
+    "id": "845fb9ea40ca1e087448c97fd5c1fb89",
+    "page-first": "ix"
+  },
+  "ITEM-13": {
+    "ISBN": "981022253X",
+    "PMID": "3547400",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Khalatnikov",
+        "given": "I M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Mineev",
+        "given": "Vladimir P",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Institut teoreticheskoĭ fiziki im. L.D. Landau.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "World Scientific series in 20th century physics",
+    "issue": "11",
+    "issued": {
+      "year": 1996
+    },
+    "page": "xix, 774 p.",
+    "publisher": "World Scientific",
+    "publisher-place": "Singapore ; River Edge, NJ",
+    "title": "30 years of the Landau Institute : selected papers",
+    "type": "book",
+    "id": "1bee4c9a4d312efc5b5f48c598f8422a",
+    "page-first": "xix"
+  },
+  "ITEM-14": {
+    "ISBN": "3540239588 (hd.bd.)\n9783540239581\n1610-1677",
+    "PMID": "13924399",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Marshak",
+        "given": "A",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Davis",
+        "given": "A B",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Physics of earth and space environments,",
+    "issued": {
+      "year": 2005
+    },
+    "page": "xii, 686 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin",
+    "title": "3D radiative transfer in cloudy atmospheres",
+    "type": "book",
+    "id": "318792b49b3020ebcd31cf73d5b99746",
+    "page-first": "xii"
+  },
+  "ITEM-15": {
+    "DOI": "013131362596\n00013131362596",
+    "PMID": "17578653",
+    "abstract": "A group of aliens have come to Earth to learn about its population, customs, etc. To avoid detection, they have taken on human form which gives them human emotions, physical needs etc., but they have no idea how to use them.",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Brazill",
+        "given": "Mark",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Hughes",
+        "given": "Terry",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Lithgow",
+        "given": "John",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Johnston",
+        "given": "Kristen",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Stewart",
+        "given": "French",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Gordon-Levitt",
+        "given": "Joseph",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Curtin",
+        "given": "Jane",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "YBYL Productions (Firm)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Anchor Bay Entertainment Inc.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "LC Purchase Collection (Library of Congress)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "John Lithgow",
+        "given": "Kristen Johnston French Stewart Joseph Gordon-Levitt Jane Curtin",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issue": "DV13625 Anchor Bay Entertainment (set)",
+    "issued": {
+      "year": 2006
+    },
+    "publisher": "Anchor Bay Entertainment,",
+    "publisher-place": "Troy, MI",
+    "title": "3rd rock from the sun. Season 3",
+    "type": "article",
+    "id": "86be702ced5700fb3008a4c1170dbcf7"
+  },
+  "ITEM-16": {
+    "PMID": "11729586",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Copyright Collection (Library of Congress)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1998
+    },
+    "title": "3rd rock from the sun. The physics of being Dick",
+    "type": "article",
+    "id": "91881347cebf5dda713a6ca614d14698"
+  },
+  "ITEM-17": {
+    "ISBN": "9780735405028\n0094-243X ;",
+    "PMID": "15139823",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Bassa",
+        "given": "C G",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "McGill University. Physics Department.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "AIP conference proceedings,",
+    "issue": "983",
+    "issued": {
+      "year": 2008
+    },
+    "page": "xix, 654 p.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Melville, N.Y.",
+    "title": "40 years of pulsars : millisecond pulsars, magnetars, and more : McGill University, Montréal, Canada, 12-17 August 2007",
+    "type": "book",
+    "id": "608459b677371630110c89773a8fbb93",
+    "page-first": "xix"
+  },
+  "ITEM-18": {
+    "ISBN": "9789814299060 (hbk.)\n9814299065 (hbk.)\n9789814299077 (pbk.)\n9814299073 (pbk.)\n0217-9792 ;",
+    "PMID": "16691694",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Abrahams",
+        "given": "Elihu",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "International journal of modern physics : B, condensed matter physics, statistical physics, applied physics,",
+    "issue": "24, no 12 & 13, pt 1-2",
+    "issued": {
+      "year": 2010
+    },
+    "page": "xi, 597 p.",
+    "publisher": "World Scientific",
+    "publisher-place": "Singapore ; London",
+    "title": "50 years of Anderson localization",
+    "type": "book",
+    "id": "a67015b37d732b4cc4215e4422961005",
+    "page-first": "xi"
+  },
+  "ITEM-19": {
+    "ISBN": "157146008X",
+    "PMID": "3490469",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Gindikin",
+        "given": "S G",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Michor",
+        "given": "Peter W",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Conference proceedings and lecture notes in mathematical physics",
+    "issue": "4",
+    "issued": {
+      "year": 1994
+    },
+    "page": "ii, 339 p.",
+    "publisher": "International Press",
+    "publisher-place": "Cambridge, MA",
+    "title": "75 years of radon transform : proceedings of the conference held at the Erwin Schrödinger International Institute for Mathematical Physics in Vienna, August 31-September 4, 1992",
+    "type": "book",
+    "id": "e5cb3eea8db8ed39dcd331d5517c3747",
+    "page-first": "ii"
+  },
+  "ITEM-2": {
+    "ISBN": "9789814425797 (hardcover alk. paper)\n9789814425803 (pbk. alk. paper)",
+    "PMID": "17720898",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Henley",
+        "given": "Ernest M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Ellis",
+        "given": "Stephen D",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2013
+    },
+    "page": "viii, 550 pages",
+    "publisher": "World Scientific",
+    "publisher-place": "Hackensack New Jersey",
+    "title": "100 years of subatomic physics",
+    "type": "book",
+    "id": "08de517b4e9162adb082a2e7a85b13a3",
+    "page-first": "viii"
+  },
+  "ITEM-20": {
+    "ISBN": "1563898810 (pbk. v. 1)\n9781563898815 (pbk. v. 1)\n1563898780 (pbk. v. 2)\n9781563898785 (pbk. v. 2)",
+    "PMID": "17985025",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Chaos! Comics.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Dark Horse Comics.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Image Comics.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "DC Comics Inc.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "edition": "1st",
+    "issued": {
+      "year": 2002
+    },
+    "publisher": "Dark Horse Comics",
+    "publisher-place": "Milwaukie, Or.",
+    "title": "9-11 : artists respond",
+    "type": "book",
+    "id": "e3eb69453167e9a9a226f7449500fdfe"
+  },
+  "ITEM-21": {
+    "ISBN": "9780470658628 (pbk. alk. paper)\n0470658622 (pbk. alk. paper)",
+    "PMID": "16826121",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Johnston",
+        "given": "Ian G",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Harrop-Griffiths",
+        "given": "William",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Gemmell",
+        "given": "Leslie",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Association of Anaesthetists of Great Britain and Ireland.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2012
+    },
+    "page": "p.",
+    "publisher": "Wiley-Blackwell",
+    "publisher-place": "Chichester, West Sussex",
+    "title": "AAGBI core topics",
+    "type": "book",
+    "id": "6e2601fffef28761449ededebd212c5a",
+    "page-first": "p."
+  },
+  "ITEM-22": {
+    "ISBN": "9780735405943",
+    "PMID": "15472321",
+    "container-title": "AIP conference proceedings",
+    "issue": "cp 1064",
+    "issued": {
+      "year": 2008
+    },
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Melville, NY",
+    "title": "AAPT Physics Educational Conference",
+    "type": "book",
+    "id": "bb1af4dd61a0f07f0eab2192d822f5ca"
+  },
+  "ITEM-23": {
+    "ISBN": "0471909009 (v. 1)\n0471909017 (v. 2)",
+    "PMID": "515914",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Lawley",
+        "given": "K P",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Advances in chemical physics",
+    "issue": "67, 69",
+    "issued": {
+      "year": 1987
+    },
+    "publisher": "Wiley",
+    "publisher-place": "Chichester West Sussex ; New York",
+    "title": "Ab initio methods in quantum chemistry",
+    "type": "book",
+    "id": "a4e9fac795d74bb3c0c422b39de33f81"
+  },
+  "ITEM-24": {
+    "ISBN": "9788393054909",
+    "PMID": "17203620",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Rybicki",
+        "given": "Jarosław",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Sadowski",
+        "given": "Wojciechc",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2010
+    },
+    "page": "192 pages",
+    "publisher": "Task Publishing",
+    "publisher-place": "Gdansk, Poland",
+    "title": "Abstract book : conferences in materials science : IX International Conference of Polish Society for Crystal Growth, ICPSCG-9 : new techniques, properties and applications : 5th International Conference on Physics of Disordered Systems, PDS10 : 23-27.05.2",
+    "type": "book",
+    "id": "fd3d71ca06e57358ad0c66ff15f02dbb",
+    "page-first": "192 pages"
+  },
+  "ITEM-25": {
+    "ISBN": "9788393054916",
+    "PMID": "17203586",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Rybicki",
+        "given": "Jarosław",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Maruszewski",
+        "given": "Bogdan",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Grima",
+        "given": "Joseph N",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2010
+    },
+    "page": "260 pages",
+    "publisher": "Task Publishing",
+    "publisher-place": "Gdansk, Poland",
+    "title": "Abstract book : international conferences on advanced materials : 7th International Workshop on Functional and Nanostructured Materials, FNMA ʹ10, 16-20 July 2010, Malta : the International Symposium on Trends in Continuum Physics, TRECOP 2010, 16-20 July",
+    "type": "book",
+    "id": "3b8a95c9bcaaa702c108135a4bd5ec25",
+    "page-first": "260 pages"
+  },
+  "ITEM-26": {
+    "ISBN": "0204-9449",
+    "PMID": "11247850",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Bŭlgarska akademii︠a︡ na naukite. T︠S︡entŭr za nauchna informat︠s︡ii︠a︡.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1979
+    },
+    "publisher": "The Centre",
+    "publisher-place": "Sophia",
+    "title": "Abstracts of Bulgarian scientific literature. Mathematical and physical sciences",
+    "type": "article",
+    "id": "ace180648fe09efea535cb27773ebd84"
+  },
+  "ITEM-27": {
+    "ISBN": "0001-351X",
+    "PMID": "11344703",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Bŭlgarska akademii︠a︡ na naukite. T︠S︡entŭr za nauchna informat︠s︡ii︠a︡ i dokumentat︠s︡ii︠a︡.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Bŭlgarska akademii︠a︡ na naukite. Scientific Information Centre for Natural Mathematical and Social Sciences.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 0
+    },
+    "page": "v.",
+    "publisher": "The Centre",
+    "publisher-place": "Sofia",
+    "title": "Abstracts of Bulgarian scientific literature. Mathematics, physics, astronomy, geophysics, geodesy",
+    "type": "article",
+    "id": "8b8f4feddf2dd1b8cfa3c30ae4dbbd3c",
+    "page-first": "v."
+  },
+  "ITEM-28": {
+    "PMID": "17047780",
+    "issued": {
+      "year": 1968
+    },
+    "page": "74 p.",
+    "publisher": "National Information and Documentation Centre",
+    "publisher-place": "Cairo",
+    "title": "Abstracts of papers presented at the first U. A. R. Physics Conference",
+    "type": "book",
+    "id": "96625f850c4609ea0410f7725c025fb3",
+    "page-first": "74 p."
+  },
+  "ITEM-29": {
+    "PMID": "1798719",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Klepikov",
+        "given": "N P",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1956
+    },
+    "page": "16 leaves",
+    "publisher": "Academy of Sciences of the USSR",
+    "publisher-place": "Moscow",
+    "title": "Abstracts of reports at the All-Union Conference on High-Energy Physics, Moscow, May 14-22, 1956",
+    "type": "book",
+    "id": "0eded60c5b08e723b35f1969f8ca113f",
+    "page-first": "16 leaves"
+  },
+  "ITEM-3": {
+    "ISBN": "1563965437",
+    "issued": {
+      "year": 1996
+    },
+    "page": "p.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Woodbury, NY",
+    "title": "10th topical workshop on proton-antiproton collider physics",
+    "type": "book",
+    "id": "44cb5129c3bc0933f02d903ed313f807",
+    "page-first": "p."
+  },
+  "ITEM-30": {
+    "ISBN": "8883192109",
+    "PMID": "210543",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Evangelisti Allori",
+        "given": "Paola",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1998
+    },
+    "page": "167 p.",
+    "publisher": "Bulzoni",
+    "publisher-place": "Roma",
+    "title": "Academic discourse in Europe : thought processes and linguistic realisations : proceedings of the Workshop held at the Terza università degli studi di Roma, 29-30 October, 1994",
+    "type": "book",
+    "id": "68550437c92dbe6a0eed688260efa100",
+    "page-first": "167 p."
+  },
+  "ITEM-31": {
+    "PMID": "12490545",
+    "issued": {
+      "year": 1998
+    },
+    "publisher": "Science Press",
+    "publisher-place": "Beijing",
+    "title": "Accelerator and large experimental physics control systems : Proceedings of the 1997 International Conference on Accelerator and Large Experiumental Physics Control Systems = 97 guo ji jia su qi he da xing shi yan wu li kong zhi xi tong hui yi wen ji",
+    "type": "book",
+    "id": "82a4530cbbafa980e26c1512f0b8489a"
+  },
+  "ITEM-32": {
+    "ISBN": "1563964848 (acid-free paper)",
+    "PMID": "2581749",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Shafroth",
+        "given": "Stephen M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Austin",
+        "given": "James C",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1997
+    },
+    "page": "xviii, 758 p.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Woodbury, N.Y.",
+    "title": "Accelerator-based atomic physics : techniques and applications",
+    "type": "book",
+    "id": "6bbc10258586d9dfae23dbf1a9d2859f",
+    "page-first": "xviii"
+  },
+  "ITEM-33": {
+    "ISBN": "156396354X",
+    "container-title": "AIP conference proceedings",
+    "issue": "n 326",
+    "issued": {
+      "year": 1995
+    },
+    "page": "p.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Woodbury, NY",
+    "title": "Accelerator physics at the superconducting super collider",
+    "type": "book",
+    "id": "902d6f7441ebb42b358989b24039af5d",
+    "page-first": "p."
+  },
+  "ITEM-34": {
+    "ISBN": "0805841660 (pbk. alk. paper)\n9780805841664 (pbk. alk. paper)",
+    "PMID": "12858551",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Kluth",
+        "given": "Paula",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Straut",
+        "given": "Diana M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Biklen",
+        "given": "Douglas",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2003
+    },
+    "page": "xii, 206 p.",
+    "publisher": "L. Erlbaum Associates",
+    "publisher-place": "Mahwah, N.J.",
+    "title": "Access to academics for all students : critical approaches to inclusive curriculum, instruction, and policy",
+    "type": "book",
+    "id": "96db1f6fd49544960ed594b71c0d46dc",
+    "page-first": "xii"
+  },
+  "ITEM-35": {
+    "ISBN": "1930524048",
+    "PMID": "12689715",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Dixon",
+        "given": "Robert L",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Butler",
+        "given": "Priscilla F",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Sobol",
+        "given": "Wlad T",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "American Association of Physicists in Medicine. Summer School.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Medical physics monograph",
+    "issue": "no 27",
+    "issued": {
+      "year": 2001
+    },
+    "page": "x, 354 p.",
+    "publisher": "Medical Physics Pub.",
+    "publisher-place": "Madison, WI",
+    "title": "Accreditation programs and the medical physicist",
+    "type": "book",
+    "id": "6a84c11ceff37bd493ed3fbeeebc3649",
+    "page-first": "x"
+  },
+  "ITEM-36": {
+    "ISBN": "3540628665 (alk. paper)\n0075-8450 ;",
+    "PMID": "1652780",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Meyer-Hofmeister",
+        "given": "E",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Spruit",
+        "given": "Henk",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "European Association for Research in Astronomy.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics,",
+    "issue": "487",
+    "issued": {
+      "year": 1997
+    },
+    "page": "xiii, 355 p.",
+    "publisher": "Springer",
+    "publisher-place": "Berlin ; New York",
+    "title": "Accretion disks : new aspects : proceedings of the EARA workshop held in Garching, Germany, 21-23 October 1996",
+    "type": "book",
+    "id": "3da92598c96fa60118877a7340209e4b",
+    "page-first": "xiii"
+  },
+  "ITEM-37": {
+    "ISBN": "0387523650 (U.S. alk. paper)",
+    "PMID": "1051972",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Wehrse",
+        "given": "R",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "International Astronomical Union. General Assembly",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics",
+    "issue": "356",
+    "issued": {
+      "year": 1990
+    },
+    "page": "109 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "Accuracy of element abundances from stellar atmospheres : proceedings of two sessions allocated at the IAU General Assembly in Baltimore, USA, August 1988",
+    "type": "book",
+    "id": "6a3f5f3ffd8a285645b43a808c937e7c",
+    "page-first": "109 p."
+  },
+  "ITEM-38": {
+    "ISBN": "9780735408111\n0735408114\n0094-243X ;",
+    "PMID": "17755483",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Melnitchouk",
+        "given": "W",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Thomas",
+        "given": "A W",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "University of Adelaide. Special Research Centre for the Subatomic Structure of Matter.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Thomas Jefferson National Accelerator Facility (U.S.)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "AIP conference proceedings,",
+    "issue": "1261",
+    "issued": {
+      "year": 2010
+    },
+    "page": "xi, 276 p.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Melville, N.Y.",
+    "title": "Achievements and new directions in subatomic physics : festschrift in honour of Tony Thomas' 60th birthday : Adelaide, Australia, 15-19 February 2010",
+    "type": "book",
+    "id": "1a2f23cd4b56e961149b33624584d7c3",
+    "page-first": "xi"
+  },
+  "ITEM-39": {
+    "ISBN": "0379-6566 ;",
+    "PMID": "3419365",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Battrick",
+        "given": "B",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Rolfe",
+        "given": "Erica",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "International Council of Scientific Unions. Scientific Committee on Solar-Terrestrial Physics.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "COSPAR.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Esa Sp,",
+    "issue": "217",
+    "issued": {
+      "year": 1984
+    },
+    "page": "xi, 760 p.",
+    "publisher": "European Space Agency ;\nDistributed by ESA Scientific & Technical Branch",
+    "publisher-place": "Paris, France\nNoordwijk, The Netherlands",
+    "title": "Achievements of the International Magnetospheric Study (IMS) : proceedings of an international symposium, Graz, Austria, 26-28 June 1984",
+    "type": "book",
+    "id": "34826f30e19af7e1adfce276fcc10fd5",
+    "page-first": "xi"
+  },
+  "ITEM-4": {
+    "ISBN": "0750306092 (pbk. alk. paper)",
+    "PMID": "1684235",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Lewis",
+        "given": "J L",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1999
+    },
+    "page": "xiii, 243 p.",
+    "publisher": "Institute of Physics Pub.",
+    "publisher-place": "Bristol ; Philadelphia",
+    "title": "125 years : the Physical Society and the Institute of Physics",
+    "type": "book",
+    "id": "dd9f8f92c3400d09fd97d9c74dd6819b",
+    "page-first": "xiii"
+  },
+  "ITEM-40": {
+    "ISBN": "9787312022654\n7312022650",
+    "PMID": "17185074",
+    "issued": {
+      "year": 2011
+    },
+    "page": "vi, 663 p.",
+    "publisher": "University of Science and Technology of China Press",
+    "publisher-place": "Hefei",
+    "title": "A collected works on the solar-terrestrial space physics = Kong jian wu li zhong de ruo gan qian yan ke xue wen ti",
+    "type": "book",
+    "id": "e6a5867bb0d17730a995e69d2b3e14b2",
+    "page-first": "vi"
+  },
+  "ITEM-41": {
+    "ISBN": "1063-7710",
+    "PMID": "11418021",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "American Institute of Physics.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1993
+    },
+    "page": "v.",
+    "publisher": "American Institute of Physics",
+    "publisher-place": "Woodbury, NY",
+    "title": "Acoustical physics",
+    "type": "article",
+    "id": "08b743e14fda27d0d27bb4a24b8ea558",
+    "page-first": "v."
+  },
+  "ITEM-42": {
+    "ISBN": "0122561902 (acid-free paper)",
+    "PMID": "4051766",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Filippi",
+        "given": "P",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1999
+    },
+    "page": "xv, 317 p.",
+    "publisher": "Academic Press",
+    "publisher-place": "San Diego",
+    "title": "Acoustics : basic physics, theory, and methods",
+    "type": "book",
+    "id": "2d52a6ebb87d641e81f874bac71b0cb0",
+    "page-first": "xv"
+  },
+  "ITEM-43": {
+    "ISBN": "0387085750",
+    "PMID": "2721149",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Oliner",
+        "given": "Arthur A",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Ash",
+        "given": "E A",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Topics in applied physics v 24",
+    "issued": {
+      "year": 1978
+    },
+    "page": "x, 331 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "Acoustic surface waves",
+    "type": "book",
+    "id": "fad536b15ae41a2a8463be69b676bf77",
+    "page-first": "x"
+  },
+  "ITEM-44": {
+    "ISBN": "0819410705",
+    "PMID": "2035376",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Śliwiński",
+        "given": "Antoni",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Poland. Ministerstwo Oświaty i Wychowania.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Proceedings / SPIE--the International Society for Optical Engineering",
+    "issue": "1844",
+    "issued": {
+      "year": 1992
+    },
+    "page": "xv, 361 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "Acousto-optics and applications : 25-29 May 1992, Gdańsk-Jurata, Poland",
+    "type": "book",
+    "id": "afbf8509db6407d85042b313bfa1e9d8",
+    "page-first": "xv"
+  },
+  "ITEM-45": {
+    "ISBN": "0819420131",
+    "PMID": "3508829",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Śliwiński",
+        "given": "Antoni",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Uniwersytet Gdański. Instytut Fizyki Doświadczalnej.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Polskie Towarzystwo Akustyczne. Gdańsk Division.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Proceedings / SPIE--the International Society of Optical Engineering",
+    "issue": "2643",
+    "issued": {
+      "year": 1995
+    },
+    "page": "xiii, 394 p.",
+    "publisher": "SPIE--the International Society for Optical Engineering",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "Acousto-optics and applications II : 22-26 May 1995, Gdańsk-Jurata, Poland",
+    "type": "book",
+    "id": "f58727d0916c1413a1828429f9ffecfa",
+    "page-first": "xiii"
+  },
+  "ITEM-46": {
+    "ISBN": "081943048X",
+    "PMID": "1688294",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Śliwiński",
+        "given": "Antoni",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Linde",
+        "given": "Bogumił B J",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Kwiek",
+        "given": "Piotr",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Uniwersytet Gdański. Instytut Fizyki Doświadczalnej.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Polskie Towarzystwo Akustyczne. Gdańsk Division.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "SPIE proceedings series",
+    "issue": "3581",
+    "issued": {
+      "year": 1998
+    },
+    "page": "xx, 414 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash., USA",
+    "title": "Acousto-optics and applications III : 18-22 May 1998, Gdańsk-Jurata, Poland",
+    "type": "book",
+    "id": "92110ff45b04fa4de42df8f0ca723152",
+    "page-first": "xx"
+  },
+  "ITEM-47": {
+    "ISBN": "0819442364 (pbk.)",
+    "PMID": "12709037",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Linde",
+        "given": "Bogumil B J",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Sikorska",
+        "given": "Anna",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Uniwersytet Gdański. Instytut Fizyki Doświadczalnej.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Polskie Towarzystwo Akustyczne. Gdańsk Division.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Poland. Ministerstwo Oświaty.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "SPIE proceedings series",
+    "issue": "4514",
+    "issued": {
+      "year": 2001
+    },
+    "page": "xxvii, 216 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash., USA",
+    "title": "Acousto-optics and applications IV : 22-26 May 2001, Gdańsk-Jurata, Poland",
+    "type": "book",
+    "id": "f6b8811310bae17ee7bc4aa5e8689de2",
+    "page-first": "xxvii"
+  },
+  "ITEM-48": {
+    "ISBN": "0819458201",
+    "PMID": "14525003",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Klinkosz",
+        "given": "Tomasz",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Uniwersytet Gdański. Instytut Fizyki Doświadczalnej.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Polskie Towarzystwo Akustyczne. Gdańsk Division.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Poland. Ministerstwo Oświaty.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Proceedings of SPIE",
+    "issue": "5828",
+    "issued": {
+      "year": 2005
+    },
+    "page": "xxviii, 214 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "Acousto-optics and applications V : 6-10 September 2004, Gdańsk, Poland",
+    "type": "book",
+    "id": "d62547bc76e02dd2982ecbf4e78d489f",
+    "page-first": "xxviii"
+  },
+  "ITEM-49": {
+    "ISBN": "0379-5411",
+    "PMID": "11205414",
+    "issued": {
+      "year": 0
+    },
+    "publisher": "Pragati Prakashan.",
+    "publisher-place": "Meerut",
+    "title": "Acta ciencia Indica",
+    "type": "article",
+    "id": "16b125c89e3c97cec8acb5123e559d90"
+  },
+  "ITEM-5": {
+    "ISBN": "9783642216824",
+    "PMID": "16797956",
+    "container-title": "IFMBE proceedings",
+    "edition": "1st",
+    "issue": "34",
+    "issued": {
+      "year": 2011
+    },
+    "publisher": "Springer",
+    "publisher-place": "New York",
+    "title": "15th Nordic-Baltic Conference on Biomedical Engineering and Medical Physics : NBC 2011. 14-17 June 2011. Aalborg, Denmark",
+    "type": "book",
+    "id": "5fc7b26b7264b273a69eb62091327d0d"
+  },
+  "ITEM-50": {
+    "ISBN": "0253-732X",
+    "PMID": "11290097",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Society for the Progress of Science (India)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1979
+    },
+    "page": "v.",
+    "publisher": "Pragati Prakashan",
+    "publisher-place": "Meerut, India",
+    "title": "Acta ciencia Indica. Physics",
+    "type": "article",
+    "id": "d18ed22daf2ba332ee1393069ceab5da",
+    "page-first": "v."
+  },
+  "ITEM-51": {
+    "ISBN": "0365-110X",
+    "PMID": "11148746",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "International Union of Crystallography.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 0
+    },
+    "page": "v.",
+    "publisher": "Published for the International Union of Crystallography by Munksgaard etc. .",
+    "publisher-place": "Copenhagen etc.",
+    "title": "Acta crystallographica",
+    "type": "article",
+    "id": "6858e6e8f2c2ad66e2f5a114aaf1a486",
+    "page-first": "v."
+  },
+  "ITEM-52": {
+    "ISBN": "0567-7394",
+    "PMID": "11313493",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "International Union of Crystallography.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1967
+    },
+    "publisher": "Published for the International Union of Crystallography by Munksgaard",
+    "publisher-place": "Copenhagen",
+    "title": "Acta crystallographica. Section A, Crystal physics, diffraction, theoretical and general crystallography",
+    "type": "article",
+    "id": "0cded088c3feab1228123c420229c886"
+  },
+  "ITEM-53": {
+    "ISBN": "0108-7673",
+    "PMID": "11313494",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "International Union of Crystallography.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1983
+    },
+    "page": "v.",
+    "publisher": "Published for the International Union of Crystallography by Munksgaard\nBlackwell Publishing on behalf of the International Society of Crystallography",
+    "publisher-place": "Copenhagen, Denmark\nOxford, England",
+    "title": "Acta crystallographica. Section A, Foundations of crystallography",
+    "type": "article",
+    "id": "a63aaaee8ea916ffea90e3c66f5cc9a6",
+    "page-first": "v."
+  },
+  "ITEM-54": {
+    "ISBN": "0209-3316",
+    "PMID": "11415253",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Uniwersytet im. Adama Mickiewicza w Poznaniu. Instytut Fizyki.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1984
+    },
+    "page": "v.",
+    "publisher": "The Institute",
+    "publisher-place": "Poznań",
+    "title": "Acta magnetica",
+    "type": "article",
+    "id": "9f3e005b82ed8014ad9edcfc51b17858",
+    "page-first": "v."
+  },
+  "ITEM-55": {
+    "ISBN": "0231-4428",
+    "PMID": "11277341",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Magyar Tudományos Akadémia.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1983
+    },
+    "page": "v.",
+    "publisher": "Akadémiai Kiadó",
+    "publisher-place": "Budapest",
+    "title": "Acta physica hungarica",
+    "type": "article",
+    "id": "35038b21bc9798a4200ce4aaa1cc6bf5",
+    "page-first": "v."
+  },
+  "ITEM-56": {
+    "ISBN": "1219-7580",
+    "PMID": "13706733",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Magyar Tudományos Akadémia.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2004
+    },
+    "page": "v.",
+    "publisher": "Akadémiai Kiadó",
+    "publisher-place": "Budapest",
+    "title": "Acta physica Hungarica. A, Heavy ion physics",
+    "type": "article",
+    "id": "6d9bc48c7f372a991d184c5aad8d1a46",
+    "page-first": "v."
+  },
+  "ITEM-57": {
+    "ISBN": "1589-9535",
+    "PMID": "13706790",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Magyar Tudományos Akadémia.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2004
+    },
+    "page": "v.",
+    "publisher": "Akadémiai Kiadó",
+    "publisher-place": "Budapest",
+    "shortTitle": "(Nyomt.)",
+    "title": "Acta physica Hungarica. B, Quantum electronics",
+    "type": "article",
+    "id": "0f58dc25e079bf9baf93f45c4d9485c2",
+    "page-first": "v.",
+    "title-short": "(Nyomt.)"
+  },
+  "ITEM-58": {
+    "ISBN": "1219-7580",
+    "PMID": "11465123",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Magyar Tudományos Akadémia.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1995
+    },
+    "publisher": "Akadémiai Kiadó",
+    "publisher-place": "Budapest",
+    "title": "Acta physica Hungarica. New series, Heavy ion physics",
+    "type": "article",
+    "id": "742af612a44a6d6c5c23bf8eaf4ab3f5"
+  },
+  "ITEM-59": {
+    "ISBN": "0323-7648",
+    "PMID": "11237790",
+    "issued": {
+      "year": 0
+    },
+    "publisher": "Akademie-Verlag.",
+    "publisher-place": "Berlin",
+    "title": "Acta polymerica",
+    "type": "article",
+    "id": "22fe31ab6fc74097e288e3c87d811866"
+  },
+  "ITEM-6": {
+    "ISBN": "0819493007 (paperback)\n9780819493002 (paperback)\n0277-786X ;",
+    "PMID": "17641945",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Mohapatra",
+        "given": "Y N",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Mazhari",
+        "given": "B",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Katiyar",
+        "given": "M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Indian Institute of Technology Kanpur.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Semiconductor Devices.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "SPIE (Society)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Proceedings of SPIE,",
+    "issue": "8549",
+    "issued": {
+      "year": 2012
+    },
+    "page": "1 volume (various pagings)",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "16th international workshop on physics of semiconductor devices : 19-22 December 2011",
+    "type": "book",
+    "id": "71e4de728e07972d4fb60956eb27dc52",
+    "page-first": "1 volume (various pagings)"
+  },
+  "ITEM-60": {
+    "PMID": "7529098",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Akademiet for de tekniske videnskaber Copenhagen. [from old catalog]",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Teknillisten Tieteiden Akatemia. [from old catalog]",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Norges tekniske vitenskapsakademi.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Ingenjōrsvetenskapsakademien Stockholm. [from old catalog]",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 0
+    },
+    "title": "Acta polytechnica Scandinavica",
+    "type": "article",
+    "id": "30bce23a386816227f0e3380986a1607"
+  },
+  "ITEM-61": {
+    "PMID": "9354690",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Ingeniörsvetenskapsakademien",
+        "given": "Stockholm",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Scandinavian Council for Applied Research. [from old catalog]",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 0
+    },
+    "title": "Acta polytechnica Scandinavica",
+    "type": "article",
+    "id": "e7eaa6f3c6151eada3b4601efdbd0fe6"
+  },
+  "ITEM-62": {
+    "ISBN": "0355-2721",
+    "PMID": "11304275",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Teknillisten Tieteiden Akatemia.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 0
+    },
+    "page": "v.",
+    "publisher": "Finnish Academy of Technical Sciences",
+    "publisher-place": "Helsinki",
+    "title": "Acta polytechnica Scandinavica. Applied physics series",
+    "type": "article",
+    "id": "48646e5eee6962d1ea90db945f8e771b",
+    "page-first": "v."
+  },
+  "ITEM-63": {
+    "ISBN": "9810213727",
+    "PMID": "3968652",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Fleming",
+        "given": "Graham R",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Hänggi",
+        "given": "Peter",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1993
+    },
+    "page": "vii, 327 p.",
+    "publisher": "World Scientific",
+    "publisher-place": "Singapore ; River Edge, NJ",
+    "title": "Activated barrier crossing : applications in physics, chemistry, and biology",
+    "type": "book",
+    "id": "64d6bc6beaca25ca2b2d5f6e8cdb7d28",
+    "page-first": "vii"
+  },
+  "ITEM-64": {
+    "ISBN": "0387194924 (U.S.)",
+    "PMID": "1019681",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Miller",
+        "given": "H Richard",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Wiita",
+        "given": "Paul Joseph",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics",
+    "issue": "307",
+    "issued": {
+      "year": 1988
+    },
+    "page": "xi, 438 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "Active galactic nuclei : proceedings of a conference held at the Georgia State University, Atlanta, Georgia, October 28-30, 1987",
+    "type": "book",
+    "id": "7cae6224520fc7b609762cb633fbdbe2",
+    "page-first": "xi"
+  },
+  "ITEM-65": {
+    "ISBN": "9781583812297\n1583812296",
+    "PMID": "14731808",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Stefl",
+        "given": "Stanislav",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Owocki",
+        "given": "Stanley Peter",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Okazaki",
+        "given": "Atsuo T",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Astronomical Society of the Pacific conference series",
+    "edition": "1st",
+    "issue": "361",
+    "issued": {
+      "year": 2007
+    },
+    "page": "xxiv, 573 p.",
+    "publisher": "Astronomical Society of the Pacific",
+    "publisher-place": "San Francisco, CA",
+    "title": "Active OB-stars : laboratories for stellar and circumstellar physics : proceedings of a conference held at Hokkai-Gakuen University, Sapporo, Japan, August 29-September 2, 2005 / edited by Stanislav Štefl, Stanley P. Owocki, and Atsuo T. Okazaki",
+    "type": "book",
+    "id": "055798f9dd09d92112a99ec98e3eaaa9",
+    "page-first": "xxiv"
+  },
+  "ITEM-66": {
+    "ISBN": "9780309283038 (paperback)\n0309283035 (paperback)",
+    "PMID": "17733281",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "National Research Council (U.S.). Committee on Undergraduate Physics Education Research and Implementation",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 2013
+    },
+    "page": "xiii, 127 pages",
+    "publisher": "National Academies Press",
+    "publisher-place": "Washington, D.C.",
+    "title": "Adapting to a changing world : challenges and opportunities in undergraduate physics education",
+    "type": "book",
+    "id": "1952d1a57cd94b55093df32fa96242e4",
+    "page-first": "xiii"
+  },
+  "ITEM-67": {
+    "ISBN": "0201056860",
+    "PMID": "3209980",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Jacobs",
+        "given": "Stephen F",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Sargent",
+        "given": "Murray",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Scully",
+        "given": "Marlan O",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "United States. Office of Naval Research.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Physics of quantum electronics",
+    "issue": "6",
+    "issued": {
+      "year": 1978
+    },
+    "page": "xi, 312 p.",
+    "publisher": "Addison-Wesley Pub. Co.",
+    "publisher-place": "Reading, Mass.",
+    "title": "Adaptive optics and short wavelength sources : based on lectures of the August 8-19, 1977 summer school, Telluride, Colorado, and the Office of Naval Research sponsored workshop, summer 1977",
+    "type": "book",
+    "id": "3a400df7b0511329f3e5a7f82988d616",
+    "page-first": "xi"
+  },
+  "ITEM-68": {
+    "ISBN": "9781455703333 (pbk. alk. paper)",
+    "PMID": "17134859",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Upchurch",
+        "given": "Sandra L",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Sharp",
+        "given": "Billie",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "HESI (Firm)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "edition": "3rd",
+    "issued": {
+      "year": 2013
+    },
+    "page": "p.",
+    "publisher": "Elsevier/Mosby",
+    "publisher-place": "St. Louis, Mo.",
+    "title": "Admission assessment exam review",
+    "type": "book",
+    "id": "c2f228209746bfb00e6d322cf13fd315",
+    "page-first": "p."
+  },
+  "ITEM-69": {
+    "ISBN": "3037190132",
+    "PMID": "14638560",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Biquard",
+        "given": "Olivier",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "IRMA lectures in mathematics and theoretical physics",
+    "issue": "8",
+    "issued": {
+      "year": 2005
+    },
+    "page": "vi, 252 p.",
+    "publisher": "European Mathematical Society",
+    "publisher-place": "Zürich",
+    "title": "AdS/CFT correspondence : Einstein metrics and their conformal boundaries : 73rd meeting of theoretical physicists and mathematicians, Strasbourg, September 11-13, 2003",
+    "type": "book",
+    "id": "819d3dfa20ae4cf239218a40f8a7ab61",
+    "page-first": "vi"
+  },
+  "ITEM-7": {
+    "ISBN": "3540554084 (Berlin acid-free paper)\n0387554084 (U.S. acid-free paper)",
+    "PMID": "2976635",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Boi",
+        "given": "L",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Flament",
+        "given": "D",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Salanskis",
+        "given": "J M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics",
+    "issue": "402",
+    "issued": {
+      "year": 1992
+    },
+    "page": "viii, 304 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "1830-1930 : a century of geometry : epistemology, history, and mathematics",
+    "type": "book",
+    "id": "97e1be41578cc9e47dc486eaaeaa1f6a",
+    "page-first": "viii"
+  },
+  "ITEM-70": {
+    "PMID": "3148595",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Sobieski",
+        "given": "Stanley",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Wampler",
+        "given": "E Joseph",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Goddard Space Flight Center.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Nasa Sp-338",
+    "issued": {
+      "year": 1973
+    },
+    "page": "v, 126 p.",
+    "publisher": "Scientific and Technical Information Office, National Aeronautics and Space Administration; for sale by the National Technical Information Service, Springfield",
+    "publisher-place": "Washington",
+    "title": "Advanced electro-optical imaging techniques; the proceedings of a symposium held at NASA Headquarters, Physics and Astronomy Programs, Office of Space Sciences, September 22, 1972",
+    "type": "book",
+    "id": "5d9dbcdbbbf2470817dc98d510f63f6c",
+    "page-first": "v"
+  },
+  "ITEM-71": {
+    "ISBN": "0387159908 (U.S.)",
+    "PMID": "3333520",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Krappe",
+        "given": "H J",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Lipperheide",
+        "given": "R",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Freie Universität Berlin. Fachbereich Physik.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Hahn-Meitner-Institut für Kernforschung Berlin. Bereich Kern- und Strahlenphysik.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics",
+    "issue": "236",
+    "issued": {
+      "year": 1985
+    },
+    "page": "vi, 364 p.",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Berlin ; New York",
+    "title": "Advanced methods in the evaluation of nuclear scattering data : proceedings of the international workshop held at the Hahn-Meitner-Institut für Kernforschung Berlin, June 18-20, 1985",
+    "type": "book",
+    "id": "69cc66e1f2d9343f1349b8e84de1650d",
+    "page-first": "vi"
+  },
+  "ITEM-72": {
+    "ISBN": "0819438995",
+    "PMID": "12502164",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Harrison",
+        "given": "H Barry",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Wee",
+        "given": "Andrew T S",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Gupta",
+        "given": "Subhash",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Nanyang Technological University.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Institute of Physics Singapore.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "SPIE proceedings series",
+    "issue": "4227",
+    "issued": {
+      "year": 2000
+    },
+    "page": "xix, 212 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "Advanced microelectronic processing techniques : 28-30 November 2000, Singapore",
+    "type": "book",
+    "id": "8b2d4303ed4e2eab8ecdf44e8fe23370",
+    "page-first": "xix"
+  },
+  "ITEM-73": {
+    "ISBN": "012234118X",
+    "PMID": "1534117",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Einspruch",
+        "given": "Norman G",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Gildenblat",
+        "given": "Gennady Sh",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "VLSI electronics",
+    "issue": "18",
+    "issued": {
+      "year": 1989
+    },
+    "page": "xi, 370 p.",
+    "publisher": "Academic Press",
+    "publisher-place": "San Diego",
+    "title": "Advanced MOS device physics",
+    "type": "book",
+    "id": "cfc71d25803c4a0186743ddb83ce1635",
+    "page-first": "xi"
+  },
+  "ITEM-74": {
+    "ISBN": "0819449830",
+    "PMID": "13512581",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Spigulis",
+        "given": "Janis",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Latvijas universitāte. Cietvielu fizikas institūts.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "European Commission.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "SPIE proceedings series",
+    "issue": "5123",
+    "issued": {
+      "year": 2003
+    },
+    "page": "xi, 364 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash., USA",
+    "title": "Advanced optical devices, technologies, and medical applications : 19-22 August 2002, Riga, Latvia",
+    "type": "book",
+    "id": "c76308a4c2bff7088985cefaef8e73fb",
+    "page-first": "xi"
+  },
+  "ITEM-75": {
+    "ISBN": "9780819467324 (pbk.)\n0819467324 (pbk.)\n0277-786X ;",
+    "PMID": "14900582",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Ašmontas",
+        "given": "Steponas",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Gradauskas",
+        "given": "Jonas",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Puslaidininkių fizikos institutas (Lietuvos Mokslų akademija)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers. Baltic Chapter.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Proceedings of SPIE,",
+    "issue": "6596",
+    "issued": {
+      "year": 2007
+    },
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash.",
+    "title": "Advanced optical materials, technologies, and devices : 27-30 August 2006, Vilnius, Lithuania",
+    "type": "book",
+    "id": "4d7b2c0b0426d499362681fddd1389f0"
+  },
+  "ITEM-76": {
+    "ISBN": "0819449822",
+    "PMID": "14100177",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Krūmin̦š",
+        "given": "A",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Latvijas universitāte. Cietvielu fizikas institūts.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "European Commission.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Society of Photo-optical Instrumentation Engineers.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "SPIE proceedings series",
+    "issue": "5122",
+    "issued": {
+      "year": 2003
+    },
+    "page": "xi, 442 p.",
+    "publisher": "SPIE",
+    "publisher-place": "Bellingham, Wash., USA",
+    "title": "Advanced organic and inorganic optical materials : 19-22 August, 2002, Riga, Latvia",
+    "type": "book",
+    "id": "42cb53b653867ed290d331ea15eb82d5",
+    "page-first": "xi"
+  },
+  "ITEM-77": {
+    "ISBN": "0920-5632 ;",
+    "PMID": "2153337",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Itzykson",
+        "given": "Claude",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Fröhlich",
+        "given": "Jürg",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Rittenberg",
+        "given": "Vladimir",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Schwimmer",
+        "given": "A",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Nuclear physics B (Proc suppl ),",
+    "issue": "58",
+    "issued": {
+      "year": 1997
+    },
+    "page": "vii, 199 p.",
+    "publisher": "North-Holland",
+    "publisher-place": "Amsterdam",
+    "title": "Advanced quantum field theory : proceedings of the European research conference in the memory of Claude Itzykson : La Londe les Maures, France, 31 August-5 September 1996",
+    "type": "book",
+    "id": "e616dcb949c73fa03c276d033bc0e147",
+    "page-first": "vii"
+  },
+  "ITEM-78": {
+    "ISBN": "3540424091 (acid-free paper)\n0075-8450 ;",
+    "PMID": "12500526",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Arias",
+        "given": "J M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Lozano",
+        "given": "M",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "Lecture notes in physics,",
+    "issue": "581",
+    "issued": {
+      "year": 2001
+    },
+    "page": "vii, 346 p.",
+    "publisher": "Springer",
+    "publisher-place": "Berlin ; New York",
+    "title": "An advanced course in modern nuclear physics",
+    "type": "book",
+    "id": "4751b1cfda9ac9aa3df5440de732811b",
+    "page-first": "vii"
+  },
+  "ITEM-79": {
+    "PMID": "458151",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Eistophos Science Club.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1978
+    },
+    "page": "76 leaves, bound",
+    "title": "The 75th anniversary papers, 1893-1968",
+    "type": "book",
+    "id": "0d24037ac07870ae3481a39c61e1efde",
+    "page-first": "76 leaves"
+  },
+  "ITEM-8": {
+    "ISBN": "0898527570",
+    "issued": {
+      "year": 1990
+    },
+    "publisher": "Tappi Press",
+    "publisher-place": "Atlanta, GA, USA",
+    "title": "1990 paper physics fundamentals and papermaking practices seminar, the Portland Marriott, Portland, OR, February 13-14",
+    "type": "book",
+    "id": "90993c9c53fcb764837bed8d54fd052e"
+  },
+  "ITEM-80": {
+    "ISBN": "0444829903",
+    "PMID": "3088983",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Scarsi",
+        "given": "L",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "issued": {
+      "year": 1998
+    },
+    "page": "xvi, 743 p.",
+    "publisher": "Elsevier",
+    "publisher-place": "Amsterdam ; New York",
+    "title": "The active X-ray sky : results from BeppoSAX and RXTE : proceedings of the active X-ray sky, October 21-24, 1997, Rome, Italy",
+    "type": "book",
+    "id": "b8e4c3385646109a14cdef7900be0282",
+    "page-first": "xvi"
+  },
+  "ITEM-81": {
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "Andersson",
+        "given": "B",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Ödman",
+        "given": "P",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Lindvall",
+        "given": "A.-M.",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Brånemark",
+        "given": "P.-I.",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "International Journal of Prosthodontics",
+    "issue": "3",
+    "issued": {
+      "year": 1998
+    },
+    "page": "212-218",
+    "title": "Cemented Single Crowns on Osseointegrated Implants after 5 Years: Results from a Prospective Study on CeraOne",
+    "type": "article-journal",
+    "volume": "11",
+    "id": "dca7d45da929a513b787664194c73bb9",
+    "page-first": "212"
+  },
+  "ITEM-9": {
+    "PMID": "1130225",
+    "author": [
+      {
+        "dropping-particle": "",
+        "family": "B Physics Task Force.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "Kō-enerugī Butsurigaku Kenkyūjo (Japan)",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      },
+      {
+        "dropping-particle": "",
+        "family": "TRISTAN Program Advisory Committee.",
+        "given": "",
+        "non-dropping-particle": "",
+        "parse-names": false,
+        "suffix": ""
+      }
+    ],
+    "container-title": "KEK proceedings",
+    "issue": "93-1",
+    "issued": {
+      "year": 1993
+    },
+    "page": "iii, 186 p.",
+    "publisher": "National Laboratory for High Energy Physics",
+    "publisher-place": "Tsukuba-shi, Ibaraki-ken, Japan",
+    "title": "1992 progress report on B Physics Task Force activities",
+    "type": "book",
+    "id": "23b117c985b0631f6f2467456b716b81",
+    "page-first": "iii"
+  }
+}

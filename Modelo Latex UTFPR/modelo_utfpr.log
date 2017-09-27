@@ -1,0 +1,771 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  27 SEP 2017 00:44
+entering extended mode
+**./modelo_utfpr.tex
+(modelo_utfpr.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+(normas-utf-tex.cls (cvs-id.def)
+Document Class: normas-utf-tex 2011/06/19 v2.0
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuges.
+ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count79
+\U@D=\dimen102
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\lastpage\lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\bigfoot\perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+\c@abspage=\count80
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip41
+\f@nch@O@elh=\skip42
+\f@nch@O@erh=\skip43
+\f@nch@O@olh=\skip44
+\f@nch@O@orh=\skip45
+\f@nch@O@elf=\skip46
+\f@nch@O@erf=\skip47
+\f@nch@O@olf=\skip48
+\f@nch@O@orf=\skip49
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count81
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (abnt.cls
+(cvs-id.def)
+Document Class: abnt 2006/09/09 v1.32 Classe abnt (NBR6024, NBR6027, NBR6028, N
+BR14724)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count82
+\calc@Bcount=\count83
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count84
+\calc@Cskip=\skip52
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count85
+\mult@box=\box26
+\multicol@leftmargin=\dimen105
+\c@unbalance=\count86
+\c@collectmore=\count87
+\doublecol@number=\count88
+\multicoltolerance=\count89
+\multicolpretolerance=\count90
+\full@width=\dimen106
+\page@free=\dimen107
+\premulticols=\dimen108
+\postmulticols=\dimen109
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen110
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count91
+\c@finalcolumnbadness=\count92
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count93
+) (abntex-abrev.sty
+(cvs-id.def)
+Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
+ (nbr10522-1988.def (cvs-id.def)
+File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
+88)
+) (abntex-abrev-pt_BR.def
+(cvs-id.def)
+File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traduca
+o de termos en_US/pt_BR
+)) (abntex-text.sty (cvs-id.def)
+Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
+ (abntex-text-pt_BR.def (cvs-id.def)
+File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Bra
+sil (pt_BR)
+)) (abntex-default-design.sty (cvs-id.def)
+Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do a
+bntex
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+
+
+Package relsize Warning: Failed to get list of font sizes.
+(relsize)                Falling back to old definition. on input line 81.
+
+)
+\ABNTanapindent=\skip55
+\ABNTsignwidth=\skip56
+\ABNTsignthickness=\skip57
+\ABNTsignskip=\skip58
+) (nbr6027-1989.def) (nbr14724-2001.def)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count94
+\c@chapter=\count95
+\c@section=\count96
+\c@subsection=\count97
+\c@subsubsection=\count98
+\c@paragraph=\count99
+\c@subparagraph=\count100
+\c@figure=\count101
+\c@table=\count102
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\bibindent=\dimen114
+)
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+))
+\c@absfigure=\count103
+\c@abstable=\count104
+\c@absequation=\count105
+) (abntcite.sty (cvs-id.def)
+Package: abntcite 2006/04/25 v1.30 Chamadas de referencias no texto (NBR10520, 
+NBR10522)
+\minimumbiblabelwidth=\skip61
+\ABCIauxlen=\skip62
+\c@ABCIaux=\count106
+\c@ABCImax=\count107
+ (nbr10520-2002.def (cvs-id.def)
+File: nbr10520-2002.def 2006/04/25 v1.4 Definicoes para abntcite (NBR10520:2002
+)
+)
+\biblabelsep=\skip63
+LaTeX Info: Redefining \newblock on input line 466.
+LaTeX Info: Redefining \cite on input line 493.
+\ABCItoken=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count108
+\LTcapwidth=\dimen115
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count109
+\LT@rows=\count110
+\c@LT@tables=\count111
+\c@LT@chunks=\count112
+\LT@p@ftn=\toks18
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen116
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen117
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count113
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count114
+\leftroot@=\count115
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count116
+\DOTSCASE@=\count117
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count118
+\c@MaxMatrixCols=\count119
+\dotsspace@=\muskip10
+\c@parentequation=\count120
+\dspbrk@lvl=\count121
+\tag@help=\toks20
+\row@=\count122
+\column@=\count123
+\maxfields@=\count124
+\andhelp@=\toks21
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks22
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (modelo_utfpr.aux
+(Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux) (Capitulos/capitulo3.aux)
+(Capitulos/capitulo4.aux) (Capitulos/capitulo5.aux))
+\openout1 = `modelo_utfpr.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 73.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 73.
+
+(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen127
+\scratchbox=\box58
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen128
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks25
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 75
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 75
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 75
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 75
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
+<brasao.png, id=10, 260.8947pt x 261.6174pt>
+File: brasao.png Graphic file (type png)
+ <use brasao.png>
+Package pdftex.def Info: brasao.png used on input line 77.
+(pdftex.def)             Requested size: 62.59605pt x 62.76949pt.
+
+<logo-utfpr.png, id=12, 48.56544pt x 17.77843pt>
+File: logo-utfpr.png Graphic file (type png)
+ <use logo-utfpr.png>
+Package pdftex.def Info: logo-utfpr.png used on input line 77.
+(pdftex.def)             Requested size: 85.35826pt x 31.24886pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (59.40894pt): 
+ Make it at least 70.14018pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 10.14995pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1 <./brasao.png> <./logo-utfpr.png>] [2
+
+
+
+] [3
+
+
+] (modelo_utfpr.toc)
+\tf@toc=\write3
+\openout3 = `modelo_utfpr.toc'.
+
+ [4
+
+
+]
+\openout2 = `./Capitulos/capitulo1.aux'.
+
+
+(Capitulos/capitulo1.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+ [6
+
+
+
+]) [7]
+\openout2 = `./Capitulos/capitulo2.aux'.
+
+
+(Capitulos/capitulo2.tex
+Cap\'{\i }tulo 2.
+
+LaTeX Warning: Citation `Pressman2009' on page 8 undefined on input line 6.
+
+[8
+
+
+
+] [9]
+Overfull \hbox (3.12302pt too wide) in paragraph at lines 22--23
+[]\OT1/ptm/m/n/12 Xamarin []e um \OT1/ptm/m/it/12 fra-mework \OT1/ptm/m/n/12 de
+ de-sen-vol-vi-mento para dis-po-si-ti-vos m[]oveis \OT1/ptm/m/it/12 cross-plat
+aform
+ []
+
+[10] [11] [12] [13] [14]
+Overfull \hbox (0.33174pt too wide) in paragraph at lines 89--91
+\OT1/ptm/m/n/12 Main-Page.xaml. No cons-tru-tor s[]ao de-fi-ni-dos os par[]amet
+ros ini-cias para a execu[][]ao da aplica[][]ao.
+ []
+
+) [15]
+\openout2 = `./Capitulos/capitulo3.aux'.
+
+ (Capitulos/capitulo3.tex
+Cap\'{\i }tulo 3.
+) [16
+
+
+
+]
+\openout2 = `./Capitulos/capitulo4.aux'.
+
+ (Capitulos/capitulo4.tex
+Cap\'{\i }tulo 4.
+) [17
+
+
+
+]
+\openout2 = `./Capitulos/capitulo5.aux'.
+
+ (Capitulos/capitulo5.tex
+Cap\'{\i }tulo 5.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 5.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+LaTeX Warning: Citation `CTAN2009' on page 18 undefined on input line 5.
+
+
+LaTeX Warning: Citation `TeX-Br2009' on page 18 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Wikibooks2009' on page 18 undefined on input line 5.
+
+
+Overfull \hbox (3.1574pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/12 Espera-se que o uso do es-tilo de formata[][]ao L[]T[]X ade-q
+uado []as Nor-mas para Elabora[][]ao
+ []
+
+
+LaTeX Warning: Citation `TeXnicCenter2009' on page 18 undefined on input line 7
+.
+
+
+LaTeX Warning: Citation `MiKTeX2009' on page 18 undefined on input line 7.
+
+
+Overfull \hbox (4.29355pt too wide) in paragraph at lines 7--8
+\OT1/ptm/m/n/12 em L[]T[]X para usu[]arios Li-nux. Para usu[]arios Win-dows rec
+omenda-se o edi-tor T[]XnicCenter (\OT1/ptm/b/n/12 ??\OT1/ptm/m/n/12 ).
+ []
+
+
+LaTeX Warning: Citation `JabRef2009' on page 18 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Mendeley2009' on page 18 undefined on input line 9.
+
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 9.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+) [18
+
+
+
+]
+(modelo_utfpr.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+[]\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
+12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+[]\OT1/ptm/m/n/12 CSS3. \OT1/ptm/b/n/12 W3C Cas-ca-ding Style Sheet\OT1/ptm/m/n
+/12 . 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+[]\OT1/ptm/m/n/12 FACEBOOK. \OT1/ptm/b/n/12 Fa-ce-book Re-act Na-tive\OT1/ptm/m
+/n/12 . 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+[]\OT1/ptm/m/n/12 HTML5. \OT1/ptm/b/n/12 W3C Hy-per-Text Mar-kup Lan-guage\OT1/
+ptm/m/n/12 . 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 76--79
+[]\OT1/ptm/m/n/12 IDC, I. D. C. \OT1/ptm/b/n/12 Smartphone OS Mar-ket Share, 20
+17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+[]\OT1/ptm/m/n/12 MICROSOFT. Mi-cro-soft. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
+/it/12 <$\OT1/ptm/m/n/12 https://www.microsoft.com/pt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+[]\OT1/ptm/m/n/12 MYAPPCONVERTER. \OT1/ptm/b/n/12 MyApp-Con-ver-ter\OT1/ptm/m/n
+/12 . 2017. Dis-pon[]vel em:
+ []
+
+[19
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+[]\OT1/ptm/m/n/12 .NETFRAMEWORK. .Net Fra-mework. 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
+[]\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
+rac-ti-ti-o-ner's Ap-pro-ach 7th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
+\OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
+SSN 1098-6596. ISBN 978-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--135
+\OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
+/m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+[]\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+[]\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
+ []
+
+
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 155--157
+[]\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
+017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
+xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
+ []
+
+
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 160--164
+[]\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
+t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
+ []
+
+) 
+AED: lastpage setting LastPage
+[20]
++-------------------------------------------------------------------+
+| Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
+|                  http://abntex.codigolivre.org.br                 |
++-------------------------------------------------------------------+
+(modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux)
+(Capitulos/capitulo3.aux) (Capitulos/capitulo4.aux) (Capitulos/capitulo5.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5111 strings out of 493323
+ 69222 string characters out of 3139060
+ 159944 words of memory out of 3000000
+ 8425 multiletter control sequences out of 15000+200000
+ 28310 words of font info for 60 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,17n,45p,2292b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
+utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on modelo_utfpr.pdf (21 pages, 413487 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

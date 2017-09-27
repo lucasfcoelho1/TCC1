@@ -1,0 +1,13 @@
+univ
+university
+school
+center
+dept
+department
+institution
+institute
+lab
+laboratory
+inc
+ltd
+research

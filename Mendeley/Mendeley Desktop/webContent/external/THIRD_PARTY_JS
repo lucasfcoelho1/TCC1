@@ -1,0 +1,18 @@
+Project: jQuery
+Source: http://jquery.com
+License: MIT
+
+Project: ICanHaz.js
+Description: Simple JS templating library
+Source: http://icanhazjs.com
+License: MIT
+
+Project: throbber.js
+Description: JS throbber widget
+Source: https://github.com/aino/throbber.js
+License: MIT
+
+Project: jquery-dropdown
+Description: Drop-down menu plugin for jQuery
+Source: https://github.com/claviska/jquery-dropdown
+License: MIT

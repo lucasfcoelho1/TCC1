@@ -1,0 +1,75 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+	function postRequest() {
+		var query = $("#query_string").val();
+		var body = $("#request_body").val();
+		var url = "$COMMAND?" + query;
+
+		$.ajax(url,{
+			data : body,
+			success : function(data) {
+				$("#response_status_text").text("Success");
+				$("#response_text").text(JSON.stringify(data,null,2));
+			},
+			error : function(xhr,status,thrown) {
+				var statusText = "Request failed with status " + xhr.status + " ("
+				  + xhr.statusText + ")";
+				$("#response_status_text").text(statusText);
+				$("#response_text").text(xhr.responseText);
+			},
+			type : "$METHOD"
+		});
+	}
+</script>
+<style>
+body
+{
+  font-family:arial;
+}
+
+#response
+{
+  margin-left:5px;
+  padding-left:5px;
+}
+
+#response_body
+{
+  background-color:#eeeeee;
+  border:1px solid #bbbbbb;
+}
+
+#response_status
+{
+  font-family:monospace;
+  margin-bottom:5px;
+}
+</style>
+</head>
+<body>
+<form action="$COMMAND" method="$METHOD">
+<b>Command:</b> $COMMAND
+<h4>Query string:</h4>
+<textarea rows=1 cols=80 id="query_string" placeholder="Enter query string here"></textarea>
+<h4>Request Body:</h4>
+<textarea rows=5 cols=80 id="request_body" placeholder="Enter request body here"></textarea>
+<div>
+  <input type='button' value='Run Command' onclick="postRequest();">
+</div>
+<h4>Response:</h4>
+<div id="response">
+	<div id="response_status">
+		Status: <span id="response_status_text">Command has not been run</span>
+	</div>
+	<div id="response_body">
+		<pre id="response_text">
+Click 'Run Command' to see the response here
+		</pre>
+	</div>
+</div>
+</form>
+</body>
+</html>
+

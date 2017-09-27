@@ -1,0 +1,27 @@
+<!-- This template is currently unused, however it is included as an example of how we might do a custom error page. -->
+<!doctype html>
+<html lang="en" class="overflow-hidden linen">
+<head>
+	<meta charset="UTF-8">
+	<title>No Internet Connection</title>
+	<link rel="stylesheet" href="css/base.css">
+</head>
+<body class="no-select top-shadow">
+
+<div class="centered-wrapper">
+	<div class="inner">
+		<div class="cell">
+			
+			<img src="images/error-large.png" border="0" class="icon no-drag">
+			<h1 class="title">{$error-heading}</h1>
+			<p>{$error-body}</p>
+			<div class="options">
+				<a href="action://retry" class="button small no-drag">{$primary}</a> <a href="mendeley://library/filter/all-documents" class="button small no-drag">{$secondary}</a>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

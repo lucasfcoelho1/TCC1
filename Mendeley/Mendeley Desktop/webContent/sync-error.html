@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="css/base.css">
+<title>Problem Details</title>
+<style>
+	body {
+		font-family: 'Lucida Grande';
+		font-size: 10pt;
+		padding: 20px;
+		padding-top: 0px;
+		overflow: hidden;
+	}
+	
+	h2 {
+		font-weight:bold;
+		font-size: 10pt;
+	}
+
+	a {
+		text-decoration: none;
+		color: blue;
+	}
+
+	.content {
+		padding: 15px;
+		padding-top: 0px;
+	}
+	
+	#details-container {
+		margin-bottom: 15px;
+	}
+</style>
+</head>
+<body style="width: 475px;">
+	<p id="problem-summary"></p>
+	<h2 id="problem-details-header">Problem Details</h2>
+	<div id="details-container">
+		<p id="problem-details"></p>
+		<input type="button" href="#" id="copy-error-details" value="Copy Details to Clipboard">
+	</div>
+	<h2>Getting Help</h2>
+	<p>For help with sync problems, please visit our <a id="support-link" href="http://support.mendeley.com">support page</a>. Including the details from the <b>Problem Details</b> section above in any support requests will help us respond faster.</p>
+	<script>
+		var errInfo = MendeleyDesktop.module('error');
+		function updateDetails() {
+			document.getElementById('problem-summary').textContent = errInfo.summary;
+			var details = errInfo.details;
+			document.getElementById('problem-details').textContent = details;
+			document.getElementById('problem-details-header').style.display = details.length > 0 ? '' : 'none'; 
+			document.getElementById('support-link').href = errInfo.supportUrl;
+		}
+
+		document.getElementById('copy-error-details').addEventListener('click', function() {
+			errInfo.copyToClipboard();
+		});
+
+		updateDetails();
+		errInfo.summaryChanged.connect(updateDetails);
+		errInfo.detailsChanged.connect(updateDetails);
+		errInfo.supportUrlChanged.connect(updateDetails);
+	</script>
+</body>
+</html>

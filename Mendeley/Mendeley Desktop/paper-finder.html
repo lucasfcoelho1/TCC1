@@ -1,0 +1,400 @@
+<html>
+<head>
+<title>Paper Finder</title>
+<script type="text/javascript">
+function getParameterByName(name)
+{
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( window.location.href );
+    if (results == null)
+    {
+        return "";
+    }
+    else
+    {
+        return decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+}
+
+function extractQuery()
+{
+    var json = JSON.parse(getParameterByName("query"));
+    return json;
+}
+
+function respondGoogleScholar()
+{
+    var reply = MendeleyDesktop.network().currentResponse();
+
+    console.log("http code " + reply.responseCode());
+
+    window.lastResult = reply;
+
+    var gsWindow = document.getElementById("gsContentFrame").contentWindow;
+    gsWindow.location.href = reply.bodyFileUrl();
+
+	// TODO - Figure out why using 'gsWindow.onload = parseGoogleScholarResultPage()',
+	// instead of a timeout does not work.
+    setTimeout("parseGoogleScholarResultPage()",100);
+}
+
+function googleScholarQueryUrl()
+{
+    var doc = mendeleyDocument;
+    var baseUrl = "http://scholar.google.com/scholar?q=";
+
+    return baseUrl + doc.title;
+}
+
+function gsDocument()
+{
+    return document.getElementById("gsContentFrame").contentWindow.document;
+}
+
+function addResult(element)
+{
+    document.getElementById("matches").appendChild(element);
+}
+
+function createMatch(title,pdfLink,metadata,snippet)
+{
+	// Google Scholar displays links in the form "[$FILETYPE] from $SERVER"
+	// to the right of the search result.
+	//
+	// Extract the file type from the link
+	//
+	var fileType = "PDF";
+	var fileTypeElement = pdfLink.querySelector("span");
+	if (fileTypeElement)
+	{
+		var match = /([A-Z0-9]+)/.exec(fileTypeElement.innerHTML);
+		if (match)
+		{
+			fileType = match[0];
+		}
+	}
+
+	var iconSrc = "http://www.mendeley.com/graphics/pages/catalog/download-file_hover.png";
+	if (fileType == "PDF")
+	{
+		iconSrc = "http://www.mendeley.com/graphics/pages/catalog/download-pdf_hover.png";
+	}
+
+    var matchElement = document.createElement("div");
+    matchElement.innerHTML =
+      "<img class=\"fileIcon\" src=\"" + iconSrc + "\">" +
+      "<a class=\"title\" href=\"javascript:downloadPaper('" + pdfLink.href + "','" + fileType + "');\">" + title + "</a>" +
+      /*"<a href=\"" + pdfLink.href + "\"><img src=\"open-external.png\"></a>" +*/
+      "<p class=\"metadata\">" + metadata + "</p>";
+    return matchElement;
+}
+
+function parseGoogleScholarResultPage()
+{
+    setStatus("search","");
+
+    var doc = gsDocument();
+
+    var results = doc.getElementsByClassName("gs_r");
+
+    console.log("found " + results.length + "results on page");
+
+	var resultCount = 0;
+    for (var i = 0; i < results.length; i++)
+    {
+        var result = results[i];
+
+        var title = result.querySelector("div>h3>a");
+		if (!title)
+		{
+			// documents which have only been found as citations in other documents
+			// may not have a link, but Google Scholar may still provide a download
+			// link on the right-hand side of the page
+			title = result.querySelector("div>h3");
+		}
+
+        title = title ? title.innerHTML : null;
+
+        var pdfLink = result.querySelector("div>span>a");
+
+        var metadata = result.querySelector(".gs_a");
+        metadata = metadata ? metadata.innerHTML : null;
+
+        var snippet = result.querySelector("div>font");
+        snippet = snippet ? snippet.innerHTML : null;
+
+        if (pdfLink)
+        {
+            var matchElement = createMatch(title,pdfLink,metadata,snippet);
+            addResult(matchElement);
+			++resultCount;
+        }
+    }
+    
+	showMatches("GoogleScholar",resultCount);
+}
+
+function setStatus(section,text)
+{
+    document.getElementById("status_" + section).innerHTML = text;
+}
+
+function showMatches(section,count)
+{
+	var showHeader = false;
+	var showNoResults = false;
+
+	if (count > 0)
+	{
+		showHeader = true;
+	}
+	else
+	{
+		showNoResults = true;
+	}
+
+	setVisible("matches_" + section + "_success",showHeader);
+	setVisible("matches_" + section + "_none",showNoResults);
+    
+	setVisible("matches_" + section,true);
+}
+
+function searchGoogleScholar()
+{
+    setStatus("search","Searching Google Scholar...");
+
+    var queryUrl = googleScholarQueryUrl();
+    var net = MendeleyDesktop.network();
+    var request = net.createRequest(queryUrl);
+    request.setSaveToFile(true);
+    var reply = net.fetch(request);
+	reply.finished.connect(respondGoogleScholar);
+}
+
+function formatBytes(bytes)
+{
+    if (bytes < 1024)
+    {
+        return bytes + " B";
+    }
+    else if (bytes < (1024 * 1024))
+    {
+        return (bytes / 1024).toFixed(0) + " KB";
+    }
+    else
+    {
+        return (bytes / 1024 / 1024).toFixed(1) + " MB";
+    }
+}
+
+function updateFileType(fileType)
+{
+	currentPaperFileType = fileType;
+	document.getElementById("viewLink").innerHTML = "View " + fileType;
+	document.getElementById("attachLink").innerHTML = "Attach this " + fileType + " to Document";
+	document.getElementById("attachDone").innerHTML = "This " + fileType + " has been attached.";
+}
+
+function downloadPaper(link,fileType)
+{
+    setStatus("download","Downloading " + fileType + " from <b>" + link + "</b>");
+
+	updateFileType(fileType);
+
+    var net = MendeleyDesktop.network();
+    var request = net.createRequest(link);
+	request.setSaveToFile(true);
+    var reply = net.fetch(request);
+    reply.downloadProgress.connect(downloadProgressChanged);
+	reply.finished.connect(downloadPaperFinished);
+
+	setVisible("pdfLinks",false);
+	setVisible("attachLink",true);
+    setVisible("attachDone",false);
+    setVisible("status_progress",true);
+
+    showPreview();
+}
+
+function downloadPaperFinished()
+{
+    setVisible("status_progress",false);
+
+    var reply = MendeleyDesktop.network().currentResponse();
+    var url = reply.request().url();
+
+    if (reply.responseCode() == 200)
+    {
+        setStatus("download",currentPaperFileType + " downloaded from <b>" + url + "</b>");
+        currentPaper = reply.body();
+		currentPaperUrl = reply.bodyFileUrl();
+
+		setVisible("pdfLinks",true);
+    }
+    else
+    {
+        var reason = "";
+        if (reply.responseCode() == 404)
+        {
+            reason = "This link does not appear to exist any more.  It may have been removed.";
+        }
+        else if (reply.responseCode() == 403)
+        {
+            reason = "Mendeley does not have permission to access this link.";
+        }
+        if (reason.length > 0)
+        {
+            reason = "<br>" + reason;
+        }
+        setStatus("download","Mendeley could not download the PDF from <a href=\"" + url + "\">" + url + "</a>." + reason);
+    }
+}
+
+function showPreview()
+{
+    setVisible("preview",true);
+}
+
+function setVisible(elementId,visible)
+{
+    if (visible)
+    {
+        document.getElementById(elementId).style.display = "";
+    }
+    else
+    {
+        document.getElementById(elementId).style.display = "none";
+    }
+}
+
+function saveCurrentPaper()
+{
+    if (currentPaper)
+    {
+        MendeleyDesktop.savePaper(currentPaper);
+
+        setVisible("attachLink",false);
+        setVisible("attachDone",true);
+    }
+}
+
+function viewCurrentPaper()
+{
+	if (currentPaperUrl)
+	{
+		MendeleyDesktop.openUrl(currentPaperUrl);
+	}
+}
+
+function downloadManualImport()
+{
+    var manualLink = document.getElementById("manualUrl").value;
+    downloadPaper(manualLink);
+}
+
+function downloadProgressChanged(bytes,total)
+{
+    var progress = document.getElementById("status_progress");
+    progress.innerHTML = "Downloaded " + formatBytes(bytes) + " of " + formatBytes(total);
+}
+
+var mendeleyDocument = extractQuery();
+var currentPaper = null;
+var currentPaperUrl = null;
+var currentPaperFileType = null;
+
+window.onload = function() {
+    document.getElementById("articleTitle").innerHTML = mendeleyDocument.title;
+    searchGoogleScholar();
+}
+
+</script>
+<style>
+body
+{
+    font-size:14px;
+}
+.title
+{
+    color: #A70805;
+    text-decoration: none;
+    font-size: 14px;
+}
+.matchList
+{
+    background: white;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    padding-top:5px;
+    padding-left:15px;
+    padding-bottom:5px;
+    margin-top:20px;
+}
+.metadata
+{
+    color: #216500;
+    margin-top: 3px;
+    font-size: 12px;
+}
+.downloadStatus
+{
+    font-size: 12px;
+    color: #444444;
+}
+.attachLink
+{
+    color: #A70805;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.matchHeader
+{
+    margin-bottom:5px;
+}
+.instructions
+{
+    font-size: 14px;
+}
+.fileIcon
+{
+    padding-right:5px;
+}
+</style>
+</head>
+<body>
+<span class="instructions">Select paper to attach to <b id="articleTitle">title</b></span>
+<!--<button onclick="searchGoogleScholar();">Google Scholar Search</button>!-->
+
+<div id="preview" style="display:none" class="matchList">
+        <div id="status_download" class="downloadStatus"></div>
+        <div id="status_progress" class="downloadStatus"></div>
+        <br>
+		<span id="pdfLinks" style="display:none">
+			<a id="viewLink" href="javascript:viewCurrentPaper();" class="attachLink">View PDF</a> - 
+			<a id="attachLink" href="javascript:saveCurrentPaper();" class="attachLink">Attach this PDF to Document</a>
+			<span id="attachDone" style="display:none">This PDF has been attached.</div>
+		</span>
+</div>
+<div id="matches" class="matchList">
+    <div id="status_search"></div>
+    <div id="matches_GoogleScholar" style="display:none">
+        <div class="matchHeader" id="matches_GoogleScholar_success">Full-text articles available via <b>Google Scholar</b>:</div>
+		<div class="matchHeader" id="matches_GoogleScholar_none">No full-text articles were found via <b>Google Scholar</b></div>
+    <br>
+    </div>
+</div>
+
+<div id="manualImport" class="matchList">
+<span class="instructions"><b>Import from Link</b>
+<p>If you have a direct link to the paper, enter it below and click 'Download'.</p>
+<input type="text" id="manualUrl" style="width:70%">
+<button onclick="javascript:downloadManualImport();" style="width:20%">Download</button>
+</div>
+<br>
+<iframe width="400" height="200" id="gsContentFrame" style="display:none">
+</iframe>
+</body>
+</html>

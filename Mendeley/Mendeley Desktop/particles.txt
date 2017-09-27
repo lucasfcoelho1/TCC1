@@ -1,0 +1,75 @@
+# Mendeley Desktop will use the longest possible particle found in this file.
+#
+# If the particle appears at beginning of the familyName is treated as a non-dropping-particle.
+# If it appears at the end of the given name is treated as a dropping-particle.
+#
+# van Gogh, Vincent : 'van' is a non-dropping-particle
+# Wernher, Braun von : 'von' is a dropping-particle
+#
+# Particles are case insensitive.
+#
+# The style file specifies what happens with the particles: where do they appear, sorting, etc.
+al
+auf den
+ben
+bin
+d'
+da
+das
+de
+del
+dela
+della
+dello
+den
+der
+des
+di
+do
+dos
+du
+el
+il
+in de
+in het
+in 't
+l'
+la
+las
+le
+les
+lo
+lou
+mac
+op de
+pietro
+saint
+sainte
+sen
+st.
+ste.
+te
+ten
+ter
+uit de
+uit den
+v
+v.
+van
+vande
+van de
+vanden
+van den
+vander
+van der
+van het
+vd
+v.d.
+ver
+vom
+von
+von dem
+von der
+von zu
+zum
+zur
