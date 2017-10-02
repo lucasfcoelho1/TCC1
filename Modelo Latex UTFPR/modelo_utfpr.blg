@@ -7,7 +7,7 @@ A level-1 auxiliary file: ./Capitulos/capitulo5.aux
 The style file: abnt-alf.bst
 Database file #1: abnt-options.bib
 Database file #2: ./Referencias/reflatex.bib
-Repeated entry---line 86 of file ./Referencias/reflatex.bib
+Repeated entry---line 110 of file ./Referencias/reflatex.bib
  : @inproceedings{7372032
  :                       ,
 I'm skipping whatever remains of this entry

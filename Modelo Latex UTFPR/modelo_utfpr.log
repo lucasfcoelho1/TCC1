@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  27 SEP 2017 00:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  1 OCT 2017 20:52
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -537,48 +537,49 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 
 (Capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+
+LaTeX Warning: Citation `Pressman2009' on page 6 undefined on input line 7.
+
+[6
+
+
+
+] [7]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 37.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
- [6
-
-
-
-]) [7]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+) [8]
 \openout2 = `./Capitulos/capitulo2.aux'.
 
 
 (Capitulos/capitulo2.tex
 Cap\'{\i }tulo 2.
-
-LaTeX Warning: Citation `Pressman2009' on page 8 undefined on input line 6.
-
-[8
+[9
 
 
 
-] [9]
-Overfull \hbox (3.12302pt too wide) in paragraph at lines 22--23
+] [10]
+Overfull \hbox (3.12302pt too wide) in paragraph at lines 23--24
 []\OT1/ptm/m/n/12 Xamarin []e um \OT1/ptm/m/it/12 fra-mework \OT1/ptm/m/n/12 de
  de-sen-vol-vi-mento para dis-po-si-ti-vos m[]oveis \OT1/ptm/m/it/12 cross-plat
 aform
  []
 
-[10] [11] [12] [13] [14]
-Overfull \hbox (0.33174pt too wide) in paragraph at lines 89--91
+[11] [12] [13] [14] [15]
+Overfull \hbox (0.33174pt too wide) in paragraph at lines 90--92
 \OT1/ptm/m/n/12 Main-Page.xaml. No cons-tru-tor s[]ao de-fi-ni-dos os par[]amet
 ros ini-cias para a execu[][]ao da aplica[][]ao.
  []
 
-) [15]
+) [16]
 \openout2 = `./Capitulos/capitulo3.aux'.
 
  (Capitulos/capitulo3.tex
 Cap\'{\i }tulo 3.
-) [16
+) [17
 
 
 
@@ -587,7 +588,7 @@ Cap\'{\i }tulo 3.
 
  (Capitulos/capitulo4.tex
 Cap\'{\i }tulo 4.
-) [17
+) [18
 
 
 
@@ -601,13 +602,13 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 5.
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 
-LaTeX Warning: Citation `CTAN2009' on page 18 undefined on input line 5.
+LaTeX Warning: Citation `CTAN2009' on page 19 undefined on input line 5.
 
 
-LaTeX Warning: Citation `TeX-Br2009' on page 18 undefined on input line 5.
+LaTeX Warning: Citation `TeX-Br2009' on page 19 undefined on input line 5.
 
 
-LaTeX Warning: Citation `Wikibooks2009' on page 18 undefined on input line 5.
+LaTeX Warning: Citation `Wikibooks2009' on page 19 undefined on input line 5.
 
 
 Overfull \hbox (3.1574pt too wide) in paragraph at lines 5--6
@@ -616,11 +617,11 @@ uado []as Nor-mas para Elabora[][]ao
  []
 
 
-LaTeX Warning: Citation `TeXnicCenter2009' on page 18 undefined on input line 7
+LaTeX Warning: Citation `TeXnicCenter2009' on page 19 undefined on input line 7
 .
 
 
-LaTeX Warning: Citation `MiKTeX2009' on page 18 undefined on input line 7.
+LaTeX Warning: Citation `MiKTeX2009' on page 19 undefined on input line 7.
 
 
 Overfull \hbox (4.29355pt too wide) in paragraph at lines 7--8
@@ -629,10 +630,10 @@ omenda-se o edi-tor T[]XnicCenter (\OT1/ptm/b/n/12 ??\OT1/ptm/m/n/12 ).
  []
 
 
-LaTeX Warning: Citation `JabRef2009' on page 18 undefined on input line 9.
+LaTeX Warning: Citation `JabRef2009' on page 19 undefined on input line 9.
 
 
-LaTeX Warning: Citation `Mendeley2009' on page 18 undefined on input line 9.
+LaTeX Warning: Citation `Mendeley2009' on page 19 undefined on input line 9.
 
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 9.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
@@ -640,7 +641,7 @@ File: omspcr.fd
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
-) [18
+) [19
 
 
 
@@ -687,7 +688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--116
 /12 . 2017. Dis-pon[]vel em:
  []
 
-[19
+[20
 
 
 ]
@@ -696,49 +697,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--127
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--135
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--135
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
 \OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
 SSN 1098-6596. ISBN 978-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--135
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
 \OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
 /m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--146
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
 []\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
 []\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (31.21912pt too wide) in paragraph at lines 155--157
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 161--163
 []\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (11.80353pt too wide) in paragraph at lines 160--164
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 166--170
 []\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
 t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
  []
 
 ) 
 AED: lastpage setting LastPage
-[20]
+[21]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
@@ -750,10 +751,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5111 strings out of 493323
- 69222 string characters out of 3139060
- 159944 words of memory out of 3000000
- 8425 multiletter control sequences out of 15000+200000
+ 5116 strings out of 493323
+ 69339 string characters out of 3139060
+ 160033 words of memory out of 3000000
+ 8430 multiletter control sequences out of 15000+200000
  28310 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,17n,45p,2292b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -763,9 +764,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 ype1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (21 pages, 413487 bytes).
+Output written on modelo_utfpr.pdf (22 pages, 417121 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
+ 103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
