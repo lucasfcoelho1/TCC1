@@ -27,6 +27,11 @@ Dispon{\'\i}vel em: $<$http://www.apportable.com/$>$.}
 {BEIZER, B. Software testing techniques.
 Van Nostrand Reinhold Co., 1990.}
 
+\bibitem[Bernardo e Kon 2008]{bernardo2008importancia}
+\abntrefinfo{Bernardo e Kon}{BERNARDO; KON}{2008}
+{BERNARDO, P.~C.; KON, F. A import{\^a}ncia dos testes automatizados.
+\textbf{Engenharia de Software Magazine}, v.~1, n.~3, p. 54--57, 2008.}
+
 \bibitem[Boushehrinejadmoradi et al. 2015]{7372032}
 \abntrefinfo{Boushehrinejadmoradi et al.}{BOUSHEHRINEJADMORADI et al.}{2015}
 {BOUSHEHRINEJADMORADI, N. et al. Testing cross-platform mobile app development

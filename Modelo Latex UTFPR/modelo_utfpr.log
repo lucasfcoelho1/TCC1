@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  1 OCT 2017 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  3 OCT 2017 00:25
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -544,18 +544,10 @@ LaTeX Warning: Citation `Pressman2009' on page 6 undefined on input line 7.
 
 
 
-] [7]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 37.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
-) [8]
+] [7]) [8]
 \openout2 = `./Capitulos/capitulo2.aux'.
 
-
-(Capitulos/capitulo2.tex
+ (Capitulos/capitulo2.tex
 Cap\'{\i }tulo 2.
 [9
 
@@ -647,43 +639,43 @@ LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
 
 ]
 (modelo_utfpr.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 38--42
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 []\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
 12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 []\OT1/ptm/m/n/12 CSS3. \OT1/ptm/b/n/12 W3C Cas-ca-ding Style Sheet\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 []\OT1/ptm/m/n/12 FACEBOOK. \OT1/ptm/b/n/12 Fa-ce-book Re-act Na-tive\OT1/ptm/m
 /n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 []\OT1/ptm/m/n/12 HTML5. \OT1/ptm/b/n/12 W3C Hy-per-Text Mar-kup Lan-guage\OT1/
 ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 76--79
+Underfull \hbox (badness 4001) in paragraph at lines 81--84
 []\OT1/ptm/m/n/12 IDC, I. D. C. \OT1/ptm/b/n/12 Smartphone OS Mar-ket Share, 20
 17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--105
+Underfull \hbox (badness 10000) in paragraph at lines 106--110
 []\OT1/ptm/m/n/12 MICROSOFT. Mi-cro-soft. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 https://www.microsoft.com/pt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 []\OT1/ptm/m/n/12 MYAPPCONVERTER. \OT1/ptm/b/n/12 MyApp-Con-ver-ter\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
@@ -692,47 +684,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 124--127
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 []\OT1/ptm/m/n/12 .NETFRAMEWORK. .Net Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
+Underfull \hbox (badness 10000) in paragraph at lines 141--146
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
+Underfull \hbox (badness 10000) in paragraph at lines 141--146
 \OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
 SSN 1098-6596. ISBN 978-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
+Underfull \hbox (badness 10000) in paragraph at lines 141--146
 \OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
 /m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+Underfull \hbox (badness 10000) in paragraph at lines 154--157
 []\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--158
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
 []\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (31.21912pt too wide) in paragraph at lines 161--163
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 166--168
 []\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (11.80353pt too wide) in paragraph at lines 166--170
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 171--175
 []\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
 t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
  []
@@ -751,10 +743,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5116 strings out of 493323
- 69339 string characters out of 3139060
- 160033 words of memory out of 3000000
- 8430 multiletter control sequences out of 15000+200000
+ 5106 strings out of 493323
+ 69235 string characters out of 3139060
+ 160095 words of memory out of 3000000
+ 8423 multiletter control sequences out of 15000+200000
  28310 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,17n,45p,2292b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -764,7 +756,7 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 ype1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (22 pages, 417121 bytes).
+Output written on modelo_utfpr.pdf (22 pages, 416514 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

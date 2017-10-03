@@ -11,6 +11,10 @@ Repeated entry---line 110 of file ./Referencias/reflatex.bib
  : @inproceedings{7372032
  :                       ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 123 of file ./Referencias/reflatex.bib
+ : @article{bernardo2008importancia
+ :                                 ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "abnt-etal-list=99"
 Warning--I didn't find a database entry for "Pressman2009"
 Warning--I didn't find a database entry for "CTAN2009"
@@ -26,4 +30,4 @@ Warning--I didn't find a database entry for "Mendeley2009"
 | Em caso de duvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-(There was 1 error message)
+(There were 2 error messages)

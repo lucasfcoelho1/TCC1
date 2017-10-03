@@ -11,33 +11,24 @@ Com a crescente evolução dos sistemas computacionais, tem-se uma preocupação na 
 
 \section{Motivação}
 
-No cenário de desenvolvimento de software convencional o time estuda um problema, encontra uma solução e em seguia a implementa. Somente todo o processo ter ocorrido é que o desenvolvedor realizará os testes no software. Testes manuais que consistem em designar uma ou mais pessoas para testar manualmente o que foi desenvolvido pela equipe. A execução desses testes visa encontrar falhas no sistema durante o processo de desenvolvimento, contudo é uma tarefa cansativa e que demanda muito tempo dos testadores. Neste cenário é comum que não sejam verificados novamente todos os casos de teste a cada mudança significativa no código. Isto pode gerar muitos erros no software, podendo atrasar a entrega do produto final ou no pior caso, o defeito ser encontrado pelo usuário já em produção. Todos esses problemas geram custo para a empresa. Ainda sobre os custos, conforme a quantidade de desenvolvedores na empresa cresce, o número de testadores deve acompanhar este crescimento.
+No cenário de desenvolvimento de software convencional o time estuda um problema, encontra uma solução e em seguia a implementa \cite{bernardo2008importancia}. Somente todo o processo ter ocorrido é que o desenvolvedor realizará os testes no software. Testes manuais que consistem em designar uma ou mais pessoas para testar manualmente o que foi desenvolvido pela equipe. A execução desses testes visa encontrar falhas no sistema durante o processo de desenvolvimento, contudo é uma tarefa cansativa e que demanda muito tempo dos testadores. Neste cenário é comum que não sejam verificados novamente todos os casos de teste a cada mudança significativa no código. Isto pode gerar muitos erros no software, podendo atrasar a entrega do produto final ou no pior caso, o defeito ser encontrado pelo usuário já em produção. Todos esses problemas geram custo para a empresa. Ainda sobre os custos, conforme a quantidade de desenvolvedores na empresa cresce, o número de testadores deve acompanhar este crescimento.
 
 Testes automatizados são programas ou \textit{scripts} que tem a finalidade de testar as funcionalidades criadas. A vantagem da automatização dos testes é a possibilidade de verificar tudo o que já foi desenvolvido rapidamente e a qualquer momento.
 
-Os testes automatizados, quando bem aplicados pela equipe de desenvolvimento são uma ferramenta poderosa para minimizar a quantidade de defeitos, já que quando o desenvolvedor produz uma funcionalidade ela deve ter um caso de teste automatizado correspondente. Assim quando a equipe decide implementar novas funcionalidades que alterem a estrutura do código e por vezes alterando as dependências dos códigos previamente desenvolvidos basta que o testador re-execute todos os casos de teste. Caso algum caso de teste não passe, significa que algo deixou de funcionar. Além disso como os casos de teste são criados em códigos que são interpretados pela máquina, o testador pode incluir combinações de valores complexas.
-
-Testes automatizados de sistema são \textit{scripts} que permitem a máquina registrar o estado atual da interface de um software. É possível cria-los por código e alguns \textit{frameworks} possuem a opção de gravação, na qual o testador utiliza o sistema normalmente, navegando entre as telas, inserindo dados nos campos de texto e a ferramenta se encarrega de gerar automaticamente o \textit{script}. 
+Os testes automatizados, quando bem aplicados pela equipe de desenvolvimento são uma ferramenta poderosa para minimizar a quantidade de defeitos, uma vez que, quando o desenvolvedor produz uma funcionalidade ela deve ter um caso de teste automatizado correspondente. Assim se a equipe decidir incluir novas funcionalidades que alterem a estrutura dos códigos previamente desenvolvidos basta que o testador execute novamente todos os \textit{scripts} e verificar se algum parou de funcionar. Além disso, omo os casos de teste são códigos que serão interpretados pela máquina, o testador pode incluir combinações de valores complexas que um ser-humano provavelmente não testaria.
+ 
+Para este estudo será utilizado a ferramenta x-PATeSco (cross-Platform App Test Script reCOrder) []. Ela foi desenvolvida por... . Baseada no Selenium Web Driver [] e faz uso do \textit{framework} Appium [] para realizar a conexão com as \textit{apps}. Esta ferramenta tenta identificar os elementos que foram alterados na tela entre diferentes versões.
 
 \section{Objetivos}
 
+O objetivo deste trabalho é verificar se os \textit{scripts} de teste gerados com a ferramenta x-PATeSco são robustos, considerando diferentes versões de uma mesma \textit{app}
 
-\subsection{Objetivo Geral}
-
-
-
-\subsection{Objetivos Espec\'ificos}
-\begin{enumerate}
-\item dfsdsfd
-\item fwfsdfsd
-\end{enumerate}
+s scripts de testes ... com as mudanças de versões devido a(...)
+Menelssi e Endo (2017)
+mudanças entre elementos da UI
+ref [38,39,40]
 
 
-\begin{itemize}
-	\item Obter documentos acad\^emicos automaticamente formatados com corre\c{c}\~ao e perfei\c{c}\~ao est\'etica.
-	\item Desonerar autores da tediosa tarefa de formatar documentos acad\^emicos, permitindo sua concentra\c{c}\~ao no conte\'udo do mesmo.
-	\item Desonerar orientadores e examinadores da tediosa tarefa de conferir a formata\c{c}\~ao de documentos acad\^emicos, permitindo sua concentra\c{c}\~ao no conte\'udo do mesmo.
-\end{itemize}
-
+obj: verificar se os scripts de teste gerados pela ferramenta x-... são robustos considerando diferentes versões de uma mesma app
 \section{Organização do Texto}
 
