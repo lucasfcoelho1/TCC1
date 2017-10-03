@@ -11,11 +11,28 @@
 2017.
 Dispon{\'\i}vel em: $<$https://phonegap.com/$>$.}
 
+\bibitem[Amazon 2017]{Amazon2017}
+\abntrefinfo{Amazon}{AMAZON}{2017}
+{AMAZON. {AWS Device Farm}.
+2017.
+Dispon{\'\i}vel em: $<$https://aws.amazon.com/pt/device-farm/$>$.}
+
 \bibitem[Apache 2017]{Apache}
 \abntrefinfo{Apache}{APACHE}{2017}
 {APACHE. {Apache Cordova}.
 2017.
 Dispon{\'\i}vel em: $<$https://cordova.apache.org/$>$.}
+
+\bibitem[Apple 2017]{AppStore2017}
+\abntrefinfo{Apple}{APPLE}{2017a}
+{APPLE. {App Store}.
+2017.}
+
+\bibitem[Apple 2017]{Apple2017}
+\abntrefinfo{Apple}{APPLE}{2017b}
+{APPLE. {iOS}.
+2017.
+Dispon{\'\i}vel em: $<$https://www.apple.com/br/$>$.}
 
 \bibitem[Apportable 2017]{Apportable}
 \abntrefinfo{Apportable}{APPORTABLE}{2017}
@@ -31,6 +48,12 @@ Van Nostrand Reinhold Co., 1990.}
 \abntrefinfo{Bernardo e Kon}{BERNARDO; KON}{2008}
 {BERNARDO, P.~C.; KON, F. A import{\^a}ncia dos testes automatizados.
 \textbf{Engenharia de Software Magazine}, v.~1, n.~3, p. 54--57, 2008.}
+
+\bibitem[BitBar 2017]{BitBar2017}
+\abntrefinfo{BitBar}{BITBAR}{2017}
+{BITBAR. {Mobile App Testing}.
+2017.
+Dispon{\'\i}vel em: $<$https://bitbar.com/testing/$>$.}
 
 \bibitem[Boushehrinejadmoradi et al. 2015]{7372032}
 \abntrefinfo{Boushehrinejadmoradi et al.}{BOUSHEHRINEJADMORADI et al.}{2015}
@@ -66,6 +89,29 @@ Dispon{\'\i}vel em: $<$http://www.ecma-international.org/$>$.}
 {FACEBOOK. \textbf{{Facebook React Native}}. 2017.
 Dispon{\'\i}vel em: $<$https://facebook.github.io/react-native/$>$.}
 
+\bibitem[Forlogic 2017]{Forlogic2017}
+\abntrefinfo{Forlogic}{FORLOGIC}{2017}
+{FORLOGIC. \textbf{{Forlogic Tasks}}. 2017.
+Dispon{\'\i}vel em:
+  $<$https://play.google.com/store/apps/details?id=com.forlogic.tasks{\&}hl=pt{\_}BR$>$.}
+
+\bibitem[Google 2017]{Google2017}
+\abntrefinfo{Google}{GOOGLE}{2017a}
+{GOOGLE. \textbf{{Android}}. 2017.
+Dispon{\'\i}vel em: $<$https://www.android.com/$>$.}
+
+\bibitem[Google 2017]{AndroidStudio2017}
+\abntrefinfo{Google}{GOOGLE}{2017b}
+{GOOGLE. {Android Studio}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://developer.android.com/studio/index.html?hl=pt-br$>$.}
+
+\bibitem[Google 2017]{GooglePlay2017}
+\abntrefinfo{Google}{GOOGLE}{2017c}
+{GOOGLE. \textbf{{Google Play}}. 2017.
+Dispon{\'\i}vel em: $<$https://play.google.com/store?hl=pt-br$>$.}
+
 \bibitem[HTML5 2017]{HTML5}
 \abntrefinfo{HTML5}{HTML5}{2017}
 {HTML5. \textbf{{W3C HyperText Markup Language}}. 2017.
@@ -88,6 +134,12 @@ Dispon{\'\i}vel em:
 2017.
 Dispon{\'\i}vel em: $<$https://ionicframework.com/$>$.}
 
+\bibitem[JSFoundation 2017]{JSFoundation2017}
+\abntrefinfo{JSFoundation}{JSFOUNDATION}{2017}
+{JSFOUNDATION. {Appium}.
+2017.
+Dispon{\'\i}vel em: $<$http://appium.io/$>$.}
+
 \bibitem[Maldonado et al. 2004]{Maldonado2004}
 \abntrefinfo{Maldonado et al.}{MALDONADO et al.}{2004}
 {MALDONADO, J.~C. et al. {Introdu{\c{c}}{\~{a}}o ao Teste de Software}.
@@ -101,12 +153,33 @@ Dispon{\'\i}vel em:
   contribui{\c{c}}{\~a}o ao teste estrutural de software.
 \textbf{(Publica{\c{c}}{\~a}o FEE)}, [sn], 1991.}
 
+\bibitem[Microsft 2017]{MicrosftWPF2017}
+\abntrefinfo{Microsft}{MICROSFT}{2017}
+{MICROSFT. {WPF}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://msdn.microsoft.com/pt-br/library/mt149842(v=vs.110).aspx$>$.}
+
 \bibitem[Microsoft 2017]{Microsoft2017}
-\abntrefinfo{Microsoft}{MICROSOFT}{2017}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017a}
 {MICROSOFT. {Microsoft}.
 2017.
 Dispon{\'\i}vel em:
   $<$https://www.microsoft.com/pt-br?SilentAuth=1{\&}wa=wsignin1.0$>$.}
+
+\bibitem[Microsoft 2017]{MicrosoftMVVM2017}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017b}
+{MICROSOFT. {MVVM Pattern}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://msdn.microsoft.com/en-us/library/hh848246.aspx?f=255{\&}MSPPError=-2147217396$>$.}
+
+\bibitem[Microsoft 2017]{UnitTestingFramework2017}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017c}
+{MICROSOFT. {Unit Testing Framework}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://msdn.microsoft.com/en-us/library/ms243147{\%}28vs.80{\%}29.aspx?f=255{\&}MSPPError=-2147217396$>$.}
 
 \bibitem[Mono 2017]{Mono2017}
 \abntrefinfo{Mono}{MONO}{2017}
@@ -143,6 +216,18 @@ Dispon{\'\i}vel em: $<$https://www.microsoft.com/net/$>$.}
 ISSN 1098-6596.
 ISBN 978-0-07-337597-7. Dispon{\'\i}vel em:
   $<$http://dinus.ac.id/repository/docs/ajar/RPL-7th{\_}ed{\_}software{\_}engineering{\_}a{\_}practitioners{\_}approach{\_}by{\_}roger{\_}s.{\_}pressman{\_}.pdf$>$.}
+
+\bibitem[Selenium 2017]{Selenium2017}
+\abntrefinfo{Selenium}{SELENIUM}{2017}
+{SELENIUM. {SeleniumHQ}.
+2017.
+Dispon{\'\i}vel em: $<$http://www.seleniumhq.org/docs/03{\_}webdriver.jsp$>$.}
+
+\bibitem[TestObject 2017]{TestObject2017}
+\abntrefinfo{TestObject}{TESTOBJECT}{2017}
+{TESTOBJECT. {TestObject}.
+2017.
+Dispon{\'\i}vel em: $<$https://testobject.com/$>$.}
 
 \bibitem[Xamarin 2017]{Xamarin}
 \abntrefinfo{Xamarin}{XAMARIN}{2017}

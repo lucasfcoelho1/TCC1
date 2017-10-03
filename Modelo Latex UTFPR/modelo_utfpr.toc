@@ -4,12 +4,13 @@
 \contentsline {section}{\numberline {1.2}\MakeUppercase {Objetivos}}{8}
 \contentsline {section}{\numberline {1.3}\MakeUppercase {Organiza\c c\~ao do Texto}}{8}
 \contentsline {chapter}{\numberline {2}\MakeUppercase {FUNDAMENTA\c C\~AO TE\'ORICA}}{9}
-\contentsline {section}{\numberline {2.1}\MakeUppercase {Teste de software}}{9}
+\contentsline {section}{\numberline {2.1}\MakeUppercase {Testes de software}}{9}
 \contentsline {section}{\numberline {2.2}\MakeUppercase {Aplica\c c\~oes M\'oveis}}{10}
 \contentsline {section}{\numberline {2.3}\MakeUppercase {Xamarin}}{11}
 \contentsline {subsection}{\numberline {2.3.1}Xamarin.iOS e Xamarin.Android}{11}
 \contentsline {subsection}{\numberline {2.3.2}Xamarin.Forms}{12}
 \contentsline {subsection}{\numberline {2.3.3}Estrutura do projeto}{13}
 \contentsline {section}{\numberline {2.4}\MakeUppercase {Appium}}{16}
-\contentsline {chapter}{\numberline {3}\MakeUppercase {Proposta}}{17}
-\contentsline {chapter}{REFER\^ENCIAS}{18}
+\contentsline {section}{\numberline {2.5}\MakeUppercase {Trabalhos Relacionados}}{17}
+\contentsline {chapter}{\numberline {3}\MakeUppercase {Proposta}}{18}
+\contentsline {chapter}{REFER\^ENCIAS}{19}

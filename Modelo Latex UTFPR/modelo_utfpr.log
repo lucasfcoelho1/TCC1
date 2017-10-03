@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  3 OCT 2017 01:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  3 OCT 2017 04:11
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -553,121 +553,166 @@ Cap\'{\i }tulo 2.
 
 
 ] [10]
-Overfull \hbox (3.12302pt too wide) in paragraph at lines 23--24
+Overfull \hbox (3.12302pt too wide) in paragraph at lines 20--21
 []\OT1/ptm/m/n/12 Xamarin []e um \OT1/ptm/m/it/12 fra-mework \OT1/ptm/m/n/12 de
- de-sen-vol-vi-mento para dis-po-si-ti-vos m[]oveis \OT1/ptm/m/it/12 cross-plat
-aform
+ de-sen-vol-vi-mento \OT1/ptm/m/it/12 cross-plataform \OT1/ptm/m/n/12 para dis-
+po-si-ti-vos m[]oveis
  []
 
 [11] [12] [13] [14] [15]
-Overfull \hbox (0.33174pt too wide) in paragraph at lines 90--92
+Overfull \hbox (3.66762pt too wide) in paragraph at lines 92--93
 \OT1/ptm/m/n/12 Main-Page.xaml. No cons-tru-tor s[]ao de-fi-ni-dos os par[]amet
-ros ini-cias para a execu[][]ao da aplica[][]ao.
+ros ini-ci-ais para a execu[][]ao da aplica[][]ao.
  []
 
-) [16]
+[16]) [17]
 \openout2 = `./Capitulos/capitulo3.aux'.
 
  (Capitulos/capitulo3.tex
 Cap\'{\i }tulo 3.
-) [17
+) [18
 
 
 
 ] (modelo_utfpr.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
+Underfull \hbox (badness 10000) in paragraph at lines 66--70
 []\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
 12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--58
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
 []\OT1/ptm/m/n/12 CSS3. \OT1/ptm/b/n/12 W3C Cas-ca-ding Style Sheet\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
 []\OT1/ptm/m/n/12 FACEBOOK. \OT1/ptm/b/n/12 Fa-ce-book Re-act Na-tive\OT1/ptm/m
 /n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Overfull \hbox (180.32889pt too wide) in paragraph at lines 94--97
+[]\OT1/ptm/m/n/12 FORLOGIC. \OT1/ptm/b/n/12 For-lo-gic Tasks\OT1/ptm/m/n/12 . 2
+017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://play.googl
+e.com/store/apps/details?id=com.forlogic.tasks&hl=pt[]BR$\OML/ztmcm/m/it/12 >$\
+OT1/ptm/m/n/12 . 
+ []
+
+
+Overfull \hbox (58.0994pt too wide) in paragraph at lines 105--109
+[]\OT1/ptm/m/n/12 GOOGLE. An-droid Stu-dio. 2017. Dis-pon[]vel em: $\OML/ztmcm
+/m/it/12 <$\OT1/ptm/m/n/12 https://developer.android.com/studio/index.html?hl=p
+t-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
 []\OT1/ptm/m/n/12 HTML5. \OT1/ptm/b/n/12 W3C Hy-per-Text Mar-kup Lan-guage\OT1/
 ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
+[19
 
-Underfull \hbox (badness 4001) in paragraph at lines 81--84
+
+]
+Underfull \hbox (badness 4001) in paragraph at lines 127--130
 []\OT1/ptm/m/n/12 IDC, I. D. C. \OT1/ptm/b/n/12 Smartphone OS Mar-ket Share, 20
 17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--110
+Underfull \hbox (badness 10000) in paragraph at lines 158--162
+[]\OT1/ptm/m/n/12 MICROSFT. WPF. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$
+\OT1/ptm/m/n/12 https://msdn.microsoft.com/pt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
 []\OT1/ptm/m/n/12 MICROSOFT. Mi-cro-soft. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 https://www.microsoft.com/pt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
+Underfull \hbox (badness 1838) in paragraph at lines 172--176
+[]\OT1/ptm/m/n/12 MICROSOFT. MVVM Pat-tern. 2017. Dis-pon[]vel em: $\OML/ztmcm
+/m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+[]\OT1/ptm/m/n/12 MICROSOFT. Unit Tes-ting Fra-mework. 2017. Dis-pon[]vel em:
+ []
+
+
+Overfull \hbox (8.9352pt too wide) in paragraph at lines 179--183
+\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-us/library/m
+s243147%28vs.80%29.aspx?f=255&MSPPError=-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
 []\OT1/ptm/m/n/12 MYAPPCONVERTER. \OT1/ptm/b/n/12 MyApp-Con-ver-ter\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
 
-[18
 
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 129--132
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 []\OT1/ptm/m/n/12 .NETFRAMEWORK. .Net Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
 \OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
 SSN 1098-6596. ISBN 978-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 214--219
 \OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
 /m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--157
+Overfull \hbox (46.19571pt too wide) in paragraph at lines 222--225
+[]\OT1/ptm/m/n/12 SELENIUM. Se-le-niumHQ. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
+/it/12 <$\OT1/ptm/m/n/12 http://www.seleniumhq.org/docs/03[]webdriver.jsp$\OML/
+ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
 []\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--163
+Underfull \hbox (badness 10000) in paragraph at lines 245--248
 []\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
  []
 
-
-Overfull \hbox (31.21912pt too wide) in paragraph at lines 166--168
+[20]
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 251--253
 []\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (11.80353pt too wide) in paragraph at lines 171--175
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 256--260
 []\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
 t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
  []
 
 ) 
 AED: lastpage setting LastPage
-[19]
+[21]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
@@ -679,21 +724,21 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5016 strings out of 493323
- 67740 string characters out of 3139060
- 159493 words of memory out of 3000000
- 8358 multiletter control sequences out of 15000+200000
+ 5086 strings out of 493323
+ 69218 string characters out of 3139060
+ 157147 words of memory out of 3000000
+ 8428 multiletter control sequences out of 15000+200000
  24229 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,17n,45p,2292b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,17n,45p,2240b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
 >
-Output written on modelo_utfpr.pdf (20 pages, 397999 bytes).
+Output written on modelo_utfpr.pdf (22 pages, 402910 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
