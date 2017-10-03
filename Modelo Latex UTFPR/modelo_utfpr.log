@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  3 OCT 2017 00:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  3 OCT 2017 01:27
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -375,8 +375,7 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 ) (modelo_utfpr.aux
-(Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux) (Capitulos/capitulo3.aux)
-(Capitulos/capitulo4.aux) (Capitulos/capitulo5.aux))
+(Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux) (Capitulos/capitulo3.aux))
 \openout1 = `modelo_utfpr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -575,70 +574,7 @@ Cap\'{\i }tulo 3.
 
 
 
-]
-\openout2 = `./Capitulos/capitulo4.aux'.
-
- (Capitulos/capitulo4.tex
-Cap\'{\i }tulo 4.
-) [18
-
-
-
-]
-\openout2 = `./Capitulos/capitulo5.aux'.
-
- (Capitulos/capitulo5.tex
-Cap\'{\i }tulo 5.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 5.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-
-LaTeX Warning: Citation `CTAN2009' on page 19 undefined on input line 5.
-
-
-LaTeX Warning: Citation `TeX-Br2009' on page 19 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Wikibooks2009' on page 19 undefined on input line 5.
-
-
-Overfull \hbox (3.1574pt too wide) in paragraph at lines 5--6
-[]\OT1/ptm/m/n/12 Espera-se que o uso do es-tilo de formata[][]ao L[]T[]X ade-q
-uado []as Nor-mas para Elabora[][]ao
- []
-
-
-LaTeX Warning: Citation `TeXnicCenter2009' on page 19 undefined on input line 7
-.
-
-
-LaTeX Warning: Citation `MiKTeX2009' on page 19 undefined on input line 7.
-
-
-Overfull \hbox (4.29355pt too wide) in paragraph at lines 7--8
-\OT1/ptm/m/n/12 em L[]T[]X para usu[]arios Li-nux. Para usu[]arios Win-dows rec
-omenda-se o edi-tor T[]XnicCenter (\OT1/ptm/b/n/12 ??\OT1/ptm/m/n/12 ).
- []
-
-
-LaTeX Warning: Citation `JabRef2009' on page 19 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Mendeley2009' on page 19 undefined on input line 9.
-
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 9.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspcr.fd"
-File: omspcr.fd 
-)
-LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
-) [19
-
-
-
-]
-(modelo_utfpr.bbl
+] (modelo_utfpr.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 43--47
 []\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
 12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
@@ -680,7 +616,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--121
 /12 . 2017. Dis-pon[]vel em:
  []
 
-[20
+[18
 
 
 ]
@@ -731,34 +667,33 @@ t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
 
 ) 
 AED: lastpage setting LastPage
-[21]
+[19]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
 (modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux)
-(Capitulos/capitulo3.aux) (Capitulos/capitulo4.aux) (Capitulos/capitulo5.aux))
+(Capitulos/capitulo3.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5106 strings out of 493323
- 69235 string characters out of 3139060
- 160095 words of memory out of 3000000
- 8423 multiletter control sequences out of 15000+200000
- 28310 words of font info for 60 fonts, out of 3000000 for 9000
+ 5016 strings out of 493323
+ 67740 string characters out of 3139060
+ 159493 words of memory out of 3000000
+ 8358 multiletter control sequences out of 15000+200000
+ 24229 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,17n,45p,2292b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
-utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (22 pages, 416514 bytes).
+/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on modelo_utfpr.pdf (20 pages, 397999 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
