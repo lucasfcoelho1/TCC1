@@ -5,24 +5,24 @@ A level-1 auxiliary file: ./Capitulos/capitulo3.aux
 The style file: abnt-alf.bst
 Database file #1: abnt-options.bib
 Database file #2: ./Referencias/reflatex.bib
-Repeated entry---line 110 of file ./Referencias/reflatex.bib
+Repeated entry---line 124 of file ./Referencias/reflatex.bib
  : @inproceedings{7372032
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 123 of file ./Referencias/reflatex.bib
+Repeated entry---line 137 of file ./Referencias/reflatex.bib
  : @article{bernardo2008importancia
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 337 of file ./Referencias/reflatex.bib
+Repeated entry---line 351 of file ./Referencias/reflatex.bib
  : @article{Xamarin.iOS2017
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 343 of file ./Referencias/reflatex.bib
+Repeated entry---line 357 of file ./Referencias/reflatex.bib
  : @article{Xamarin.Android2017
  :                             ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "abnt-etal-list=99"
-Warning--I didn't find a database entry for "Pressman2009"
+Warning--I didn't find a database entry for "Pressman20093"
 +---------------------------------------------------------+
 | Estilo bibliografico abnt-alf.bst versao 1.52           |
 | Implementa a NBR6023, NBR10520 e NBR10523               |
