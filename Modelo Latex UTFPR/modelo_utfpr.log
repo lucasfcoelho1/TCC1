@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  4 OCT 2017 00:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  8 OCT 2017 05:19
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -536,6 +536,9 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 
 (Capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
+
+LaTeX Warning: Citation `Pressman2009' on page 6 undefined on input line 7.
+
 [6
 
 
@@ -545,37 +548,26 @@ Cap\'{\i }tulo 1.
 
  (Capitulos/capitulo2.tex
 Cap\'{\i }tulo 2.
-
-LaTeX Warning: Citation `Pressman20093' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Pressman20093' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Pressman20093' on page 9 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Pressman20093' on page 9 undefined on input line 7.
-
 [9
 
 
 
-] [10]
-Overfull \hbox (3.12302pt too wide) in paragraph at lines 20--21
-[]\OT1/ptm/m/n/12 Xamarin []e um \OT1/ptm/m/it/12 fra-mework \OT1/ptm/m/n/12 de
- de-sen-vol-vi-mento \OT1/ptm/m/it/12 cross-plataform \OT1/ptm/m/n/12 para dis-
-po-si-ti-vos m[]oveis
- []
+] [10] [11] [12] [13] [14]
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 74.
 
-[11] [12] [13] [14] [15]
-Overfull \hbox (3.66762pt too wide) in paragraph at lines 91--92
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+ [15]
+Overfull \hbox (3.66762pt too wide) in paragraph at lines 94--95
 \OT1/ptm/m/n/12 Main-Page.xaml. No cons-tru-tor s[]ao de-fi-ni-dos os par[]amet
 ros ini-ci-ais para a execu[][]ao da aplica[][]ao.
  []
 
 [16]
-Overfull \hbox (15.13988pt too wide) in paragraph at lines 103--104
+Overfull \hbox (15.13988pt too wide) in paragraph at lines 108--109
 \OT1/ptm/m/n/12 GASSI; ENDO ana-li-sa-ram tr[]es \OT1/ptm/m/it/12 apps cross-pl
 atform \OT1/ptm/m/n/12 de-sen-vol-vi-dos em Apa-che Cor-dova/PhoneGap.
  []
@@ -608,140 +600,132 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--91
  []
 
 
-Overfull \hbox (180.32889pt too wide) in paragraph at lines 94--97
-[]\OT1/ptm/m/n/12 FORLOGIC. \OT1/ptm/b/n/12 For-lo-gic Tasks\OT1/ptm/m/n/12 . 2
-017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://play.googl
-e.com/store/apps/details?id=com.forlogic.tasks&hl=pt[]BR$\OML/ztmcm/m/it/12 >$\
-OT1/ptm/m/n/12 . 
- []
-
-
-Overfull \hbox (58.0994pt too wide) in paragraph at lines 105--109
+Overfull \hbox (58.0994pt too wide) in paragraph at lines 99--103
 []\OT1/ptm/m/n/12 GOOGLE. An-droid Stu-dio. 2017. Dis-pon[]vel em: $\OML/ztmcm
 /m/it/12 <$\OT1/ptm/m/n/12 https://developer.android.com/studio/index.html?hl=p
 t-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
 []\OT1/ptm/m/n/12 HTML5. \OT1/ptm/b/n/12 W3C Hy-per-Text Mar-kup Lan-guage\OT1/
 ptm/m/n/12 . 2017. Dis-pon[]vel em:
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 121--124
+[]\OT1/ptm/m/n/12 IDC, I. D. C. \OT1/ptm/b/n/12 Smartphone OS Mar-ket Share, 20
+17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
 [19
 
 
 ]
-Underfull \hbox (badness 4001) in paragraph at lines 127--130
-[]\OT1/ptm/m/n/12 IDC, I. D. C. \OT1/ptm/b/n/12 Smartphone OS Mar-ket Share, 20
-17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 163--167
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
 []\OT1/ptm/m/n/12 MICROSFT. WPF. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$
 \OT1/ptm/m/n/12 https://msdn.microsoft.com/pt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--174
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 []\OT1/ptm/m/n/12 MICROSOFT. Mi-cro-soft. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 https://www.microsoft.com/pt-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 183--187
+Underfull \hbox (badness 1838) in paragraph at lines 177--181
 []\OT1/ptm/m/n/12 MICROSOFT. MVVM Pat-tern. 2017. Dis-pon[]vel em: $\OML/ztmcm
 /m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--199
+Underfull \hbox (badness 10000) in paragraph at lines 189--193
 []\OT1/ptm/m/n/12 MICROSOFT. Unit Tes-ting Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (8.9352pt too wide) in paragraph at lines 195--199
+Overfull \hbox (8.9352pt too wide) in paragraph at lines 189--193
 \OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-us/library/m
 s243147%28vs.80%29.aspx?f=255&MSPPError=-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 202--204
+Underfull \hbox (badness 1478) in paragraph at lines 196--198
 []\OT1/ptm/m/n/12 MICROSOFT. \OT1/ptm/b/n/12 Vi-sual Stu-dio\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://www.visual
 studio.com/pt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Underfull \hbox (badness 10000) in paragraph at lines 207--209
 []\OT1/ptm/m/n/12 MYAPPCONVERTER. \OT1/ptm/b/n/12 MyApp-Con-ver-ter\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
 []\OT1/ptm/m/n/12 .NETFRAMEWORK. .Net Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
 \OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
 SSN 1098-6596. ISBN 978-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--240
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
 \OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
 /m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
  []
 
-[20]
-Underfull \hbox (badness 1242) in paragraph at lines 243--246
+
+Underfull \hbox (badness 1242) in paragraph at lines 237--240
 []\OT1/ptm/m/n/12 SA[]UDE, M. da. \OT1/ptm/b/n/12 IMC\OT1/ptm/m/n/12 . 2017. Di
 s-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 http://portalsaude.saude.
 gov.br/dicas-de-
  []
 
-
-Overfull \hbox (46.19571pt too wide) in paragraph at lines 249--252
+[20]
+Overfull \hbox (46.19571pt too wide) in paragraph at lines 243--246
 []\OT1/ptm/m/n/12 SELENIUM. Se-le-niumHQ. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 http://www.seleniumhq.org/docs/03[]webdriver.jsp$\OML/
 ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (21.16333pt too wide) in paragraph at lines 266--269
+Overfull \hbox (21.16333pt too wide) in paragraph at lines 260--263
 []\OT1/ptm/m/n/12 XAMARIN. \OT1/ptm/b/n/12 Xa-ma-rin Stu-dio\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/cross-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--275
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
 []\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 272--275
 []\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (31.21912pt too wide) in paragraph at lines 284--286
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 278--280
 []\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (11.80353pt too wide) in paragraph at lines 289--293
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 283--287
 []\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
 t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
  []
@@ -760,21 +744,21 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5124 strings out of 493323
- 69956 string characters out of 3139060
- 157448 words of memory out of 3000000
- 8466 multiletter control sequences out of 15000+200000
- 24229 words of font info for 53 fonts, out of 3000000 for 9000
+ 5138 strings out of 493323
+ 70168 string characters out of 3139060
+ 156499 words of memory out of 3000000
+ 8476 multiletter control sequences out of 15000+200000
+ 24587 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,17n,45p,2240b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,17n,45p,1902b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on modelo_utfpr.pdf (22 pages, 405789 bytes).
+/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on modelo_utfpr.pdf (22 pages, 416374 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
