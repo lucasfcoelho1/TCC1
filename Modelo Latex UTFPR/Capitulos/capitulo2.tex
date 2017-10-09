@@ -26,17 +26,28 @@ Xamarin é um \textit{framework} de desenvolvimento \textit{cross-platform} para 
 
 As tecnologias Xamarin.iOS e Xamarin.Android foram baseadas no Mono \cite{Mono2017}, uma versão de software livre do .NET Framework \cite{.NetFramework2017}. As \textit{apps} feitas em uma dessas duas técnicas, ficam limitadas a plataforma escolhida. Por exemplo, caso o desenvolvedor escolha o Xamarin.Android, nenhuma tela que foi criada para interação do usuário será reaproveitada quando o time de desenvolvimento decidir fazer a mesma \textit{app} para iOS, obrigando os desenvolvedores recriarem toda a interface e lógica de apresentação, reaproveitado apenas a lógica de aplicação, como pode ser visto na Figura 1.
 
-Figura 1: Arquitetura de desenvolvimento de \textit{apps} Xamarin.Android e Xamarin.iOS
-Fonte: (site)
 
-Na figura 1, é possível notar que todo o código da lógica da aplicação é escrito em C\# e utilizado em todas as plataformas (Shared C\# App Logic). Contudo, a para cada uma das plataformas será necessário recriar a lógica de apresentação (Plataform-specific C\#).
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.9\textwidth]{./Figuras/XamarinEspecific.jpg} % <- formatos PNG, JPG e PDF
+	\caption[Arquitetura Xamarin]{Arquitetura de desenvolvimento de aplicativos Xamarin.Android e Xamarin.iOS.}
+	\fonte{\cite{XamarinEspecific}}
+	\label{XEspecific}
+\end{figure}
+
+Na Figura \ref{XEspecific}, é possível notar que todo o código da lógica da aplicação é escrito em C\# e utilizado em todas as plataformas (Shared C\# App Logic). Contudo, a para cada uma das plataformas será necessário recriar a lógica de apresentação (Plataform-specific C\#).
 As \textit{apps} são escritas na linguagem C\# e compilados utilizando a versão específica da DLL (Dynamic-link Library) de acordo com a plataforma. No caso, MonoTouch.dll \cite{Xamarin.iOS2017} para iOS e MonoAndroid.dll \cite{Xamarin.Android2017} para Android. Após o processo de compilação o resultado é um pacote de aplicação idêntico aos que são feitos nas IDEs padrão, sendo impossível distinguir um .apk feito no Android Studio \cite{AndroidStudio2017} e outro feito em Xamarin.
 
 \subsection{Xamarin.Forms}
-O Xamarin.Forms é uma abstração da forma de criar aplicações móveis. Utilizando essa tecnologia é possível escrever um único código que será interpretado e compilado individualmente em cada plataforma. As interfaces de usuário são renderizadas e transformadas em controles nativos. Diferente do Xamarin.Android e Xamarin.iOS que apenas a lógica de aplicação é compartilhada, no Xamarin.Forms tanto a interface quanto a própria lógica de aplicação são escritas uma única vez. Quando uma \textit{app} é compilada, ela utiliza a API nativa de cada plataforma. O Xamarin.Forms visa trazer agilidade para os times de desenvolvimento, sendo necessário que todos conheçam apenas uma linguagem de programação. Além disso, caso tenha algum problema ou o time decida fazer alguma melhoria, basta atualizar apenas uma base de código. Como é mostrado na Figura 2, tanto a lógica de aplicação (Shared C\# App Logic) quanto a lógica de apresentação e interface (Shared C\# User Interface Code).
+O Xamarin.Forms é uma abstração da forma de criar aplicações móveis. Utilizando essa tecnologia é possível escrever um único código que será interpretado e compilado individualmente em cada plataforma. As interfaces de usuário são renderizadas e transformadas em controles nativos. Diferente do Xamarin.Android e Xamarin.iOS que apenas a lógica de aplicação é compartilhada, no Xamarin.Forms tanto a interface quanto a própria lógica de aplicação são escritas uma única vez. Quando uma \textit{app} é compilada, ela utiliza a API nativa de cada plataforma. O Xamarin.Forms visa trazer agilidade para os times de desenvolvimento, sendo necessário que todos conheçam apenas uma linguagem de programação. Além disso, caso tenha algum problema ou o time decida fazer alguma melhoria, basta atualizar apenas uma base de código. Como é mostrado na Figura \ref{XForms}, tanto a lógica de aplicação (Shared C\# App Logic) quanto a lógica de apresentação e interface (Shared C\# User Interface Code).
 
-Figura 2: Arquitetura de desenvolvimento de aplicativos Xamarin.Forms
-Fonte (site)
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.8\textwidth]{./Figuras/XamarinForms.png} % <- formatos PNG, JPG e PDF
+	\caption[Arquitetura Xamarin Forms]{Arquitetura de desenvolvimento de aplicativos Xamarin.Forms.}
+	\fonte{\cite{XamarinForms}}
+	\label{XForms}
+\end{figure}
 
 Para exemplificar a utilização do Xamarin.Forms será utilizado um projeto de cálculo de Índice de Massa Corporal (IMC). O IMC é o resultado de uma fórmula matemática que indica como a sua saúde em relação a sua massa corporal, contudo esse índice é apenas um ponto de partida, já que o IMC não define exatamente o seu estado nutricional. A fórmula para realizar o cálculo é: IMC = P (peso em quilos)/A (altura x altura, em metros) \cite{IMC}. Lembrando que o IMC somente é válido para pessoas adultas e com idades entre 20 a 59 anos. A aplicação desenvolvida é composta de apenas uma tela que possuem duas entradas de dados, a primeira é a altura que deve ser inserida pela medida de uma pessoa adulta, e em metros. A próxima entrada é o peso que deve ser informado em quilogramas. Os dois controles aceitam somente números que podem conter casas decimais. Logo abaixo existe o botão ?CALCULAR?, que chamará o método da fórmula do cálculo e passará os dois valores como parâmetro. Caso nenhum dos campos tenham valores em branco, nulos ou zeros, ao clicar no botão a \textit{app} exibirá o resultado do cálculo e um texto informando em qual das faixas de peso a pessoa está enquadrada. Os possíveis resultados são:
 \\*\textbf{Baixo peso:} Caso o resultado seja menor que 18,5.
@@ -44,8 +55,13 @@ Para exemplificar a utilização do Xamarin.Forms será utilizado um projeto de cál
 \\*\textbf{Sobrepeso:} Caso o resultado seja maior ou igual a 25 e menor que 30.
 \\*\textbf{Obesidade:} Caso o resultado seja maior ou igual a 30.
 
-Figura 3: Aplicativo exemplo ? Tela inicial 
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{./Figuras/TelaInicialApp.png} % <- formatos PNG, JPG e PDF
+	\caption[Arquitetura Xamarin Forms]{Aplicativo exemplo \textendash Tela inicial.}
+	\fonte{Autoria própria}
+	\label{TelaInicialApp}
+\end{figure}
 
 \subsection{Estrutura do projeto}
 A IDE necessária para codificar uma aplicação Xamarin é o Xamarin Studio \cite{XamarinStudio} no Apple Mac OS \cite{Apple2017} e o Visual Studio \cite{MicrosoftVisualStudio} no Microsoft Windows \cite{MicrosoftWindows}. Para desenvolver este exemplo foi utilizado um computador com Microsoft Windows 10 e o Visual Studio na versão 2017. 
@@ -54,44 +70,79 @@ Um projeto Xamarin.Forms é um conjunto de projetos, denominado \textit{Solution}
 
 O projeto foi desenvolvido utilizando o padrão Model View ViewModel (MVVM) \cite{MicrosoftMVVM2017}, criado pela Microsoft e era anteriormente utilizado pelo WPF \cite{MicrosftWPF2017} e Silverlight \cite{Silverlight}. Este padrão visa separar as responsabilidades dos objetos. A View é a interface do usuário e a sua única função é exibir os controles, como botões ou textos. A Model é onde fica toda a lógica de negócio e os dados, as classes de acesso ao banco de dados geralmente estão nas Models. A ViewModel faz a ligação entre as Views e as Models, afinal a View e a Model não estão relacionadas diretamente. Na ViewModel é programada toda a lógica de apresentação. A comunicação com a View é feita através dos \textit{databindings}. Ao escrever o XAML da View, pode-se associar um controle da interface à uma propriedade da ViewModel. Com o \textit{databinding}, a vantagem disso é que qualquer alteração que for feita em qualquer um dos arquivos, seja por interação do usuário na interface ou por algum cálculo feito internamente na ViewModel, a propriedade será notificada e alterada, não sendo necessário utilizar eventos para monitorar as ações do usuário. Caso o time de desenvolvimento seja bem separado e bem definido, ainda é possível que a View e a ViewModel sejam programadas por pessoas ou times diferentes, um deles cuidando apenas do XAML da View e outro criando os métodos na classe C\# da ViewModel, basta que apenas o time que criará a View descreva em detalhes o que será exibido ao usuário e qual o seu comportamento. Uma outra vantagem de ter toda a lógica de apresentação na ViewModel é que isso torna o código completamente testável, uma vez que uma ViewModel nada mais é do que uma simples classe e totalmente compatível com qualquer framework de teste de unidade que suportem a linguagem C\#.
 
-É uma boa prática de programação dividir as responsabilidades em pastas, a título de organização. Como é possível ver na imagem a seguir as ViewModels do projeto são classes C\# e cada View é um arquivo com extensão .XAML e que possui também uma classe C\# relacionada a View, chamada de \textit{code-behind}. No \textit{code-behind} também é possível escrever toda a lógica de apresentação, contudo isso cria um acoplamento muito forte entre a View e o seu respectivo code-behind, caso em algum momento o time de desenvolvimento precise remover uma View ou alterar a sua ordem ou lógica de apresentação, será necessário refatorar todo o código, procurando por dependências. Portanto, como a ViewModel possui um baixo acoplamento com as Views podem ser separadas a qualquer momento. Nesse exemplo temos a View MainPage.xaml e MainPage.xaml.cs que é o seu code-behind. Por questões de organização as ViewModels que contém a lógica de apresentação da View, recebem o mesmo nome e no final acrescenta-se ?ViewModel?. No exemplo a MainPage receberá o sufixo ViewModel, sendo nomeada como MainPageViewModel.cs. Outra classe importante para o projeto é a BaseViewModel; essa classe tem a abstração de alguns métodos ou atributos que serão utilizados em todas as outras ViewModels.
+É uma boa prática de programação dividir as responsabilidades em pastas, a título de organização. Como é possível ver na Figura \ref{SolutionExplorer} as ViewModels do projeto são classes C\# e cada View é um arquivo com extensão .XAML e que possui também uma classe C\# relacionada a View, chamada de \textit{code-behind}. No \textit{code-behind} também é possível escrever toda a lógica de apresentação, contudo isso cria um acoplamento muito forte entre a View e o seu respectivo code-behind, caso em algum momento o time de desenvolvimento precise remover uma View ou alterar a sua ordem ou lógica de apresentação, será necessário refatorar todo o código, procurando por dependências. Portanto, como a ViewModel possui um baixo acoplamento com as Views podem ser separadas a qualquer momento. Nesse exemplo temos a View MainPage.xaml e MainPage.xaml.cs que é o seu code-behind. Por questões de organização as ViewModels que contém a lógica de apresentação da View, recebem o mesmo nome e no final acrescenta-se ?ViewModel?. No exemplo a MainPage receberá o sufixo ViewModel, sendo nomeada como MainPageViewModel.cs. Outra classe importante para o projeto é a BaseViewModel; essa classe tem a abstração de alguns métodos ou atributos que serão utilizados em todas as outras ViewModels.
 
-Figura 4: Estrutura de arquivos do projeto
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{./Figuras/SolutionExplorer.png} % <- formatos PNG, JPG e PDF
+	\caption[Estrutura do projeto]{Estrutura de arquivos do projeto.}
+	\fonte{Autoria própria}
+	\label{SolutionExplorer}
+\end{figure}
 
-O arquivo App.xaml apesar de ter as mesmas propriedades de uma view, como a extensão XAML e o code-behind, ela é apenas um objeto que extrai os métodos de ciclo de vida das \textit{apps}, como é possível ver na figura 5:
+O arquivo App.xaml apesar de ter as mesmas propriedades de uma view, como a extensão XAML e o code-behind, ela é apenas um objeto que extrai os métodos de ciclo de vida das \textit{apps}, como é possível ver na Figura \ref{CodigoAppCs}.
 
-Figura 5: Trecho de código da classe App.xaml.cs
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.5\textwidth]{./Figuras/CodigoAppCS.png} % <- formatos PNG, JPG e PDF
+	\caption[Código AppCs]{Trecho de código da classe App.xaml.cs.}
+	\fonte{Autoria própria}
+	\label{CodigoAppCs}
+\end{figure}
 
 Através dos métodos da classe App.xaml.cs é possível controlar os comportamentos de ciclo de vida da aplicação em cada uma das plataformas. Caso seja inserida alguma lógica de apresentação no método OnStart(), está será a primeira instrução a ser executada assim que a \textit{app} for iniciada. No OnSleep() a programação só terá efeito quando a \textit{app} ficar em segundo plano, por exemplo, quando o usuário navegar por outro aplicativo. Já o OnResume() só será executado quando a \textit{app} voltar a ficar ativo, em primeiro plano. 
 
 A aplicação é iniciada na classe App.xaml.cs, onde é instanciado o primeiro objeto, no método construtor da classe. MainPage é a primeira página da aplicação e no caso será atribuída uma NavigationPage e passando MainPage como parâmetro. Utilizando o NavigationPage é permitido fazer uso da navegação por pilha, presente em todas as plataformas mobile, onde a cada nova tela aberta o SO empilha a nova tela sobre a anterior e quando o usuário realiza a ação para voltar, ele desempilha e destrói aquela tela, podendo desempilhar até chegar a tela inicial, a MainPage.  
 
-Figura 6: Trecho de código da View MainPage.xaml
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.8\textwidth]{./Figuras/CodigoMainPage.png} % <- formatos PNG, JPG e PDF
+	\caption[Codigo Main Page]{Trecho de código da View MainPage.xaml.}
+	\fonte{Autoria própria}
+	\label{CodigoMainPage}
+\end{figure}
 
-Na figura 6 é mostrado o conteúdo de um arquivo XAML. Toda a interface do usuário é escrita neste arquivo, utilizando da abstração do Xamarin.Forms ao inserir a tag \textless Button\textgreater, na linha 20, o Xamarin transformará em tempo de compilação essa tag em um controle, invocando a API nativa referente a um botão, de acordo com a plataforma para qual estiver desenvolvendo. É possível notar que alguns controles, como os as entradas de texto das linhas 17 e 19, foi utilizado o conceito de \textit{databindings}, presente no Xamarin.Forms. Com isso ao inserir ou alterar um valor novo no campo, como ele está ligado a uma propriedade de uma classe, não é necessário monitorar as alterações desse controle, já que todas as mudanças serão automaticamente refletidas na classe. Quase todos os atributos de uma tag podem ser definidas por \textit{databindings}, não se limitando apenas a textos ou números. Por exemplo o controle de interface StackLayout, da linha 23, ele é responsável por agrupar elementos de interface. Ele possui uma propriedade IsVisible da qual o valor está associado a uma propriedade Booleana da classe, podendo receber verdadeiro ou falso, ou seja, dependendo da lógica de apresentação, o StackLayout pode ou não estar visível. Neste exemplo do IMC se os valores de altura (Height) ou peso (Weight) forem igual a zero e o usuário clicar no botão para fazer o cálculo, a propriedade IsVisible recebe o valor false e o elemento deixa de ser exibido na tela.
+Na Figura \ref{CodigoMainPage} é mostrado o conteúdo de um arquivo XAML. Toda a interface do usuário é escrita neste arquivo, utilizando da abstração do Xamarin.Forms ao inserir a tag \textless Button\textgreater, na linha 20, o Xamarin transformará em tempo de compilação essa tag em um controle, invocando a API nativa referente a um botão, de acordo com a plataforma para qual estiver desenvolvendo. É possível notar que alguns controles, como os as entradas de texto das linhas 17 e 19, foi utilizado o conceito de \textit{databindings}, presente no Xamarin.Forms. Com isso ao inserir ou alterar um valor novo no campo, como ele está ligado a uma propriedade de uma classe, não é necessário monitorar as alterações desse controle, já que todas as mudanças serão automaticamente refletidas na classe. Quase todos os atributos de uma tag podem ser definidas por \textit{databindings}, não se limitando apenas a textos ou números. Por exemplo o controle de interface StackLayout, da linha 23, ele é responsável por agrupar elementos de interface. Ele possui uma propriedade IsVisible da qual o valor está associado a uma propriedade Booleana da classe, podendo receber verdadeiro ou falso, ou seja, dependendo da lógica de apresentação, o StackLayout pode ou não estar visível. Neste exemplo do IMC se os valores de altura (Height) ou peso (Weight) forem igual a zero e o usuário clicar no botão para fazer o cálculo, a propriedade IsVisible recebe o valor false e o elemento deixa de ser exibido na tela.
 
-Figura 6: Trecho de código da classe MainPage.xaml.cs
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.8\textwidth]{./Figuras/CodeBehindMainPage.png} % <- formatos PNG, JPG e PDF
+	\caption[Code Behind MainPage]{Trecho de código da classe MainPage.xaml.cs.}
+	\fonte{Autoria própria}
+	\label{CodeBehindMainPage}
+\end{figure}
 
-A figura 7 contém todo o código do \textit{code-behind} da View MainPage.xaml. Como toda a lógica de apresentação deve estar contida em uma ViewModel, a única instrução que a classe executa é informar qual é o seu BindingContext na linha 16, ou seja, qual a classe que a View deve associar as suas propriedades.
+A Figura \ref{CodeBehindMainPage} contém todo o código do \textit{code-behind} da View MainPage.xaml. Como toda a lógica de apresentação deve estar contida em uma ViewModel, a única instrução que a classe executa é informar qual é o seu BindingContext na linha 16, ou seja, qual a classe que a View deve associar as suas propriedades.
 
-Figura 8: trecho de código da classe BaseViewModel.cs
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=1\textwidth]{./Figuras/CodigoBaseViewModel.png} % <- formatos PNG, JPG e PDF
+	\caption[CodigoBaseViewModel]{Trecho de código da classe BaseViewModel.cs.}
+	\fonte{Autoria própria}
+	\label{CodigoBaseViewModel}
+\end{figure}
 
-Na figura 8 é mostrado o código da BaseViewModel.cs, uma classe que abstrai os métodos e propriedades que serão utilizados nas demais ViewModels. Para poder trabalhar com os \textit{databindings} é necessário que seja implementada a interface INotifyPropertyChanged, na linha 11. Nessa interface temos o evento PropertyChangedEcentHandler, na linha 15 que junto com o método OnPropertyChanged(), na linha 17, é responsável por monitorar as propriedades e informar quando elas foram alteradas. Já na linha 22 temos o método SetProperty(), que deve ser incluído nos métodos setters das propriedades das ViewModels. Nele é executada a verificação para garantir que haja a mudança do valor apenas quando a propriedade for alterada, economizando processamento desnecessário do dispositivo.
+Na Figura \ref{CodigoBaseViewModel} é mostrado o código da BaseViewModel.cs, uma classe que abstrai os métodos e propriedades que serão utilizados nas demais ViewModels. Para poder trabalhar com os \textit{databindings} é necessário que seja implementada a interface INotifyPropertyChanged, na linha 11. Nessa interface temos o evento PropertyChangedEcentHandler, na linha 15 que junto com o método OnPropertyChanged(), na linha 17, é responsável por monitorar as propriedades e informar quando elas foram alteradas. Já na linha 22 temos o método SetProperty(), que deve ser incluído nos métodos setters das propriedades das ViewModels. Nele é executada a verificação para garantir que haja a mudança do valor apenas quando a propriedade for alterada, economizando processamento desnecessário do dispositivo.
 
-Figura 9: Trecho de código da classe MainPageViewModel.cs
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.6\textwidth]{./Figuras/CodigoMainViewModel.png} % <- formatos PNG, JPG e PDF
+	\caption[CodigoMainViewModel]{Trecho de código da classe MainPageViewModel.cs.}
+	\fonte{Autoria própria}
+	\label{CodigoMainViewModel}
+\end{figure}
 
-No trecho de código da figura 9 a classe MainPageViewModel.cs implementa a BaseViewModel.cs. Na definição das propriedades da classe, todas as que terão alguma alteração na exibição para o usuário devem chamar o método SetProperty() nos seus métodos setters. Só assim o Xamarin garante que o valor será sempre o mesmo, em qualquer um dos arquivos, sem que seja necessário criar um evento na interface que verifique se os valores foram alterados. Todas essas propriedades estão ligadas a um controle na View.
+No trecho de código da Figura \ref{CodigoMainViewModel} a classe MainPageViewModel.cs implementa a BaseViewModel.cs. Na definição das propriedades da classe, todas as que terão alguma alteração na exibição para o usuário devem chamar o método SetProperty() nos seus métodos setters. Só assim o Xamarin garante que o valor será sempre o mesmo, em qualquer um dos arquivos, sem que seja necessário criar um evento na interface que verifique se os valores foram alterados. Todas essas propriedades estão ligadas a um controle na View.
 
-Figura 10: Trecho de código da classe MainPageViewModel.cs
-Fonte: Autoria própria
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=0.6\textwidth]{./Figuras/CodigoMainViewModel2.png} % <- formatos PNG, JPG e PDF
+	\caption[CodigoMainViewModel]{Trecho de código da classe MainPageViewModel.cs.}
+	\fonte{Autoria própria}
+	\label{CodigoMainViewModel2}
+\end{figure}
 
-A figura 10 exibe toda a lógica de apresentação da MainPageViewModel.cs para a MainPage.xaml. No construtor são definidos os parâmetros iniciais para a execução da aplicação. A propriedade IsVisible é iniciada com falso, ocultando o controle de layout da View, já que no início da aplicação nenhum cálculo foi executado e sendo assim não há nada a ser exibido. 
+A Figura \ref{CodigoMainViewModel2} exibe toda a lógica de apresentação da MainPageViewModel.cs para a MainPage.xaml. No construtor são definidos os parâmetros iniciais para a execução da aplicação. A propriedade IsVisible é iniciada com falso, ocultando o controle de layout da View, já que no início da aplicação nenhum cálculo foi executado e sendo assim não há nada a ser exibido. 
 
 O \textit{CalculateCommand} é uma propriedade do tipo Command, presente no \textit{framework} Xamarin.Forms, que é associado a um método o ExecuteCommandCalculate() e é nele onde é executado a lógica para a ação do botão "CALCULAR" da interface, que também está ligado a classe por \textit{databindings}. 
 
