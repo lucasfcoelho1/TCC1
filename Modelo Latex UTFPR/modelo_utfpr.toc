@@ -12,5 +12,5 @@
 \contentsline {subsection}{\numberline {2.3.3}Estrutura do projeto}{14}
 \contentsline {section}{\numberline {2.4}\MakeUppercase {Appium e x-patesco}}{21}
 \contentsline {section}{\numberline {2.5}\MakeUppercase {Trabalhos Relacionados}}{22}
-\contentsline {chapter}{\numberline {3}\MakeUppercase {Proposta}}{23}
-\contentsline {chapter}{REFER\^ENCIAS}{24}
+\contentsline {chapter}{\numberline {3}\MakeUppercase {Proposta}}{24}
+\contentsline {chapter}{REFER\^ENCIAS}{27}
