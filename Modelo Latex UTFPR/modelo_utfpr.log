@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.10)  11 DEC 2017 03:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.10)  11 DEC 2017 03:26
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -558,36 +558,65 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
  [1
 
 {C:/Users/lucas.fernandes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [
-1] [1
+1]
+<brasao.png, id=10, 260.8947pt x 261.6174pt>
+File: brasao.png Graphic file (type png)
+<use brasao.png>
+Package pdftex.def Info: brasao.png  used on input line 78. on input line 78.
+Package pdftex.def Info: Requested size: 62.59605pt x 62.76949pt on input line 
+78.
+<logo-utfpr.png, id=12, 48.56544pt x 17.77843pt>
+File: logo-utfpr.png Graphic file (type png)
+<use logo-utfpr.png>
+Package pdftex.def Info: logo-utfpr.png  used on input line 78. on input line 7
+8.
+Package pdftex.def Info: Requested size: 85.35826pt x 31.24886pt on input line 
+78.
+
+
+Package Fancyhdr Warning: \headheight is too small (59.40894pt): 
+ Make it at least 70.14018pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Package Fancyhdr Warning: \footskip is too small (0.0pt): 
+ Make it at least 10.14995pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1 <./brasao.png> <./logo-utfpr.png>] [2
+
 
 
 ] (modelo_utfpr.toc)
 \tf@toc=\write3
 \openout3 = `modelo_utfpr.toc'.
 
- [2
+ [3
 
 
 ]
 \openout2 = `./Capitulos/capitulo1.aux'.
 
- (Capitulos/capitulo1.tex
+
+(Capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
-[4
+[5
 
 
 
-] [5]) [6]
+] [6]) [7]
 \openout2 = `./Capitulos/capitulo2.aux'.
 
  (Capitulos/capitulo2.tex
 Cap\'{\i }tulo 2.
-[7
+[8
 
 
 
-] [8]
-<./Figuras/XamarinEspecific.jpg, id=33, 649.42625pt x 371.3875pt>
+] [9]
+<./Figuras/XamarinEspecific.jpg, id=41, 649.42625pt x 371.3875pt>
 File: ./Figuras/XamarinEspecific.jpg Graphic file (type jpg)
 <use ./Figuras/XamarinEspecific.jpg>
 Package pdftex.def Info: ./Figuras/XamarinEspecific.jpg  used on input line 34.
@@ -600,30 +629,30 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
- [9] [10 <./Figuras/XamarinEspecific.jpg>]
-<./Figuras/XamarinForms.png, id=40, 436.63126pt x 256.96pt>
+ [10] [11 <./Figuras/XamarinEspecific.jpg>]
+<./Figuras/XamarinForms.png, id=48, 436.63126pt x 256.96pt>
 File: ./Figuras/XamarinForms.png Graphic file (type png)
 <use ./Figuras/XamarinForms.png>
 Package pdftex.def Info: ./Figuras/XamarinForms.png  used on input line 48. on 
 input line 48.
 Package pdftex.def Info: Requested size: 364.19667pt x 214.33145pt on input lin
 e 48.
-<./Figuras/TelaInicialApp.png, id=42, 242.433pt x 430.992pt>
+<./Figuras/TelaInicialApp.png, id=49, 242.433pt x 430.992pt>
 File: ./Figuras/TelaInicialApp.png Graphic file (type png)
 <use ./Figuras/TelaInicialApp.png>
 Package pdftex.def Info: ./Figuras/TelaInicialApp.png  used on input line 62. o
 n input line 62.
 Package pdftex.def Info: Requested size: 227.62206pt x 404.67876pt on input lin
 e 62.
- [11 <./Figuras/XamarinForms.png>] [12 <./Figuras/TelaInicialApp.png>] [13]
-<./Figuras/SolutionExplorer.png, id=55, 243.15843pt x 268.00125pt>
+ [12 <./Figuras/XamarinForms.png>] [13 <./Figuras/TelaInicialApp.png>] [14]
+<./Figuras/SolutionExplorer.png, id=62, 243.15843pt x 268.00125pt>
 File: ./Figuras/SolutionExplorer.png Graphic file (type png)
 <use ./Figuras/SolutionExplorer.png>
 Package pdftex.def Info: ./Figuras/SolutionExplorer.png  used on input line 79.
  on input line 79.
 Package pdftex.def Info: Requested size: 227.62206pt x 250.8784pt on input line
  79.
-<./Figuras/CodigoAppCS.png, id=56, 536.75531pt x 553.31718pt>
+<./Figuras/CodigoAppCS.png, id=63, 536.75531pt x 553.31718pt>
 File: ./Figuras/CodigoAppCS.png Graphic file (type png)
 <use ./Figuras/CodigoAppCS.png>
 Package pdftex.def Info: ./Figuras/CodigoAppCS.png  used on input line 89. on i
@@ -638,38 +667,38 @@ File: omlptm.fd
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 99.
- [14 <./Figuras/SolutionExplorer.png>]
-<./Figuras/CodigoMainPage.png, id=60, 776.14969pt x 507.39563pt>
+ [15 <./Figuras/SolutionExplorer.png>]
+<./Figuras/CodigoMainPage.png, id=67, 776.14969pt x 507.39563pt>
 File: ./Figuras/CodigoMainPage.png Graphic file (type png)
 <use ./Figuras/CodigoMainPage.png>
 Package pdftex.def Info: ./Figuras/CodigoMainPage.png  used on input line 103. 
 on input line 103.
 Package pdftex.def Info: Requested size: 364.19667pt x 238.08887pt on input lin
 e 103.
-<./Figuras/CodeBehindMainPage.png, id=61, 407.27156pt x 212.29312pt>
+<./Figuras/CodeBehindMainPage.png, id=68, 407.27156pt x 212.29312pt>
 File: ./Figuras/CodeBehindMainPage.png Graphic file (type png)
 <use ./Figuras/CodeBehindMainPage.png>
 Package pdftex.def Info: ./Figuras/CodeBehindMainPage.png  used on input line 1
 14. on input line 114.
 Package pdftex.def Info: Requested size: 364.19667pt x 189.84729pt on input lin
 e 114.
- [15 <./Figuras/CodigoAppCS.png>]
-<./Figuras/CodigoBaseViewModel.png, id=66, 763.35187pt x 484.81125pt>
+ [16 <./Figuras/CodigoAppCS.png>]
+<./Figuras/CodigoBaseViewModel.png, id=73, 763.35187pt x 484.81125pt>
 File: ./Figuras/CodigoBaseViewModel.png Graphic file (type png)
 <use ./Figuras/CodigoBaseViewModel.png>
 Package pdftex.def Info: ./Figuras/CodigoBaseViewModel.png  used on input line 
 123. on input line 123.
 Package pdftex.def Info: Requested size: 455.24411pt x 289.12836pt on input lin
 e 123.
- [16 <./Figuras/CodigoMainPage.png> <./Figuras/CodeBehindMainPage.png>]
-<./Figuras/CodigoMainViewModel.png, id=70, 442.65375pt x 543.53062pt>
+ [17 <./Figuras/CodigoMainPage.png> <./Figuras/CodeBehindMainPage.png>]
+<./Figuras/CodigoMainViewModel.png, id=77, 442.65375pt x 543.53062pt>
 File: ./Figuras/CodigoMainViewModel.png Graphic file (type png)
 <use ./Figuras/CodigoMainViewModel.png>
 Package pdftex.def Info: ./Figuras/CodigoMainViewModel.png  used on input line 
 133. on input line 133.
 Package pdftex.def Info: Requested size: 227.62206pt x 279.50256pt on input lin
 e 133.
-<./Figuras/CodigoMainViewModel2.png, id=71, 491.58656pt x 517.935pt>
+<./Figuras/CodigoMainViewModel2.png, id=78, 491.58656pt x 517.935pt>
 File: ./Figuras/CodigoMainViewModel2.png Graphic file (type png)
 <use ./Figuras/CodigoMainViewModel2.png>
 Package pdftex.def Info: ./Figuras/CodigoMainViewModel2.png  used on input line
@@ -677,32 +706,32 @@ Package pdftex.def Info: ./Figuras/CodigoMainViewModel2.png  used on input line
 Package pdftex.def Info: Requested size: 227.62206pt x 239.82568pt on input lin
 e 143.
 
-[17 <./Figuras/CodigoBaseViewModel.png>]
+[18 <./Figuras/CodigoBaseViewModel.png>]
 
-LaTeX Warning: Text page 18 contains only floats.
+LaTeX Warning: Text page 19 contains only floats.
 
-[18 <./Figuras/CodigoMainViewModel.png> <./Figuras/CodigoMainViewModel2.png>]
-[19]
-<./Figuras/patesco.png, id=82, 765.6103pt x 373.395pt>
+[19 <./Figuras/CodigoMainViewModel.png> <./Figuras/CodigoMainViewModel2.png>]
+[20]
+<./Figuras/patesco.png, id=89, 765.6103pt x 373.395pt>
 File: ./Figuras/patesco.png Graphic file (type png)
 <use ./Figuras/patesco.png>
 Package pdftex.def Info: ./Figuras/patesco.png  used on input line 163. on inpu
 t line 163.
 Package pdftex.def Info: Requested size: 318.66948pt x 155.41753pt on input lin
 e 163.
- [20 <./Figuras/patesco.png>]) [21]
+ [21 <./Figuras/patesco.png>]) [22]
 \openout2 = `./Capitulos/capitulo3.aux'.
 
  (Capitulos/capitulo3.tex
 Cap\'{\i }tulo 3.
-<./Figuras/Proposta.png, id=90, 761.84625pt x 352.31625pt>
+<./Figuras/Proposta.png, id=97, 761.84625pt x 352.31625pt>
 File: ./Figuras/Proposta.png Graphic file (type png)
 <use ./Figuras/Proposta.png>
 Package pdftex.def Info: ./Figuras/Proposta.png  used on input line 9. on input
  line 9.
 Package pdftex.def Info: Requested size: 409.71692pt x 189.4738pt on input line
  9.
-[22
+[23
 
 
 
@@ -716,7 +745,7 @@ Overfull \hbox (82.83374pt too wide) in paragraph at lines 55--71
  [][] 
  []
 
-) [23] [24] (modelo_utfpr.bbl
+) [24] [25] (modelo_utfpr.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 66--70
 []\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
 12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
@@ -753,7 +782,7 @@ Underfull \hbox (badness 4001) in paragraph at lines 121--124
 17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
-[25
+[26
 
 
 ]
@@ -815,7 +844,7 @@ Underfull \hbox (badness 2237) in paragraph at lines 237--241
 ndo-xamarin-forms/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . Acesso em: 09 de
  []
 
-[26]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 250--255
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
@@ -897,7 +926,7 @@ t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
 
 ) 
 AED: lastpage setting LastPage
-[27]
+[28]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
@@ -905,13 +934,13 @@ AED: lastpage setting LastPage
 (modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux)
 (Capitulos/capitulo3.aux)) ) 
 Here is how much of TeX's memory you used:
- 5239 strings out of 493312
- 77809 string characters out of 3125476
- 162618 words of memory out of 3000000
- 8567 multiletter control sequences out of 15000+200000
- 35171 words of font info for 80 fonts, out of 3000000 for 9000
+ 5251 strings out of 493312
+ 77987 string characters out of 3125476
+ 162503 words of memory out of 3000000
+ 8576 multiletter control sequences out of 15000+200000
+ 36756 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,45p,1902b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,45p,1902b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/lucas.fernandes/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/lucas.fernandes/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lucas.fer
@@ -920,9 +949,9 @@ pfb><C:/Users/lucas.fernandes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 /times/utmb8a.pfb><C:/Users/lucas.fernandes/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/urw/times/utmr8a.pfb><C:/Users/lucas.fernandes/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (28 pages, 510509 bytes).
+Output written on modelo_utfpr.pdf (29 pages, 803694 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
