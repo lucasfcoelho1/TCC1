@@ -147,18 +147,17 @@ Dispon{\'\i}vel em:
   contribui{\c{c}}{\~a}o ao teste estrutural de software.
 \textbf{(Publica{\c{c}}{\~a}o FEE)}, [sn], 1991.}
 
+\bibitem[Menegassi e Endo 2016]{Menegassi2016}
+\abntrefinfo{Menegassi e Endo}{MENEGASSI; ENDO}{2016}
+{MENEGASSI, A.~A.; ENDO, A.~T. {Uma avalia{\c{c}}{\~{a}}o de testes
+  automatizados para aplica{\c{c}}{\~{o}}es m{\'{o}}veis h{\'{i}}bridas}.
+2016.}
+
 \bibitem[Menegassi e Endo 2017]{menegassiavaliaccao}
 \abntrefinfo{Menegassi e Endo}{MENEGASSI; ENDO}{2017}
 {MENEGASSI, A.~A.; ENDO, A.~T. Uma avalia{\c{c}}{\~a}o de testes automatizados
   para aplica{\c{c}}{\~o}es m{\'o}veis h{\'\i}bridas (n{\~a}o publicado).
 2017.}
-
-\bibitem[Microsft 2017]{MicrosftWPF2017}
-\abntrefinfo{Microsft}{MICROSFT}{2017}
-{MICROSFT. {WPF}.
-2017.
-Dispon{\'\i}vel em:
-  $<$https://msdn.microsoft.com/pt-br/library/mt149842(v=vs.110).aspx$>$.}
 
 \bibitem[Microsoft 2017]{Microsoft2017}
 \abntrefinfo{Microsoft}{MICROSOFT}{2017a}
@@ -203,6 +202,13 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Microsoft}{MICROSOFT}{2017g}
 {MICROSOFT. \textbf{{Visual Studio}}. 2017.
 Dispon{\'\i}vel em: $<$https://www.visualstudio.com/pt-br/vs/$>$.}
+
+\bibitem[Microsoft 2017]{MicrosftWPF2017}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017h}
+{MICROSOFT. {WPF}.
+2017.
+Dispon{\'\i}vel em:
+  $<$https://msdn.microsoft.com/pt-br/library/mt149842(v=vs.110).aspx$>$.}
 
 \bibitem[Mono 2017]{Mono2017}
 \abntrefinfo{Mono}{MONO}{2017}
@@ -272,6 +278,12 @@ Dispon{\'\i}vel em: $<$http://www.seleniumhq.org/docs/03{\_}webdriver.jsp$>$.}
 {TESTOBJECT. {TestObject}.
 2017.
 Dispon{\'\i}vel em: $<$https://testobject.com/$>$.}
+
+\bibitem[W3C 2016]{W3C2016}
+\abntrefinfo{W3C}{W3C}{2016}
+{W3C. {XML Path Language (XPath)}.
+2016.
+Dispon{\'\i}vel em: $<$https://www.w3.org/TR/1999/REC-xpath-19991116/$>$.}
 
 \bibitem[Xamarin 2017]{Xamarin}
 \abntrefinfo{Xamarin}{XAMARIN}{2017a}

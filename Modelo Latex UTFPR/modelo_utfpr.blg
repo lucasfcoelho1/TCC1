@@ -5,19 +5,19 @@ A level-1 auxiliary file: ./Capitulos/capitulo3.aux
 The style file: abnt-alf.bst
 Database file #1: abnt-options.bib
 Database file #2: ./Referencias/reflatex.bib
-Repeated entry---line 125 of file ./Referencias/reflatex.bib
+Repeated entry---line 134 of file ./Referencias/reflatex.bib
  : @inproceedings{7372032
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 138 of file ./Referencias/reflatex.bib
+Repeated entry---line 147 of file ./Referencias/reflatex.bib
  : @article{bernardo2008importancia
  :                                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 352 of file ./Referencias/reflatex.bib
+Repeated entry---line 361 of file ./Referencias/reflatex.bib
  : @article{Xamarin.iOS2017
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 358 of file ./Referencias/reflatex.bib
+Repeated entry---line 367 of file ./Referencias/reflatex.bib
  : @article{Xamarin.Android2017
  :                             ,
 I'm skipping whatever remains of this entry

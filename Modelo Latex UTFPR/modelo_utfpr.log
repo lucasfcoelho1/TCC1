@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  10 OCT 2017 04:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  16 OCT 2017 12:44
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
@@ -491,40 +491,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
-<brasao.png, id=10, 260.8947pt x 261.6174pt>
-File: brasao.png Graphic file (type png)
- <use brasao.png>
-Package pdftex.def Info: brasao.png used on input line 78.
-(pdftex.def)             Requested size: 62.59605pt x 62.76949pt.
-
-<logo-utfpr.png, id=12, 48.56544pt x 17.77843pt>
-File: logo-utfpr.png Graphic file (type png)
- <use logo-utfpr.png>
-Package pdftex.def Info: logo-utfpr.png used on input line 78.
-(pdftex.def)             Requested size: 85.35826pt x 31.24886pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (59.40894pt): 
- Make it at least 70.14018pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-
-Package Fancyhdr Warning: \footskip is too small (0.0pt): 
- Make it at least 10.14995pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[1 <./brasao.png> <./logo-utfpr.png>] [2
-
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [1
 
 
 ] (modelo_utfpr.toc)
 \tf@toc=\write3
 \openout3 = `modelo_utfpr.toc'.
 
- [3
+ [2
 
 
 ]
@@ -533,20 +507,20 @@ Package Fancyhdr Warning: \footskip is too small (0.0pt):
 
 (Capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
-[5
+[4
 
 
 
-] [6]) [7]
+] [5]) [6]
 \openout2 = `./Capitulos/capitulo2.aux'.
 
  (Capitulos/capitulo2.tex
 Cap\'{\i }tulo 2.
-[8
+[7
 
 
 
-] [9] <./Figuras/XamarinEspecific.jpg, id=41, 649.42625pt x 371.3875pt>
+] [8] <./Figuras/XamarinEspecific.jpg, id=33, 649.42625pt x 371.3875pt>
 File: ./Figuras/XamarinEspecific.jpg Graphic file (type jpg)
 
 <use ./Figuras/XamarinEspecific.jpg>
@@ -558,106 +532,104 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
- [10]
-<./Figuras/XamarinForms.png, id=45, 436.63126pt x 256.96pt>
+ [9]
+<./Figuras/XamarinForms.png, id=37, 436.63126pt x 256.96pt>
 File: ./Figuras/XamarinForms.png Graphic file (type png)
 
 <use ./Figuras/XamarinForms.png>
 Package pdftex.def Info: ./Figuras/XamarinForms.png used on input line 46.
 (pdftex.def)             Requested size: 364.19667pt x 214.33145pt.
- [11 <./Figuras/XamarinEspecific.jpg>]
-<./Figuras/TelaInicialApp.png, id=49, 242.433pt x 430.992pt>
+ [10 <./Figuras/XamarinEspecific.jpg>]
+<./Figuras/TelaInicialApp.png, id=42, 242.433pt x 430.992pt>
 File: ./Figuras/TelaInicialApp.png Graphic file (type png)
 
 <use ./Figuras/TelaInicialApp.png>
 Package pdftex.def Info: ./Figuras/TelaInicialApp.png used on input line 60.
 (pdftex.def)             Requested size: 227.62206pt x 404.67876pt.
- [12 <./Figuras/XamarinForms.png>] [13 <./Figuras/TelaInicialApp.png>] [14]
-<./Figuras/SolutionExplorer.png, id=62, 243.15843pt x 268.00125pt>
+ [11 <./Figuras/XamarinForms.png>] [12 <./Figuras/TelaInicialApp.png>] [13]
+<./Figuras/SolutionExplorer.png, id=55, 243.15843pt x 268.00125pt>
 File: ./Figuras/SolutionExplorer.png Graphic file (type png)
 
 <use ./Figuras/SolutionExplorer.png>
 Package pdftex.def Info: ./Figuras/SolutionExplorer.png used on input line 77.
 (pdftex.def)             Requested size: 227.62206pt x 250.8784pt.
 
-<./Figuras/CodigoAppCS.png, id=63, 536.75531pt x 553.31718pt>
+<./Figuras/CodigoAppCS.png, id=56, 536.75531pt x 553.31718pt>
 File: ./Figuras/CodigoAppCS.png Graphic file (type png)
 
 <use ./Figuras/CodigoAppCS.png>
 Package pdftex.def Info: ./Figuras/CodigoAppCS.png used on input line 87.
 (pdftex.def)             Requested size: 227.62206pt x 234.64589pt.
-
-<./Figuras/CodigoMainPage.png, id=64, 776.14969pt x 507.39563pt>
-File: ./Figuras/CodigoMainPage.png Graphic file (type png)
-
-<use ./Figuras/CodigoMainPage.png>
-Package pdftex.def Info: ./Figuras/CodigoMainPage.png used on input line 99.
-(pdftex.def)             Requested size: 364.19667pt x 238.08887pt.
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 105.
-
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 97.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 105.
- [15 <./Figuras/SolutionExplorer.png>] [16 <./Figuras/CodigoAppCS.png> <./Figur
-as/CodigoMainPage.png>] <./Figuras/CodeBehindMainPage.png, id=72, 407.27156pt x
- 212.29312pt>
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 97.
+ [14 <./Figuras/SolutionExplorer.png>]
+<./Figuras/CodigoMainPage.png, id=60, 776.14969pt x 507.39563pt>
+File: ./Figuras/CodigoMainPage.png Graphic file (type png)
+
+<use ./Figuras/CodigoMainPage.png>
+Package pdftex.def Info: ./Figuras/CodigoMainPage.png used on input line 101.
+(pdftex.def)             Requested size: 364.19667pt x 238.08887pt.
+
+<./Figuras/CodeBehindMainPage.png, id=61, 407.27156pt x 212.29312pt>
 File: ./Figuras/CodeBehindMainPage.png Graphic file (type png)
 
 <use ./Figuras/CodeBehindMainPage.png>
-Package pdftex.def Info: ./Figuras/CodeBehindMainPage.png used on input line 10
-9.
+Package pdftex.def Info: ./Figuras/CodeBehindMainPage.png used on input line 11
+2.
 (pdftex.def)             Requested size: 364.19667pt x 189.84729pt.
-
-<./Figuras/CodigoBaseViewModel.png, id=73, 763.35187pt x 484.81125pt>
+ [15 <./Figuras/CodigoAppCS.png>]
+<./Figuras/CodigoBaseViewModel.png, id=66, 763.35187pt x 484.81125pt>
 File: ./Figuras/CodigoBaseViewModel.png Graphic file (type png)
 
 <use ./Figuras/CodigoBaseViewModel.png>
 Package pdftex.def Info: ./Figuras/CodigoBaseViewModel.png used on input line 1
-19.
+21.
 (pdftex.def)             Requested size: 455.24411pt x 289.12836pt.
- [17 <./Figuras/CodeBehindMainPage.png>] <./Figuras/CodigoMainViewModel.png, id
-=77, 442.65375pt x 543.53062pt>
+ [16 <./Figuras/CodigoMainPage.png> <./Figuras/CodeBehindMainPage.png>]
+<./Figuras/CodigoMainViewModel.png, id=70, 442.65375pt x 543.53062pt>
 File: ./Figuras/CodigoMainViewModel.png Graphic file (type png)
 
 <use ./Figuras/CodigoMainViewModel.png>
 Package pdftex.def Info: ./Figuras/CodigoMainViewModel.png used on input line 1
-29.
+31.
 (pdftex.def)             Requested size: 227.62206pt x 279.50256pt.
 
-<./Figuras/CodigoMainViewModel2.png, id=78, 491.58656pt x 517.935pt>
+<./Figuras/CodigoMainViewModel2.png, id=71, 491.58656pt x 517.935pt>
 File: ./Figuras/CodigoMainViewModel2.png Graphic file (type png)
 
 <use ./Figuras/CodigoMainViewModel2.png>
 Package pdftex.def Info: ./Figuras/CodigoMainViewModel2.png used on input line 
-139.
+141.
 (pdftex.def)             Requested size: 227.62206pt x 239.82568pt.
- [18 <./Figuras/CodigoBaseViewModel.png>]
+ [17 <./Figuras/CodigoBaseViewModel.png>]
 
-LaTeX Warning: Text page 19 contains only floats.
+LaTeX Warning: Text page 18 contains only floats.
 
-[19 <./Figuras/CodigoMainViewModel.png> <./Figuras/CodigoMainViewModel2.png>]
-[20] <./Figuras/patesco.png, id=89, 765.6103pt x 373.395pt>
+[18 <./Figuras/CodigoMainViewModel.png> <./Figuras/CodigoMainViewModel2.png>]
+[19] <./Figuras/patesco.png, id=82, 765.6103pt x 373.395pt>
 File: ./Figuras/patesco.png Graphic file (type png)
 
 <use ./Figuras/patesco.png>
-Package pdftex.def Info: ./Figuras/patesco.png used on input line 159.
+Package pdftex.def Info: ./Figuras/patesco.png used on input line 161.
 (pdftex.def)             Requested size: 318.66948pt x 155.41753pt.
- [21 <./Figuras/patesco.png>]) [22]
+ [20 <./Figuras/patesco.png>]) [21]
 \openout2 = `./Capitulos/capitulo3.aux'.
 
 
 (Capitulos/capitulo3.tex
 Cap\'{\i }tulo 3.
-<./Figuras/Proposta.png, id=97, 761.84625pt x 352.31625pt>
+<./Figuras/Proposta.png, id=90, 761.84625pt x 352.31625pt>
 File: ./Figuras/Proposta.png Graphic file (type png)
 
 <use ./Figuras/Proposta.png>
 Package pdftex.def Info: ./Figuras/Proposta.png used on input line 9.
 (pdftex.def)             Requested size: 409.71692pt x 189.4738pt.
- [23
+ [22
 
 
 
@@ -666,7 +638,12 @@ Package pdftex.def Info: ./Figuras/Proposta.png used on input line 9.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 52.
 
-) [24] [25] (modelo_utfpr.bbl
+
+Overfull \hbox (82.83374pt too wide) in paragraph at lines 56--72
+ [][] 
+ []
+
+) [23] [24] (modelo_utfpr.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 66--70
 []\OT1/ptm/m/n/12 C#. Mi-cro-soft C#. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/
 12 <$\OT1/ptm/m/n/12 https://docs.microsoft.com/en-
@@ -703,146 +680,151 @@ Underfull \hbox (badness 4001) in paragraph at lines 121--124
 17 Q1\OT1/ptm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
-[26
+[25
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 158--162
-[]\OT1/ptm/m/n/12 MICROSFT. WPF. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$
-\OT1/ptm/m/n/12 https://msdn.microsoft.com/pt-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--169
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 []\OT1/ptm/m/n/12 MICROSOFT. Mi-cro-soft. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 https://www.microsoft.com/pt-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 178--182
+Underfull \hbox (badness 1838) in paragraph at lines 177--181
 []\OT1/ptm/m/n/12 MICROSOFT. MVVM Pat-tern. 2017. Dis-pon[]vel em: $\OML/ztmcm
 /m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--201
+Underfull \hbox (badness 10000) in paragraph at lines 196--200
 []\OT1/ptm/m/n/12 MICROSOFT. Unit Tes-ting Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (8.9352pt too wide) in paragraph at lines 197--201
+Overfull \hbox (8.9352pt too wide) in paragraph at lines 196--200
 \OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://msdn.microsoft.com/en-us/library/m
 s243147%28vs.80%29.aspx?f=255&MSPPError=-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 204--206
+Underfull \hbox (badness 1478) in paragraph at lines 203--205
 []\OT1/ptm/m/n/12 MICROSOFT. \OT1/ptm/b/n/12 Vi-sual Stu-dio\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://www.visual
 studio.com/pt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--217
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+[]\OT1/ptm/m/n/12 MICROSOFT. WPF. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <
+$\OT1/ptm/m/n/12 https://msdn.microsoft.com/pt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 []\OT1/ptm/m/n/12 MYAPPCONVERTER. \OT1/ptm/b/n/12 MyApp-Con-ver-ter\OT1/ptm/m/n
 /12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--228
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
 []\OT1/ptm/m/n/12 .NETFRAMEWORK. .Net Fra-mework. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--235
+Underfull \hbox (badness 10000) in paragraph at lines 237--241
 []\OT1/ptm/m/n/12 NICOLI, L. \OT1/ptm/b/n/12 En-ten-dendo Xa-ma-rin.Forms\OT1/p
 tm/m/n/12 . 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 231--235
+Underfull \hbox (badness 2237) in paragraph at lines 237--241
 \OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://www.lambda3.com.br/2017/04/entende
 ndo-xamarin-forms/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . Acesso em: 09 de
  []
 
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 []\OT1/ptm/m/n/12 PRESSMAN, R. S. \OT1/ptm/b/n/12 Soft-ware En-gi-ne-e-ring A P
 rac-ti-ti-o-ner's Ap-pro-ach 7th
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 \OT1/ptm/b/n/12 Ed - Ro-ger S. Pres-s-man\OT1/ptm/m/n/12 . [s.n.], 2009. 0 p. I
 SSN 1098-6596. ISBN 978-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--249
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
 \OT1/ptm/m/n/12 0-07-337597-7. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm
 /m/n/12 http://dinus.ac.id/repository/docs/ajar/RPL-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 252--257
+Underfull \hbox (badness 1838) in paragraph at lines 258--263
 []\OT1/ptm/m/n/12 ROSE, P. \OT1/ptm/b/n/12 Xa-ma-rin {Why we like it, Why Mi-cr
 o-soft bought it\OT1/ptm/m/n/12 . 2016. Dis-pon[]vel
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 252--257
+Underfull \hbox (badness 1694) in paragraph at lines 258--263
 \OT1/ptm/m/n/12 em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://www.linkedin.
 com/pulse/xamarin-why-we-like-microsoft-bought-peter-rose/$\OML/ztmcm/m/it/12 >
 $\OT1/ptm/m/n/12 .
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 260--263
+Underfull \hbox (badness 1242) in paragraph at lines 266--269
 []\OT1/ptm/m/n/12 SA[]UDE, M. da. \OT1/ptm/b/n/12 IMC\OT1/ptm/m/n/12 . 2017. Di
 s-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 http://portalsaude.saude.
 gov.br/dicas-de-
  []
 
 
-Overfull \hbox (46.19571pt too wide) in paragraph at lines 266--269
+Overfull \hbox (46.19571pt too wide) in paragraph at lines 272--275
 []\OT1/ptm/m/n/12 SELENIUM. Se-le-niumHQ. 2017. Dis-pon[]vel em: $\OML/ztmcm/m
 /it/12 <$\OT1/ptm/m/n/12 http://www.seleniumhq.org/docs/03[]webdriver.jsp$\OML/
 ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (21.16333pt too wide) in paragraph at lines 283--286
+Underfull \hbox (badness 10000) in paragraph at lines 284--287
+[]\OT1/ptm/m/n/12 W3C. XML Path Lan-guage (XPath). 2016. Dis-pon[]vel em:
+ []
+
+
+Overfull \hbox (21.16333pt too wide) in paragraph at lines 295--298
 []\OT1/ptm/m/n/12 XAMARIN. \OT1/ptm/b/n/12 Xa-ma-rin Stu-dio\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/cross-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--292
+Underfull \hbox (badness 10000) in paragraph at lines 301--304
 []\OT1/ptm/m/n/12 XAMARIN.ANDROID. Xa-ma-rin.Android. 2017. Dis-pon[]vel em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--298
+Underfull \hbox (badness 10000) in paragraph at lines 307--310
 []\OT1/ptm/m/n/12 XAMARIN.FORMS. Xa-ma-rin.Forms. 2017. Dis-pon[]vel em:
  []
 
 
-Overfull \hbox (31.21912pt too wide) in paragraph at lines 301--303
+Overfull \hbox (31.21912pt too wide) in paragraph at lines 313--315
 []\OT1/ptm/m/n/12 XAMARIN.IOS. \OT1/ptm/b/n/12 Xa-ma-rin.iOS\OT1/ptm/m/n/12 . 2
 017. Dis-pon[]vel em: $\OML/ztmcm/m/it/12 <$\OT1/ptm/m/n/12 https://developer.
 xamarin.com/guides/ios/$\OML/ztmcm/m/it/12 >$\OT1/ptm/m/n/12 . 
  []
 
 
-Overfull \hbox (11.80353pt too wide) in paragraph at lines 306--310
+Overfull \hbox (11.80353pt too wide) in paragraph at lines 318--322
 []\OT1/ptm/m/n/12 XAML. Xa-ma-rin XAML. 2017. Dis-pon[]vel em: $\OML/ztmcm/m/i
 t/12 <$\OT1/ptm/m/n/12 https://developer.xamarin.com/guides/xamarin-
  []
 
 ) 
 AED: lastpage setting LastPage
-[28]
+[27]
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
@@ -850,22 +832,22 @@ AED: lastpage setting LastPage
 (modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux)
 (Capitulos/capitulo3.aux)) ) 
 Here is how much of TeX's memory you used:
- 5253 strings out of 493323
- 72809 string characters out of 3139060
- 177746 words of memory out of 3000000
- 8572 multiletter control sequences out of 15000+200000
- 37863 words of font info for 83 fonts, out of 3000000 for 9000
+ 5250 strings out of 493323
+ 72791 string characters out of 3139060
+ 165826 words of memory out of 3000000
+ 8573 multiletter control sequences out of 15000+200000
+ 35171 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,19n,45p,1902b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,18n,45p,1902b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
 r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (29 pages, 803144 bytes).
+Output written on modelo_utfpr.pdf (28 pages, 510462 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
+ 130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
