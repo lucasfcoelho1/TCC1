@@ -1,51 +1,72 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  16 OCT 2017 12:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.10)  11 DEC 2017 03:10
 entering extended mode
 **./modelo_utfpr.tex
 (modelo_utfpr.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 (normas-utf-tex.cls (cvs-id.def)
 Document Class: normas-utf-tex 2011/06/19 v2.0
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/05/19 3.10 The Babel package
 
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\
+babel.sty"
+Package: babel 2017/11/03 3.15 The Babel package
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\
+switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bb
+lopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuges.
-ldf
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-po
+rtuges\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/05/19 3.10 Babel common definitions
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\
+babel.def"
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\
+switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
 \babel@savecnt=\count79
 \U@D=\dimen102
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inp
+utenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\lat
+in1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ift
+hen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\lastpage\lastpage.sty
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage
+\lastpage.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\bigfoot\perpage.sty
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\
+perpage.sty"
 Package: perpage 2014/10/25 2.0 Reset/sort counters per page
 \c@abspage=\count80
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr
+\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip41
@@ -58,24 +79,19 @@ s
 \f@nch@O@olf=\skip48
 \f@nch@O@orf=\skip49
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\x
+color.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count81
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -86,33 +102,35 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (abnt.cls
-(cvs-id.def)
+) (abnt.cls (cvs-id.def)
 Document Class: abnt 2006/09/09 v1.32 Classe abnt (NBR6024, NBR6027, NBR6028, N
 BR14724)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\ca
+lc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count82
-\calc@Bcount=\count83
+\calc@Acount=\count81
+\calc@Bcount=\count82
 \calc@Adimen=\dimen103
 \calc@Bdimen=\dimen104
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count84
+\calc@Ccount=\count83
 \calc@Cskip=\skip52
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\mu
+lticol.sty"
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count85
+\c@tracingmulticols=\count84
 \mult@box=\box26
 \multicol@leftmargin=\dimen105
-\c@unbalance=\count86
-\c@collectmore=\count87
-\doublecol@number=\count88
-\multicoltolerance=\count89
-\multicolpretolerance=\count90
+\c@unbalance=\count85
+\c@collectmore=\count86
+\doublecol@number=\count87
+\multicoltolerance=\count88
+\multicolpretolerance=\count89
 \full@width=\dimen106
 \page@free=\dimen107
 \premulticols=\dimen108
@@ -143,34 +161,35 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\c@columnbadness=\count91
-\c@finalcolumnbadness=\count92
+\c@columnbadness=\count90
+\c@finalcolumnbadness=\count91
 \last@try=\dimen111
 \multicolovershoot=\dimen112
 \multicolundershoot=\dimen113
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
-\mc@col@check@num=\count93
-) (abntex-abrev.sty
-(cvs-id.def)
+\mc@col@check@num=\count92
+) (abntex-abrev.sty (cvs-id.def)
 Package: abntex-abrev 2005/11/14 v1.4 Abreviacoes
  (nbr10522-1988.def (cvs-id.def)
 File: nbr10522-1988.def 2003/10/13 v1.2 Abreviacoes bibliograficas (NBR10522:19
 88)
-) (abntex-abrev-pt_BR.def
-(cvs-id.def)
+)
+(abntex-abrev-pt_BR.def (cvs-id.def)
 File: abntex-abrev-pt_BR.def 2005/11/14 v1.3 definicao de abntex-abrev, traduca
 o de termos en_US/pt_BR
 )) (abntex-text.sty (cvs-id.def)
 Package: abntex-text 2005/11/14 v1.1 abnTeX text replacements
- (abntex-text-pt_BR.def (cvs-id.def)
+
+(abntex-text-pt_BR.def (cvs-id.def)
 File: abntex-text-pt_BR.def 2005/12/21 v1.2 Definicao de nomes em Portugues/Bra
 sil (pt_BR)
 )) (abntex-default-design.sty (cvs-id.def)
 Package: abntex-default-design 2005/06/22 v1.2 Definicoes de design padrao do a
 bntex
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\
+relsize.sty"
 Package: relsize 2003/07/04 ver 3.1
 
 
@@ -183,28 +202,33 @@ Package relsize Warning: Failed to get list of font sizes.
 \ABNTsignthickness=\skip57
 \ABNTsignskip=\skip58
 ) (nbr6027-1989.def) (nbr14724-2001.def)
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\rep
+ort.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\siz
+e12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count94
-\c@chapter=\count95
-\c@section=\count96
-\c@subsection=\count97
-\c@subsubsection=\count98
-\c@paragraph=\count99
-\c@subparagraph=\count100
-\c@figure=\count101
-\c@table=\count102
+\c@part=\count93
+\c@chapter=\count94
+\c@section=\count95
+\c@subsection=\count96
+\c@subsubsection=\count97
+\c@paragraph=\count98
+\c@subparagraph=\count99
+\c@figure=\count100
+\c@table=\count101
 \abovecaptionskip=\skip59
 \belowcaptionskip=\skip60
 \bibindent=\dimen114
 )
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace
+\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\m
+athptmx.sty"
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -240,26 +264,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\h
+elvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\in
+dentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ))
-\c@absfigure=\count103
-\c@abstable=\count104
-\c@absequation=\count105
+\c@absfigure=\count102
+\c@abstable=\count103
+\c@absequation=\count104
 ) (abntcite.sty (cvs-id.def)
 Package: abntcite 2006/04/25 v1.30 Chamadas de referencias no texto (NBR10520, 
 NBR10522)
 \minimumbiblabelwidth=\skip61
 \ABCIauxlen=\skip62
-\c@ABCIaux=\count106
-\c@ABCImax=\count107
+\c@ABCIaux=\count105
+\c@ABCImax=\count106
  (nbr10520-2002.def (cvs-id.def)
 File: nbr10520-2002.def 2006/04/25 v1.4 Definicoes para abntcite (NBR10520:2002
 )
@@ -269,51 +296,58 @@ LaTeX Info: Redefining \newblock on input line 466.
 LaTeX Info: Redefining \cite on input line 493.
 \ABCItoken=\toks17
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\lo
+ngtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip64
 \LTright=\skip65
 \LTpre=\skip66
 \LTpost=\skip67
-\LTchunksize=\count108
+\LTchunksize=\count107
 \LTcapwidth=\dimen115
 \LT@head=\box52
 \LT@firsthead=\box53
 \LT@foot=\box54
 \LT@lastfoot=\box55
-\LT@cols=\count109
-\LT@rows=\count110
-\c@LT@tables=\count111
-\c@LT@chunks=\count112
+\LT@cols=\count108
+\LT@rows=\count109
+\c@LT@tables=\count110
+\c@LT@chunks=\count111
 \LT@p@ftn=\toks18
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/11/05 v2.16a AMS math features
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\
+amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip68
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\
+amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\
+amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen116
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\
+amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen117
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\
+amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count113
+\inf@bad=\count112
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count114
-\leftroot@=\count115
+\uproot@=\count113
+\leftroot@=\count114
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count116
-\DOTSCASE@=\count117
+\classnum@=\count115
+\DOTSCASE@=\count116
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -322,15 +356,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen118
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count118
-\c@MaxMatrixCols=\count119
+\macc@depth=\count117
+\c@MaxMatrixCols=\count118
 \dotsspace@=\muskip10
-\c@parentequation=\count120
-\dspbrk@lvl=\count121
+\c@parentequation=\count119
+\dspbrk@lvl=\count120
 \tag@help=\toks20
-\row@=\count122
-\column@=\count123
-\maxfields@=\count124
+\row@=\count121
+\column@=\count122
+\maxfields@=\count123
 \andhelp@=\toks21
 \eqnshift@=\dimen119
 \alignsep@=\dimen120
@@ -345,26 +379,32 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts
+\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup6
 \symAMSb=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts
+\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics
+-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -372,10 +412,11 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t
+imes.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) (modelo_utfpr.aux
-(Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux) (Capitulos/capitulo3.aux))
+) (modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux) (Capitu
+los/capitulo3.aux))
 \openout1 = `modelo_utfpr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -392,35 +433,78 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 74.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+t1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 74.
 
-(C:\Users\Priihmo\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\s
+upp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count125
+\scratchcounter=\count124
 \scratchdimen=\dimen127
 \scratchbox=\box58
-\nofMPsegments=\count126
-\nofMParguments=\count127
+\nofMPsegments=\count125
+\nofMParguments=\count126
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count128
+\MPscratchCnt=\count127
 \MPscratchDim=\dimen128
-\MPnumerator=\count129
-\makeMPintoPDFobject=\count130
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
 \everyMPtoPDFconversion=\toks25
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek
+\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek
+\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek
+\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdi
+ek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -428,32 +512,10 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -462,25 +524,29 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 76
 .
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+t1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 76
 .
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+mlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 76
 .
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+msztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 76
 .
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+mxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -491,7 +557,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [1] [1
+{C:/Users/lucas.fernandes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [
+1] [1
 
 
 ] (modelo_utfpr.toc)
@@ -504,8 +571,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ]
 \openout2 = `./Capitulos/capitulo1.aux'.
 
-
-(Capitulos/capitulo1.tex
+ (Capitulos/capitulo1.tex
 Cap\'{\i }tulo 1.
 [4
 
@@ -520,116 +586,123 @@ Cap\'{\i }tulo 2.
 
 
 
-] [8] <./Figuras/XamarinEspecific.jpg, id=33, 649.42625pt x 371.3875pt>
+] [8]
+<./Figuras/XamarinEspecific.jpg, id=33, 649.42625pt x 371.3875pt>
 File: ./Figuras/XamarinEspecific.jpg Graphic file (type jpg)
-
 <use ./Figuras/XamarinEspecific.jpg>
-Package pdftex.def Info: ./Figuras/XamarinEspecific.jpg used on input line 32.
-(pdftex.def)             Requested size: 409.71692pt x 234.3097pt.
+Package pdftex.def Info: ./Figuras/XamarinEspecific.jpg  used on input line 34.
+ on input line 34.
+Package pdftex.def Info: Requested size: 409.71692pt x 234.3097pt on input line
+ 34.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
- [9]
-<./Figuras/XamarinForms.png, id=37, 436.63126pt x 256.96pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+ [9] [10 <./Figuras/XamarinEspecific.jpg>]
+<./Figuras/XamarinForms.png, id=40, 436.63126pt x 256.96pt>
 File: ./Figuras/XamarinForms.png Graphic file (type png)
-
 <use ./Figuras/XamarinForms.png>
-Package pdftex.def Info: ./Figuras/XamarinForms.png used on input line 46.
-(pdftex.def)             Requested size: 364.19667pt x 214.33145pt.
- [10 <./Figuras/XamarinEspecific.jpg>]
+Package pdftex.def Info: ./Figuras/XamarinForms.png  used on input line 48. on 
+input line 48.
+Package pdftex.def Info: Requested size: 364.19667pt x 214.33145pt on input lin
+e 48.
 <./Figuras/TelaInicialApp.png, id=42, 242.433pt x 430.992pt>
 File: ./Figuras/TelaInicialApp.png Graphic file (type png)
-
 <use ./Figuras/TelaInicialApp.png>
-Package pdftex.def Info: ./Figuras/TelaInicialApp.png used on input line 60.
-(pdftex.def)             Requested size: 227.62206pt x 404.67876pt.
+Package pdftex.def Info: ./Figuras/TelaInicialApp.png  used on input line 62. o
+n input line 62.
+Package pdftex.def Info: Requested size: 227.62206pt x 404.67876pt on input lin
+e 62.
  [11 <./Figuras/XamarinForms.png>] [12 <./Figuras/TelaInicialApp.png>] [13]
 <./Figuras/SolutionExplorer.png, id=55, 243.15843pt x 268.00125pt>
 File: ./Figuras/SolutionExplorer.png Graphic file (type png)
-
 <use ./Figuras/SolutionExplorer.png>
-Package pdftex.def Info: ./Figuras/SolutionExplorer.png used on input line 77.
-(pdftex.def)             Requested size: 227.62206pt x 250.8784pt.
-
+Package pdftex.def Info: ./Figuras/SolutionExplorer.png  used on input line 79.
+ on input line 79.
+Package pdftex.def Info: Requested size: 227.62206pt x 250.8784pt on input line
+ 79.
 <./Figuras/CodigoAppCS.png, id=56, 536.75531pt x 553.31718pt>
 File: ./Figuras/CodigoAppCS.png Graphic file (type png)
-
 <use ./Figuras/CodigoAppCS.png>
-Package pdftex.def Info: ./Figuras/CodigoAppCS.png used on input line 87.
-(pdftex.def)             Requested size: 227.62206pt x 234.64589pt.
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 97.
+Package pdftex.def Info: ./Figuras/CodigoAppCS.png  used on input line 89. on i
+nput line 89.
+Package pdftex.def Info: Requested size: 227.62206pt x 234.64589pt on input lin
+e 89.
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptm.fd"
+("C:\Users\lucas.fernandes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\o
+mlptm.fd"
 File: omlptm.fd 
 )
 LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 97.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 99.
  [14 <./Figuras/SolutionExplorer.png>]
 <./Figuras/CodigoMainPage.png, id=60, 776.14969pt x 507.39563pt>
 File: ./Figuras/CodigoMainPage.png Graphic file (type png)
-
 <use ./Figuras/CodigoMainPage.png>
-Package pdftex.def Info: ./Figuras/CodigoMainPage.png used on input line 101.
-(pdftex.def)             Requested size: 364.19667pt x 238.08887pt.
-
+Package pdftex.def Info: ./Figuras/CodigoMainPage.png  used on input line 103. 
+on input line 103.
+Package pdftex.def Info: Requested size: 364.19667pt x 238.08887pt on input lin
+e 103.
 <./Figuras/CodeBehindMainPage.png, id=61, 407.27156pt x 212.29312pt>
 File: ./Figuras/CodeBehindMainPage.png Graphic file (type png)
-
 <use ./Figuras/CodeBehindMainPage.png>
-Package pdftex.def Info: ./Figuras/CodeBehindMainPage.png used on input line 11
-2.
-(pdftex.def)             Requested size: 364.19667pt x 189.84729pt.
+Package pdftex.def Info: ./Figuras/CodeBehindMainPage.png  used on input line 1
+14. on input line 114.
+Package pdftex.def Info: Requested size: 364.19667pt x 189.84729pt on input lin
+e 114.
  [15 <./Figuras/CodigoAppCS.png>]
 <./Figuras/CodigoBaseViewModel.png, id=66, 763.35187pt x 484.81125pt>
 File: ./Figuras/CodigoBaseViewModel.png Graphic file (type png)
-
 <use ./Figuras/CodigoBaseViewModel.png>
-Package pdftex.def Info: ./Figuras/CodigoBaseViewModel.png used on input line 1
-21.
-(pdftex.def)             Requested size: 455.24411pt x 289.12836pt.
+Package pdftex.def Info: ./Figuras/CodigoBaseViewModel.png  used on input line 
+123. on input line 123.
+Package pdftex.def Info: Requested size: 455.24411pt x 289.12836pt on input lin
+e 123.
  [16 <./Figuras/CodigoMainPage.png> <./Figuras/CodeBehindMainPage.png>]
 <./Figuras/CodigoMainViewModel.png, id=70, 442.65375pt x 543.53062pt>
 File: ./Figuras/CodigoMainViewModel.png Graphic file (type png)
-
 <use ./Figuras/CodigoMainViewModel.png>
-Package pdftex.def Info: ./Figuras/CodigoMainViewModel.png used on input line 1
-31.
-(pdftex.def)             Requested size: 227.62206pt x 279.50256pt.
-
+Package pdftex.def Info: ./Figuras/CodigoMainViewModel.png  used on input line 
+133. on input line 133.
+Package pdftex.def Info: Requested size: 227.62206pt x 279.50256pt on input lin
+e 133.
 <./Figuras/CodigoMainViewModel2.png, id=71, 491.58656pt x 517.935pt>
 File: ./Figuras/CodigoMainViewModel2.png Graphic file (type png)
-
 <use ./Figuras/CodigoMainViewModel2.png>
-Package pdftex.def Info: ./Figuras/CodigoMainViewModel2.png used on input line 
-141.
-(pdftex.def)             Requested size: 227.62206pt x 239.82568pt.
- [17 <./Figuras/CodigoBaseViewModel.png>]
+Package pdftex.def Info: ./Figuras/CodigoMainViewModel2.png  used on input line
+ 143. on input line 143.
+Package pdftex.def Info: Requested size: 227.62206pt x 239.82568pt on input lin
+e 143.
+
+[17 <./Figuras/CodigoBaseViewModel.png>]
 
 LaTeX Warning: Text page 18 contains only floats.
 
 [18 <./Figuras/CodigoMainViewModel.png> <./Figuras/CodigoMainViewModel2.png>]
-[19] <./Figuras/patesco.png, id=82, 765.6103pt x 373.395pt>
+[19]
+<./Figuras/patesco.png, id=82, 765.6103pt x 373.395pt>
 File: ./Figuras/patesco.png Graphic file (type png)
-
 <use ./Figuras/patesco.png>
-Package pdftex.def Info: ./Figuras/patesco.png used on input line 161.
-(pdftex.def)             Requested size: 318.66948pt x 155.41753pt.
+Package pdftex.def Info: ./Figuras/patesco.png  used on input line 163. on inpu
+t line 163.
+Package pdftex.def Info: Requested size: 318.66948pt x 155.41753pt on input lin
+e 163.
  [20 <./Figuras/patesco.png>]) [21]
 \openout2 = `./Capitulos/capitulo3.aux'.
 
-
-(Capitulos/capitulo3.tex
+ (Capitulos/capitulo3.tex
 Cap\'{\i }tulo 3.
 <./Figuras/Proposta.png, id=90, 761.84625pt x 352.31625pt>
 File: ./Figuras/Proposta.png Graphic file (type png)
-
 <use ./Figuras/Proposta.png>
-Package pdftex.def Info: ./Figuras/Proposta.png used on input line 9.
-(pdftex.def)             Requested size: 409.71692pt x 189.4738pt.
- [22
+Package pdftex.def Info: ./Figuras/Proposta.png  used on input line 9. on input
+ line 9.
+Package pdftex.def Info: Requested size: 409.71692pt x 189.4738pt on input line
+ 9.
+[22
 
 
 
@@ -639,7 +712,7 @@ LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 52.
 
 
-Overfull \hbox (82.83374pt too wide) in paragraph at lines 56--72
+Overfull \hbox (82.83374pt too wide) in paragraph at lines 55--71
  [][] 
  []
 
@@ -832,20 +905,22 @@ AED: lastpage setting LastPage
 (modelo_utfpr.aux (Capitulos/capitulo1.aux) (Capitulos/capitulo2.aux)
 (Capitulos/capitulo3.aux)) ) 
 Here is how much of TeX's memory you used:
- 5250 strings out of 493323
- 72791 string characters out of 3139060
- 165826 words of memory out of 3000000
- 8573 multiletter control sequences out of 15000+200000
+ 5239 strings out of 493312
+ 77809 string characters out of 3125476
+ 162618 words of memory out of 3000000
+ 8567 multiletter control sequences out of 15000+200000
  35171 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,18n,45p,1902b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
-r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/times/utmri8a.pfb>
-Output written on modelo_utfpr.pdf (28 pages, 510462 bytes).
+ 41i,18n,45p,1902b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/lucas.fernandes/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/lucas.fernandes/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lucas.fer
+nandes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb><C:/Users/lucas.fernandes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/times/utmb8a.pfb><C:/Users/lucas.fernandes/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/times/utmr8a.pfb><C:/Users/lucas.fernandes/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on modelo_utfpr.pdf (28 pages, 510509 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
